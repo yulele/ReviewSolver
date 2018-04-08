@@ -1,0 +1,539 @@
+com.andrewshu.android.reddit#60001:	  This was the most used app on my phone... then it always has a log in error. Sucks... it was a great app. If it doesn't get fixed soon, I'll delete the app. 
+com.andrewshu.android.reddit#60007:	  Never had any problems 
+com.andrewshu.android.reddit#60015:	  Great app, latest update has messed it up though. Won't load, won't sign me in, can't get permission access to log into account. First time in years this has happened. 
+com.andrewshu.android.reddit#60018:	  Has a popup that bugs you to rate the app. So here it is. Works very well. 
+com.andrewshu.android.reddit#60033:	  Overall decent reddit browser with some issues. Signs me out constantly. Doesn't remember accounts anymore. This gets to be very annoying. Sometimes it will crash but not often. 
+com.andrewshu.android.reddit#60046:	  Previous problems got resolved nice app! 
+com.andrewshu.android.reddit#60055:	  App won't load after most recent update. 
+com.andrewshu.android.reddit#60057:	  Better than the official reddit app. It crashes less too. 
+com.andrewshu.android.reddit#60059:	  Great app been using it for a while now. Glad to see Gyfcat issue fixed. Now I'm having issues loading self posts and comments on WiFi when logged in. 
+com.andrewshu.android.reddit#60082:	  Keeps crashing 
+com.andrewshu.android.reddit#60090:	  Using it everday, can't use my phone without this app anymore 
+com.andrewshu.android.reddit#60097:	  Occasional issues loading images from gfycat in the past. It has gone away on other phones after a while, but it just came back after getting my Pixel. 
+com.andrewshu.android.reddit#60108:	  Easy to navigate. I can login from multiple accounts easily. Occasionally it won't load content, however it doesn't happen too often. Edit: Broke imgur links with the latest patch on a Google Pixel. How can this happen? You had one job... 
+com.andrewshu.android.reddit#60117:	  I tried the official app first, and found it riddled with crashes. This app is definitely more polished. 
+com.andrewshu.android.reddit#60119:	  The app crashes every single time I use it. If a page doesn't load within 3 seconds you have to just close it because it will crash anyway 
+com.andrewshu.android.reddit#60135:	  Unstable, crashes often, plays gfys and gifs maybe 20% of the time. 
+com.andrewshu.android.reddit#60139:	  Why does it keep on stopping for? This problem has persisted time and time again. Getting rather annoying. 
+com.andrewshu.android.reddit#60147:	  About 1/4 of the pages don't load on my phone. But I think it's due to the galaxy s4 being slightly dated 
+com.andrewshu.android.reddit#60158:	  Is constantly crashing now for no apparent reason 
+com.andrewshu.android.reddit#60190:	  Stopped working out of the blue after months of no issues. Reinstalling and logging in didn't fix. No clear answer as to what's causing the problem 
+com.andrewshu.android.reddit#60197:	  Latest update keeps crashing on image save!!!! 
+com.andrewshu.android.reddit#60200:	  Solid Reddit app, easier to get to the subreddit I want. Some links don't work. Navigation is oftentimes unintuitive. 
+com.andrewshu.android.reddit#60214:	  When I sign in I can't post anything comes up with an error. After signing in no new pages load either. Renders app useless. Emailed developers months ago and got no reply. 
+com.andrewshu.android.reddit#60216:	  Mostly a good app but the constant crashing when opening/loading Imgur albums ruins it. 
+com.andrewshu.android.reddit#60234:	  Did something happen recently that all of a sudden my parent and child comment chains are all screwed up? I used to be able to follow, but now I'll read a comment and directly below it is one 3 "childs" away (ie I see 3 lines and no comments in those lines, causing the text to just jut out suddenly), then after that it reverts back to a comment 4 or so "parents" in. Can't seem to fix it and it's ruining my experience. 
+com.andrewshu.android.reddit#60265:	  Very good app, been using it for a few years. Only now recent updates have messed with how the comments are shown, certain comments show up under the wrong parent comment, etc. Don't know how to fix it. 
+com.andrewshu.android.reddit#60269:	  Like Sync for Reddit, this app handles comment searching atrociously. I like that "Find comment" is easily available in the three dot menu. But search terms don't get highlighted and in Landscape mode the search bar input field takes up the entire screen. Why? Why is it so difficult for reddit browsing apps to implement a half- decent comment searching function? 
+com.andrewshu.android.reddit#60274:	  Please start it up on the subreddit I have it set up to and not saved 
+com.andrewshu.android.reddit#60278:	  Definitely a great all around reddit app. It has the best UI by far. My only two issues is that the subreddit search only takes you to the subreddit specified (if I search for civ it takes me to the civ subreddit instead instead of letting me chose between 5 and 6) And that it doesn't work well with some gifs. It only loads a few frames of the gif then permanently freezes. 
+com.andrewshu.android.reddit#60285:	  On my home network, it won't load. This is only on WiFi that it causes problems. 5/5 when it's fixed. Phone is a Galaxy S5. 
+com.andrewshu.android.reddit#60286:	  The inappropriate browser is a joke. I'm on a stock Nexus 6p and the only way to see a picture is to hope a low-res preview loads, or to open in browser. So clicking on an imgur link to open an album doesn't load anything until it's opened in browser. Articles, albums, etc. are all useless. 
+com.andrewshu.android.reddit#60291:	  I used to love it but a recent update made it very slow to load threads and subreddits. Once fixed it will be 5 stars again. 
+com.andrewshu.android.reddit#60292:	  Frequently crashes. This app was great for several years, but it's frustrating to use now. Look elsewhere. 
+com.andrewshu.android.reddit#60297:	  Since the latest update, it crashes more often than not. I'm using a Samsung Galaxy J7 (2015) and this didn't happen at all before. Please fix it! 
+com.andrewshu.android.reddit#60301:	  The browser crashes with any post above 20 pics. Gifs are coin toss with seeing them to the end. The browser is weak compared to any standalone option 
+com.andrewshu.android.reddit#60302:	  Multiple crashes today. Not sure what's wrong. **Still crashing multiple times a day. 
+com.andrewshu.android.reddit#60314:	  Doesn't load anything when logged in, and now recently the front page view is just /r/all 
+com.andrewshu.android.reddit#60318:	  Good app, could use some more fixing. 
+com.andrewshu.android.reddit#60325:	  Great app, gfycat links aren't loading as of February 19th though. 
+com.andrewshu.android.reddit#60337:	  It works very well. I've never had any problems with it. 
+com.andrewshu.android.reddit#60341:	  Always works, and has a great widget for perusing Reddit. Easy to use, does everything I need for free, rarely if ever do I have a technical problem. Also has been around for a while. First thing I install on a new phone. 5 stars. Only downside is sometimes gifs don't load right. But that's rare. 
+com.andrewshu.android.reddit#60348:	  I've used this app for years, literally. it just recently it stopped loading gfycat content. =( 
+com.andrewshu.android.reddit#60352:	  Seems to crash slightly less nowadays, though it still does too often. Failure to load content is also a major problem. I'm giving up on this app, there are others that work better 
+com.andrewshu.android.reddit#60363:	  Does reddit well enough. I don't access reddit any other way anymore, but I sure don't think it's missing anything. 
+com.andrewshu.android.reddit#60386:	  Well if the page is too big to load, it crashes, like how someone Post's how to build something and there are too many pictures, it crashes, other than that, it's perfect. 
+com.andrewshu.android.reddit#60387:	  I mean let's be honest. It is better than the official app and crashes once in a blue moon. My always go to app for Reddit. 
+com.andrewshu.android.reddit#60406:	  Sometimes the web pages don't work and I have to go to the browser; other times, the app completely freezes. 
+com.andrewshu.android.reddit#60408:	  New update is really bad. The app keeps crashing. 
+com.andrewshu.android.reddit#60438:	  3 years I've used this app and just now I'm having problems, very frequent crashes. 
+com.andrewshu.android.reddit#60452:	  Constant crashes every 10-20 minutes. I've tried reinstalling, restarting my phone, everything. Been using this app for about three years, but ever since reddit released their own app, this one has gone downhill 
+com.andrewshu.android.reddit#60462:	  Great app. Wouldn't use anything else. 
+com.andrewshu.android.reddit#60471:	  It works well and i can check messages. The original reddit app sucks, its slow, can see messages and other bugs 
+com.andrewshu.android.reddit#60473:	  Cards for images on WiFi only stopped working. 
+com.andrewshu.android.reddit#60474:	  Doesn't load anymore. 
+com.andrewshu.android.reddit#60481:	  Fix the imgur crash, please it's getting out of hand.. 
+com.andrewshu.android.reddit#60494:	  One question. Is there any way that the developers could implement a way to stop loading comments? So like if you click "load more comments" a second time it stops loading? 
+com.andrewshu.android.reddit#60495:	  Been using the app for 2 years now, can't find a flaw. Very recommended. 
+com.andrewshu.android.reddit#60498:	  Great app, crashes all the time though when loading outside links internally though. 
+com.andrewshu.android.reddit#60512:	  I've been recently experiencing crashes opening images. Sometimes it crashes when scrolling and just redirects to my inbox. Otherwise a pretty good app. 
+com.andrewshu.android.reddit#60523:	  Seems to crash a lot when opening photo albums 
+com.andrewshu.android.reddit#60528:	  I've been using it for many years now. Sure it had some problems, but nothing major that is worth mentioning, or I would remember. 
+com.andrewshu.android.reddit#60548:	  It's such a good app. But it crashes several times a day and looses my spot. 
+com.andrewshu.android.reddit#60549:	  Until I can reliably open gifs and images without it crashing (happens on all sizes) I'll be leaving this review a 1 star. Edit: still bugs out a lot when trying to open links. Wont even try to load them but i can open them in browsers just fine. 
+com.andrewshu.android.reddit#60553:	  Runs with less hassle than official version. Doesn't lock me out of subreddits or crash as often. Feels like an upgrade 
+com.andrewshu.android.reddit#60555:	  I have used this app for over a year and this latest iteration now includes banner ads and imgur links fail to load. I'm moving on. 
+com.andrewshu.android.reddit#60561:	  Gifs don't load. Crashing quite a bit 
+com.andrewshu.android.reddit#60562:	  Refuses to load gifs sometimes, internet definitely isn't the problem as they load immediately when opened in browser. Otherwise a fantastic app! 
+com.andrewshu.android.reddit#60573:	  Stopped loading anything, no longer working. 
+com.andrewshu.android.reddit#60587:	  I love this app to view reddit. It is much better than the official app. I rarely have issues and it let's me keep my favorite subreddits at the top. I will ashtrays always use this app for reddit. 
+com.andrewshu.android.reddit#60588:	  Not bad but will occasionally crash for no reason 
+com.andrewshu.android.reddit#60601:	  Not used it for long but what I have seen of it is great. 
+com.andrewshu.android.reddit#60613:	  I highly prefer this one over the "official" app which constantly crashes and fails to load. And I like the more classic look and feel of this one. Easier to navigate and more responsive. 
+com.andrewshu.android.reddit#60614:	  Saved feature doesn't work anymore 
+com.andrewshu.android.reddit#60618:	  Crashes constantly, otherwise it's fantastic. But what's not fantastic is losing where you were or what you were doing from it constantly crashing. Please fix this. 
+com.andrewshu.android.reddit#60631:	  The feature of having to manually mark inbox messages "read" is very annoying. Almost every time I get a message, I have to go through a three or four click process to ensure I don't get multiple notifications for the same message. If I open the inbox, all messages should automatically be marked as read. 
+com.andrewshu.android.reddit#60634:	  Can't get rid of all the malware when clicking web links. Uninstalled. 
+com.andrewshu.android.reddit#60644:	  Crashes constantly. 
+com.andrewshu.android.reddit#60645:	  I'm not able to login on any of my accounts on this app. I get the failed to retrieve info pop up. I am able to sign in just fine on a browser, my pc and different apps. I'm on a galaxy s7 with a fine Internet connection. Love this app but all of a sudden not being able to login sucks. 
+com.andrewshu.android.reddit#60649:	  Has ads. Do not download. 
+com.andrewshu.android.reddit#60651:	  Gifs don't work 
+com.andrewshu.android.reddit#60658:	  The only problem I have with it are occasional crashes. Other than that it's a very good app. 
+com.andrewshu.android.reddit#60667:	  Front page blank. Cannot open any subreddit. 
+com.andrewshu.android.reddit#60671:	  I like it, but it always crashes when loading multiple images from imgur. 
+com.andrewshu.android.reddit#60680:	  Delightfully simple and problem free 
+com.andrewshu.android.reddit#60681:	  Works better than the official app. I was having problems with the official app's speed, this was such a good switch to make. 
+com.andrewshu.android.reddit#60693:	  The browser itself is very handy Indeed and does the job right, although the UI can be a bit of a problem 
+com.andrewshu.android.reddit#60695:	  After jan 1 update, app keeps crashing and nothing comes close! 
+com.andrewshu.android.reddit#60716:	  Pages load very quick, much better than the official app, only issue is that inbox isn't great 
+com.andrewshu.android.reddit#60718:	  keeps crashing and freezing on gifs and albums 
+com.andrewshu.android.reddit#60720:	  Love the use through a few different phones. The creators respond to common issues the users have 
+com.andrewshu.android.reddit#60732:	  Good app but crashes all the time. 
+com.andrewshu.android.reddit#60734:	  Crashing has gotten worse 
+com.andrewshu.android.reddit#60738:	  Won't save settings. I hate the card layout and when I select it to be off it won't save, unless I'm logged out of my account 
+com.andrewshu.android.reddit#60759:	  Switched from the main Reddit app back to this one because I could not share non-reddit links from within the app. Instead, giving me the link to the comment threads. My friends don't care about what other people are saying about the gif I want to show them. Also, this app doesn't stop loading links for me for no apparent reason. Rock on RIF. 
+com.andrewshu.android.reddit#60778:	  Really good app if bugs don't ruin the experience some days. 
+com.andrewshu.android.reddit#60779:	  love this app but started crashing frequently when opening external links (imgur, youtube etc) please fix this issue asap! 
+com.andrewshu.android.reddit#60784:	  Best Android Reddit App!! Been using it since 2012. Won't use anything else! 
+com.andrewshu.android.reddit#60793:	  Crashes multiple times a day other than that it's great 
+com.andrewshu.android.reddit#60799:	  Having problems loading gfycat links. Please fix. 
+com.andrewshu.android.reddit#60820:	  Great for messaging, gives notifications when someone PMs you on Reddit. But the browser is only okay. Clicking on a post doesn't open the link or the text post, just brings up a little sub menu. 
+com.andrewshu.android.reddit#60825:	  Some gifs won't load 
+com.andrewshu.android.reddit#60830:	  The best free reddit app. I tried several, others either have obnoxious ads or don't have a dark theme or don't open gif links through gfycat or some other mp4/webm format. 
+com.andrewshu.android.reddit#60832:	   Easy to use and I haven't run into any problems with it yet. For sure prefer this over the official Reddit app. 
+com.andrewshu.android.reddit#60850:	  Good app. Crashes sometimes when viewing large imagr albums or .gif files. 
+com.andrewshu.android.reddit#60856:	  Good for navigating but submissions don't work for me 
+com.andrewshu.android.reddit#60859:	  Very useful. Some websites like The Guardian crash when accessed through the app, but 99% are just fine. 
+com.andrewshu.android.reddit#60866:	  Love this app, it's never given me problems as far as I'm concerned and it's just as useful as the desktop version of Reddit. :) 
+com.andrewshu.android.reddit#60868:	  Cannot load album images in this app now. Only two or three images get loaded up and a message "load remaining images" will be there. But the remaining images wont load. Fix this issue and i will give five stars 
+com.andrewshu.android.reddit#60877:	  Can't add any accounts to the app. There are so many issues with this app, they patch one and another pops up. I've been using this app for years - simply because there was no alternative - and it's frustrated me every single day for so long now. Finally I found a replacement for this terrible app. It's called Sync for Reddit. Please save yourself a lot of frustration and look it up. 
+com.andrewshu.android.reddit#60896:	  Still has major issues with imgur albums and gifycat. Going to switch apps soon if not addressed. 
+com.andrewshu.android.reddit#60901:	  Seems to stop loading /r/all once you get down to about 700 up votes. Hasn't always done this so hopefully be sorted soon as otherwise a great app. 
+com.andrewshu.android.reddit#60916:	  Constantly crashing 
+com.andrewshu.android.reddit#60924:	  The app itself is great, and I'm not sure if this is an isolated problem, but sometimes gifs just wont load even though I have a solid internet connection. It's like for 10 minutes, the app forgets how to communicate with the network or something. 
+com.andrewshu.android.reddit#60940:	  Mostly great but it crashes on imgur albums and some gifs too. If that gets fixed than it's a 5 every day. 
+com.andrewshu.android.reddit#60967:	   I often have to open comments in browser to see them now, a lot of imgur links won't load as well anymore. Seems hit or miss 
+com.andrewshu.android.reddit#60975:	   The only reason I didn't give it 5 stars is that sometimes the app crashes when loading large images. Other than that I have no complaints. 
+com.andrewshu.android.reddit#60983:	   I am not a Reddit expert, but this app never fails me. Better than using the mobile site. 
+com.andrewshu.android.reddit#60987:	   Hasn't been fixed in nearly a year and happens on my both my note 4 and Nexus 5. Would give 5 stars if the devs took the time to figure this out. 
+com.andrewshu.android.reddit#60989:	   Apart from the odd bug it runs great 
+com.andrewshu.android.reddit#60996:	   App sucks, it does not notify me of new comments to my comments. It seems as if it deletes my comments after I reload them. If I uninstall and reinstall, it works for a bit. Later, it goes back to not working. 
+com.andrewshu.android.reddit#60997:	  Haven't had any problems outside of it randomly closing when I've been on for an extended period of time. 
+com.andrewshu.android.reddit#61014:	   They fixed my issue awhile back, and forgot to thank them! Thank you guys! 
+com.andrewshu.android.reddit#61020:	   After years of happy usage and dealing with more and more frequent crashes when trying to open albums, I have decided that I'm not going to deal with this crap anymore and I'm uninstalling this app. I see plenty of other comments with similar complaints. Fix your sh*t, you're losing users. 
+com.andrewshu.android.reddit#61022:	   I've been using this app for a long time and it is the best reddit app there is. It never fails to work and is honestly a superb masterpiece. 
+com.andrewshu.android.reddit#61034:	   I experienced some issues with gfycat before the update but now after maybe 5 minutes of not using the app none of the links work. I don't know who to blame it on, my phone or the app but update after update it seems to get worse and more unusable. I've usee this reddit app for a long time and I want to keep using it but I'll have to stop if this keeps happening. 
+com.andrewshu.android.reddit#61036:	   So much better than the official reddit app which only displays 100 posts I the front page and doesn't load comment threads. Does everything the official app doesn't. 
+com.andrewshu.android.reddit#61037:	  crashes quite often but I use this app constantly and it is fantastic 
+com.andrewshu.android.reddit#61042:	   Now it's just crashing all the time. 
+com.andrewshu.android.reddit#61060:	  Been crashing quite a bit lately, multiple times a day 
+com.andrewshu.android.reddit#61070:	   I would rate it better if it was like Facebook. It isn't like Facebook at all. They call it a community but I don't think they know the meaning of community. People will dislike your comments! There is no love button like Facebook. If you are using Facebook just continue using it. Don't use this app it isn't like Facebook at all. Just use the official Facebook application or Tumblr. 
+com.andrewshu.android.reddit#61077:	   Lately any link I hit that forwards to a video crashes the app. WTH? The free version never did this. Research led me to believe it's because YouTube hogs memory. But this isn't the true reason because the problem is not limited to YouTube. Any video link crashes the app. Not just YouTube. This is on a t mobile S7. My S6 works flawlessly. Who's to blame? 
+com.andrewshu.android.reddit#61080:	   This app wont let me comment on any post a mesg pops up saying reply failed kindly solve the issue 
+com.andrewshu.android.reddit#61081:	   50% of links I try to open crash the app. 
+com.andrewshu.android.reddit#61095:	   I've been using this app for quite a while and I love it. Although I do have one complaint. Sometimes imgur links don't work in app. I think this is a glitch as I experienced the same issue with gfycat links a few months ago. 
+com.andrewshu.android.reddit#61098:	   Love this app. Makes using the desktop version a pain and confusing. My only gripe is how often it asks to rate the app. Later doesn't mean an hour later. That's literally my only issue so here is the damn review. 
+com.andrewshu.android.reddit#61103:	   I love the app and have been using it for quite some time. However, opening imgur links or gifs 50% of the time results in my phone crashing / hanging. 
+com.andrewshu.android.reddit#61105:	   The subreddit list is scrollable but still has a scroll bar. People who are right handed may accidently press the bar while looking through their subs. The gif viewer doesn't work at times and it reverts to going to the link on your browser. And there is an issue uploading images that are large or are just gif files. 
+com.andrewshu.android.reddit#61110:	   After update it crashes on YouTube open. 
+com.andrewshu.android.reddit#61118:	   Had the official app for a while but I found that the official app crashed a lot, had bugs, took a long time to load things and wouldn't let you go past the first page. Reddit is Fun is much better it has none of these problems, allowing you to easily browse reddit until your hearts content or at least until your boss catches you 
+com.andrewshu.android.reddit#61119:	   I haven't used the official app since I found this. Functional, stylish and fast. 
+com.andrewshu.android.reddit#61120:	   Since the last update, YouTube links has been crashing the app! Please fix! 
+com.andrewshu.android.reddit#61133:	   Super easy to use, 0 problems from the app. 
+com.andrewshu.android.reddit#61137:	   Imgur links won't open in app. Pain in the ass. 
+com.andrewshu.android.reddit#61139:	  Repeatedly fails to load gfycat and imgur links. 
+com.andrewshu.android.reddit#61144:	   It was great until about a week ago it refused to load anything unless I was signed out. It hasn't worked since and I can't log in anymore. 
+com.andrewshu.android.reddit#61152:	   After this recent update, my page randomly refreshes or glitches out, making it very frustrating to both read and type. I would love if this got fixed soon. I have already tried reinstalling the app. 
+com.andrewshu.android.reddit#61162:	   Might seem petty but I used the official app for a few months, but due to a few key features (for me) and a Couple of bugs I decided to go back to RiF. 
+com.andrewshu.android.reddit#61166:	   Haven't had any issues with this app. Good variety of settings and hardly ever crashes. 
+com.andrewshu.android.reddit#61167:	   Works better than the Official Reddit app. The Official Reddit app has a hard time playing gfycat and imgur gifs. Doesn't work majority of the time but Reddit is fun doesn't seem to have this problem which is the main reason why I switched over to this app. 
+com.andrewshu.android.reddit#61169:	   Easily better than the official Reddit app as more, easy to use, functions are included. Unfortunately, I still have issues viewing posts and, most notoriously, comments. 
+com.andrewshu.android.reddit#61173:	   Freezes almost everytime I try to view an album through the app, occasionally forcing me to force quit the app. Have to open in imgurs app or my browser, which totally defeats the purpose of this app. Crashes when trying to load things, seems to happen just about every 10 clicks or so now. 
+com.andrewshu.android.reddit#61180:	   Never had a problem. Use it every day. 
+com.andrewshu.android.reddit#61184:	   Crashes constantly with the past couple of updates. Tried a variety of settings, but crashes when trying to open links. 
+com.andrewshu.android.reddit#61200:	   Trying to comment and it says 'Reply failed'. Trying to post something it automatically gets removed or I get banned for a bullshit reason. Mods are abusing their powers and free speech doesn't exist anymore. The App is broken and reddit workers are corrupt 
+com.andrewshu.android.reddit#61208:	   Reddit official app still slightly behind. Rarely have problems. Does the cards and the functionality is straightforward. 
+com.andrewshu.android.reddit#61211:	   Can't use it at all without constant crashes, been doing this for awhile. Have always used RiF but I guess it's time to move on to a new app 
+com.andrewshu.android.reddit#61217:	  Some bugs but its....fun 
+com.andrewshu.android.reddit#61218:	   I've tried a few Reddit apps. This is the best one so far. My only gripe is that you can't check the mod sidebar options like moderation log, traffic stats, flair, access to the stylesheet or the AutoModerator config. These aren't integrated into the app but you can go into browser mode within the app itself. The new modmail system is also not integrated but that's an issue with Reddit. If these were sorted- I'd probably access Reddit almost exclusively on this app. 
+com.andrewshu.android.reddit#61222:	   Long time user on galaxy note 4. Whenever an imgur gif or gallery of gifs is linked to the imgur page instead of the gif itself, the gifs do not load. The page itself loads, but the actual gifs end up just loading as blank play buttons that cannot be clicked, copied, or interacted with in any way. Regular pictures load, but not gifs. Great app besides this little bug that started happening since the last update or two. I will change my review back to five stars once this is fixed. 
+com.andrewshu.android.reddit#61225:	  Had some connection issues with account but works fine without connecting 
+com.andrewshu.android.reddit#61239:	   Does exactly what I want (doesn't get in the way of browsing reddit!). Plus, dark mode. 
+com.andrewshu.android.reddit#61240:	   This app is nearly flawlessly integrated with reddit and has just about every feature you could hope for. Only annoyance is after a long (100+ links) session the app will randomly stop loading images and gifts, etc. Restarting fixes this every time. 
+com.andrewshu.android.reddit#61249:	   After I open 1 post if I go to another it won't load. 
+com.andrewshu.android.reddit#61250:	  Reddit still doesn't load sometimes, but it definitely improved 
+com.andrewshu.android.reddit#61254:	   Good but not great. Has frequent issues with pictures not loading. 
+com.andrewshu.android.reddit#61255:	  Imgur still crashes or will not load. In app browser often will not load forcing the user to switch to external browser. External browser is set to Chrome and cannot be changed. These have been persistent problems for the last 3 updates. After initially loving RIF, I'm now going to download another app and may be uninstalling this one after close to 2 years of usage. Update: new version still crashes imgur 
+com.andrewshu.android.reddit#61257:	   Never had a problem with app, real easy to use and no hassle or fuss 
+com.andrewshu.android.reddit#61276:	   I keep getting an error. It says legacy error log out and in one time. I updated the app too. It keeps popping up and won't let me comment or post. 
+com.andrewshu.android.reddit#61277:	   Well organized, lots of ways to engage the Reddit community and customize your interface! I'm on this every day, never had a problem with it. 
+com.andrewshu.android.reddit#61285:	   Rarely have issues. 
+com.andrewshu.android.reddit#61301:	   Update: Latest update has fixed my problems. Works perfectly now! Good job! Rating revised! 
+com.andrewshu.android.reddit#61311:	   If i choose some other subreddit as default, i get an error while opening the app... 
+com.andrewshu.android.reddit#61313:	  I hate the issue with imgur. 
+com.andrewshu.android.reddit#61321:	   If your post gets deleted for formatting by an automod the app doesn't allow for resubmission. You're just fucked and your post is now unavailable to post. Back to five when it's fixed. 
+com.andrewshu.android.reddit#61329:	   Runs perfectly on my S7 Edge, haven't experienced an issue yet! 
+com.andrewshu.android.reddit#61348:	   Perfect for one-hand-wielding, time-wasting fun times, particularly on the Galaxy s6. Occasionally crashes when looking at several gifs in a row though. 
+com.andrewshu.android.reddit#61354:	   Nearly all gifs on gfycat freeze about halfway through even though they are 100% loaded. Please fix! Samsung Galaxy s4. 
+com.andrewshu.android.reddit#61355:	   As the titles says, GIFS from Gfycat and Imgur don't load anymore. 
+com.andrewshu.android.reddit#61361:	  Works about 50% of the time on WiFi, while bacon reader always works on WiFi, even when this app doesn't. Something needs fixed. 
+com.andrewshu.android.reddit#61364:	   I love this app. It's perfect. EDIT: They fixed the bug I bitched about! Yeah! 
+com.andrewshu.android.reddit#61391:	  A recent update seems to have broken the loading of posts. After browsing to maybe around 10 or so the next posts won't load their content or comments and I have to restart the app to get them to load. 
+com.andrewshu.android.reddit#61395:	   "Unfortunately reddit is fun has crashed" seems like it crashes at random. 
+com.andrewshu.android.reddit#61397:	  After about 5 minutes of browsing, comments stop loading for all topics. Minimizing the app or turning off my phones screen and coming back to the app will make it so nothing loads. 
+com.andrewshu.android.reddit#61401:	   The screen no longer stays locked in portrait/landscape. And the dark theme changed from black to a much brighter grey. Can you fix these? 
+com.andrewshu.android.reddit#61405:	   I used to love this app. Then it started crashing in the dark theme when I'd try to use the search function. So I switched to the light theme, but now it just crashes after viewing 5-6 images. I'm tired of it and switching to a different app. 
+com.andrewshu.android.reddit#61408:	  Been using this app for years, but lately it has really been declining in quality. Won't load comments about 50% of the time now. 
+com.andrewshu.android.reddit#61411:	  Crashes when searching for subreddits 
+com.andrewshu.android.reddit#61418:	   Great app, love almost everything about it, but a huge flaw is that imgur links will frequently crash the app. Is this something that can be fixed? 
+com.andrewshu.android.reddit#61419:	   I have been using this app for over a year, and it has never failed me in any way, shape, or form. 
+com.andrewshu.android.reddit#61425:	   Love the app and everything still works fine but have had problems with the app crashing once or twice a day since the newest update 
+com.andrewshu.android.reddit#61433:	   I used the app for maybe 2 years and then it started crashing a lot, sometimes even causing my phone to restart. 
+com.andrewshu.android.reddit#61439:	  Now I look at my phone more than I used to. I prefer this to other apps as it looks cleaner and doesn't load all the photos on the page unless I click on them. 
+com.andrewshu.android.reddit#61445:	   Would be 5 stars but sometimes when opening large image files the app will crash 
+com.andrewshu.android.reddit#61453:	   Can be slow to, or fail to load imgur links. These are a pretty big part of Reddit... 
+com.andrewshu.android.reddit#61454:	   Used this before the official Reddit app was released and I still prefer this over the official. Adverts don't get in your face either. 
+com.andrewshu.android.reddit#61467:	   Is a great app. However recently links only load about half the time. YouTube links have stopped loading all together. Bummer 
+com.andrewshu.android.reddit#61472:	   A recent update has been causing Reddit is Fun to stop loading any content at all after using it for a while, and its happening frequently. I have to close the app and reopen it. The app is really great but this is awful 
+com.andrewshu.android.reddit#61475:	   Much better than bacon reader, crashes almost nonexistent, good integration into browser and imgur. All around awesome product. 
+com.andrewshu.android.reddit#61495:	   Sign up process kept failing 
+com.andrewshu.android.reddit#61501:	   Gfycat links are hit and miss for me now, with more misses lately. Will update review after this is fixed. - Pixel XL 
+com.andrewshu.android.reddit#61504:	   Gifs don't load through gfycat only imgur. Using the dark feature looks awesome . Just like browsing the actual site 
+com.andrewshu.android.reddit#61530:	   After a few pages, it will not load, after the newest update, otherwise, I really like it! 
+com.andrewshu.android.reddit#61543:	  It works well and they fix bugs quickly 
+com.andrewshu.android.reddit#61545:	   Very few things do I prefer to use my phone for instead of computer, but this app for reddit is much easier than the website. Its interface is clean, uncluttered, and has enough on it per page to not overwhelm me (as is the problem with other reddit apps: either too many posts on the screen I can't read them, or not enough that they're each huge). Would recommend. 10/10 
+com.andrewshu.android.reddit#61546:	   It won't refresh the front page when changing accounts. Get "error loading reddit data. Try again later" 
+com.andrewshu.android.reddit#61552:	   I've used this app for close to two years. Just recently I started having issues with my notifications. Emailed the developer and the issue was fixed in two hours. Brilliant. Edit: Had to drop two stars. With the last few updates the app loads posts maybe half the time. Even then, sometimes the links don't load. Hopefully that gets resolved. 
+com.andrewshu.android.reddit#61554:	   It does everything I need to in an efficient and unobtrusive way, but it crashes multiple times a day either looking at comments or occasionally when loading imgur stuff. Previously it worked perfectly, currently looking at alternatives but would prefer to stick to RIF if the crashes stop. 
+com.andrewshu.android.reddit#61583:	   Great app and only gets better with each update. I've only had one problem with its design, the subreddit list doesn't go all the way across the screen when it opens and as I'm browsing I keep jumping through the list unintentionally as I try and scroll. If there was an option to fully extend that subreddit browser list, I'd give this app 5 stars. 
+com.andrewshu.android.reddit#61592:	   Got a M9 for Christmas and have been experiencing app crashing every few hours of use. The app will occasionally crash upon attempting to open a post. 
+com.andrewshu.android.reddit#61598:	   I used rif for a couple of years and then switched to the official reddit app a few months ago, when I heard it existed. I gave up on it yesterday after realizing that there was no reason to put up with not being able to see my own comments' scores or view them in context later. I never had a problem with this app. 
+com.andrewshu.android.reddit#61605:	   Everything works so far besides the searching feauture. 4/5, but if you fixed the search I would give it a 5/5. 
+com.andrewshu.android.reddit#61607:	   imgur albums crash if big. very annoying. otherwise, a great app 
+com.andrewshu.android.reddit#61609:	   Has to be restarted once in a while due to not loading anything 
+com.andrewshu.android.reddit#61612:	   RIF is an amazing app for browsing reddit. I thought about switching over to the official app when it was released but if fails to offer anything that RIF doesnt. RIF was made first and offered users support before reddit itself did and because reddit itself does not offer anything superior to RIF, RIF will continue to receive my support for the force able future. 
+com.andrewshu.android.reddit#61624:	   Never fails to have it all! 
+com.andrewshu.android.reddit#61640:	   Hey guys. Great Reddit app. A small bug I've managed to find. Everytime I go to share a link into the Discord app, I can't go back into the Reddit app without closing it. Hope this helps! 
+com.andrewshu.android.reddit#61653:	   And that's what matters. Sometimes tells you replies fail, but often posts them anyway. So don't spam it over and over in response, or you become one of those doubled posts you've probably seen. 
+com.andrewshu.android.reddit#61657:	   Was great but now I can't sort however I want when some sort type is 'suggested' please fix 
+com.andrewshu.android.reddit#61662:	   Started using this app for Reddit since the gif loops don't work on the official Reddit app. Easy to use and has little to no issues. 
+com.andrewshu.android.reddit#61683:	   This app perfected Reddit for me. BUT unfortunately the login isn't working anymore! 
+com.andrewshu.android.reddit#61702:	   App has bug when connected to WiFi where is doesn't load anything, have to close app, restart, then you get a few mins before it starts all over again. 
+com.andrewshu.android.reddit#61703:	   As of late, no matter what wifi I'm connected to, no matter if I use cellular data or not, every other post will simply not load. I could wait years if I wanted to and it still wouldn't load. Every other post. Please fix. Before then, I would have rated this five stars. 
+com.andrewshu.android.reddit#61709:	  Have to reboot the app about half the time because the gyfcat links don't load every time. 
+com.andrewshu.android.reddit#61713:	   I seriously go check the official reddit app every month. And every time there is at least 1 thing per page not working. This app has been flawless for the week I've been using it. 
+com.andrewshu.android.reddit#61728:	   Easy to use and have never had a problem with crashes even running various different ROMs. 
+com.andrewshu.android.reddit#61745:	   Seems to have lots of loading issues from the reddit service, ads are turned on by default, but otherwise an OK app. 
+com.andrewshu.android.reddit#61747:	   Hasn't worked in 4 days. 
+com.andrewshu.android.reddit#61762:	   I've been using this app for over a year and I've never had any problems with it. The ads are hardly noticeable and don't interfere with the experience at all 
+com.andrewshu.android.reddit#61764:	   New update? Please fix? Infinitely better than official app. 
+com.andrewshu.android.reddit#61777:	   Couldn't get any better than this! 
+com.andrewshu.android.reddit#61779:	   Since last update, front page refreshes whenever I back out of an external link. If this is not fixed, I will be uninstalling it. Other people have been experiencing the same problem. 
+com.andrewshu.android.reddit#61783:	  All it does is crash now. Time to jump ship to a real app finally. I'll miss you Reddit is fun, but I won't miss your numerous issues and constant crashing. 
+com.andrewshu.android.reddit#61803:	  Great app but I have problems loading links when using my home wifi, with data plan it works fine?? 
+com.andrewshu.android.reddit#61807:	   Oh look it crashed again 
+com.andrewshu.android.reddit#61810:	  Gifs don't load with the newest update. Anything from imgur or gfycat does not load. 
+com.andrewshu.android.reddit#61819:	  won't load imgur links 
+com.andrewshu.android.reddit#61822:	   RiF is my go to time killer. I have never had even a single problem with this app. It slays. 
+com.andrewshu.android.reddit#61829:	   I use Reddit Is Fun everyday. Updated regularly. Never experienced a bug myself. 6 out of 5stars! 
+com.andrewshu.android.reddit#61833:	   Steals your identity, crashes on imgur and other gifs constantly. DO NOT USE! 
+com.andrewshu.android.reddit#61848:	   Awesome app the only bad side is you can't search subreddits you haven't visited and it crashes when you try to do too much. 
+com.andrewshu.android.reddit#61857:	   The official one sucks compared to this app for one reason. When I exit the official app and return to it, my last page isn't saved. 
+com.andrewshu.android.reddit#61865:	   New update sucks. uninstalling. Crashes 90% of the time I open a link 
+com.andrewshu.android.reddit#61872:	  It kept bugging me to rate it. 
+com.andrewshu.android.reddit#61892:	   Better than other Reddit apps. Never crashes :) 
+com.andrewshu.android.reddit#61905:	   Great app normally, though for some reason lately the comments take forever/never load at all. Photos and links load fine, but comments are mostly broken. One star to get dev's attention, if fixed it will go back to five. 
+com.andrewshu.android.reddit#61909:	   Needs work on the filtering. It just won't load after a while. 
+com.andrewshu.android.reddit#61915:	   Based on the 12/13 update, this stopped working 
+com.andrewshu.android.reddit#61922:	   Posts get auto removed because images don't upload properly anymore. 
+com.andrewshu.android.reddit#61923:	   This app is glorious and has no equal. And just because your phone might not run it DONT 1 STAR IT 
+com.andrewshu.android.reddit#61934:	   please fix 
+com.andrewshu.android.reddit#61940:	   Gfycat gifs aren't working on my wifi since the update 
+com.andrewshu.android.reddit#61950:	   The app occasionally loses connection if not used for a bit, causing me to kill it and relaunch so it can work again. 
+com.andrewshu.android.reddit#61959:	   I've had the app crash twice today even. I really like a lot of the features, but this is getting ridiculous. 
+com.andrewshu.android.reddit#61962:	  I like it, however there are still problems loading albums, so a 4 for you. 
+com.andrewshu.android.reddit#61986:	   Please fix 
+com.andrewshu.android.reddit#61987:	   Great features and customizations. It rarely, if ever, crashes and is snappy. The best Reddit app out. 
+com.andrewshu.android.reddit#61998:	   Mostly good, but crashes in imgur galleries. 
+com.andrewshu.android.reddit#62011:	   Love the app. But the only problem is that it won't load GIFS. I have to exit the app and reload everything for it to work. I'm on galaxy S6 
+com.andrewshu.android.reddit#62019:	   They have fixed a lot of problems. It's still not 5 stars but much better than it was 
+com.andrewshu.android.reddit#62024:	   The app itself is very fun and easy to use but the only complaint I have is that it crashes too much. Please fix. 
+com.andrewshu.android.reddit#62043:	   I love the app, only issue i had was when i tried to create a profile it wouldnt let me enter in the info kept sending me on a continuous loop. Other than that its the bees knees 
+com.andrewshu.android.reddit#62046:	   I have tried like 10 different apps and this one is the best. I love the dark theme. My only problem is that sometimes gyfcats don't load. 
+com.andrewshu.android.reddit#62050:	   I use this app, daily occasionally multiple hours a day. I have tried every app for Android out there, and this app is by far the best one. Furthermore, the devs behind this app are responsive and I know that any issues that arise will be dealt with quickly. 
+com.andrewshu.android.reddit#62057:	  Clean design, easy to browse. Love night mode as well. Its only issue is crashing on big Imgur albums. 
+com.andrewshu.android.reddit#62058:	   Reddit is Fun has been my go to reddit app since I've had a smart phone. It's well polished and rarely has issues. It's also pretty customizable, which is a big plus for me. 
+com.andrewshu.android.reddit#62060:	  Unexpectedly crashes when opening large image files or albums. Tried all the fixes proffered, to no avail. 
+com.andrewshu.android.reddit#62066:	   Often doesn't load images or even discussion pages. Requires force closing the app to even work and even force closes on its own. 
+com.andrewshu.android.reddit#62069:	   In the newest update it added a k when post get a few thousand and I can't find an option in the settings to disable this. I like seeing my individual upvote on a post because if it's at 5999 then I get to be that 6000 but with the "k" I don't know the specific upvote so I hope that I just missed the option to disable this. 
+com.andrewshu.android.reddit#62094:	   Can you please fix this so it doesn't crash when I go to open imgur posts?? 
+com.andrewshu.android.reddit#62099:	   Now I have to open every single Link in the browser because reddit is fun just just not fun it doesn't work anymore 
+com.andrewshu.android.reddit#62101:	   It crashes out loading imgur fairly regularly..especially with bigger albums. 
+com.andrewshu.android.reddit#62106:	   App crashes on startup after most recent update. Would rate it a 5 if fixed. Edit: disabled ads and it stopped crashing after the most recent update I was able to re-enable them and it works again 
+com.andrewshu.android.reddit#62116:	  Gfycat won't load, and neither will some additional pages. 
+com.andrewshu.android.reddit#62121:	   It crashes... a lot... but when it doesn't it works flawless. EDIT: They fixed the crashing. Super happy now. 
+com.andrewshu.android.reddit#62124:	   Can't get rid of them even when you click on the x since the update the have ruined this app avoid using it . 
+com.andrewshu.android.reddit#62126:	   I have been using it on my old phone without any problem. But on my new Moto z play, it keeps crashing on use of more than 5 minutes. 
+com.andrewshu.android.reddit#62129:	  Great but crashes regularly and hasn't been fixed for multiple updates, happens especially when opening imgur galleries 
+com.andrewshu.android.reddit#62131:	   I've been using it for a couple of years now. Never had any problems with it, it works PERFECTLY. Lightweight, reliable, all I could ever ask in an app. Will always be my favorite way to browse Reddit! 
+com.andrewshu.android.reddit#62156:	  It crashes a lot. 
+com.andrewshu.android.reddit#62162:	  Would be prefect except for the crashes every 10 minutes. 
+com.andrewshu.android.reddit#62163:	  Occasional crashes but it's a pretty good app. 
+com.andrewshu.android.reddit#62165:	   Pretty user friendly. Imgur albums have been causing crashes for me lately though. 
+com.andrewshu.android.reddit#62169:	   When I lock the screen and come back to the app, it shows the spinner indefinitely. Can't browse anything until I force close it. Also, I find it hard to browse a user's account ("overview of [name]"), not a subreddit. To do so, I have to click a user's name from the website and have it open in this app. Right new, I'd rather use the website directly because of these problems. 
+com.andrewshu.android.reddit#62187:	   Many links for images and gifs seem to just open up a blank page, it gets annoying. Please fix. 
+com.andrewshu.android.reddit#62208:	   Doesnt display most pictures i try to load. Worthless. Get it together like... you mainly look at pictures on reddit get it fixed!! 
+com.andrewshu.android.reddit#62245:	   I like the interface, and it never crashes. Every subreddit is easy to navigate and filter. 
+com.andrewshu.android.reddit#62248:	   It gives an error after accepting permissions. Fix it. 
+com.andrewshu.android.reddit#62265:	   Beats out alien blue easily, simple and rarely bugs out. Will occasionally close itself out for no reason, my only complaint. 
+com.andrewshu.android.reddit#62283:	   I have a bug that pops up when I get a message and try to select context, it gets an API error. Otherwise this app is amazing. Love it! 
+com.andrewshu.android.reddit#62295:	  Great till the update. Now anything linking to an image doesn't open unless I open it in my browser. 
+com.andrewshu.android.reddit#62329:	   Please fix. The app is otherwise flawless. 
+com.andrewshu.android.reddit#62330:	   My only issues so far are that sometimes the native video player seems to get stuck, but switching to the webview player works. This could also be specific to my phone. Overall the app works great. 
+com.andrewshu.android.reddit#62332:	   Works great and is very easy to use. I have used this app for years without any issues. 
+com.andrewshu.android.reddit#62354:	   Simple, easy, effective. It's mostly intuitive and makes sense. It's never crashed on me and works really well 
+com.andrewshu.android.reddit#62359:	   Super steam lined and works better than the official app for sure. Less crashes, load gifs and videos better. Can't say enough good things. A++ 
+com.andrewshu.android.reddit#62365:	   This app has everything, and has a heads up over bacon reader due to the larger number of comments readable. However, I wanted to talk about how I managed to use this app on an old broken phone with a back button that didn't work. That is just how amazingly versatile this app is. 
+com.andrewshu.android.reddit#62378:	   Over the past two years I've probably tried every popular reddit app. Every single time I come back to this one. It does everything I want and need as a regular user and commenter without any fuss. Easy and simple browsing in a lightweight app. Crashes every once in a while for unknown reasons but that's not a deal breaker. 
+com.andrewshu.android.reddit#62385:	   Pretty much the perfect Reddit app. UI is great, never had a problem with it 
+com.andrewshu.android.reddit#62399:	   Fix it and rating will change 
+com.andrewshu.android.reddit#62401:	   Works perfectly except for it suddenly stopped loading gfycat links 
+com.andrewshu.android.reddit#62402:	   But i have to restart the app sometimes because gifs stop loading. This is very frustrating because it takes some times to find back where i was in the sub. 
+com.andrewshu.android.reddit#62418:	  I don't always crash, but when I do, it's because I opened a imgur gallery. 
+com.andrewshu.android.reddit#62444:	   Since the last few updates if I am out of the app for any length of time the pages for whatever subreddit I'm in no longer are cached and have to reload when I open the app back up. Since reddit moves quickly something I was looking for may not even exist where it once was. This is very frustrating and have caused me to use the app less than 25% as much as I used to. Honestly if it isn't fixed soon I'll be looking for other alternatives. 
+com.andrewshu.android.reddit#62453:	  Very good. Never had any issue with using it. 
+com.andrewshu.android.reddit#62459:	  Crashes a lot, especially when loading imgur albums 
+com.andrewshu.android.reddit#62467:	  Great app. Still some memory leak issues that cause crashing. 
+com.andrewshu.android.reddit#62469:	   Been a loyal fan of rif for some time. The app never crashed and is user friendly enough. 
+com.andrewshu.android.reddit#62474:	  Crashes whenever I use it for more than 5 minutes 
+com.andrewshu.android.reddit#62476:	   This app is has gone to bed after the official Reddit app came out. I'm sure this RIF app is being phased out because it ran flawlessly for the past 2 years, now links won't load within the app, only works by launching the browser. Crashes. 
+com.andrewshu.android.reddit#62494:	   The problem hasn't been fixed for months. Great application otherwise. Too bad. 
+com.andrewshu.android.reddit#62496:	   After clicking a few gfycat links, they stop working 
+com.andrewshu.android.reddit#62499:	   Now it crashes every few minutes. Almost unusable at this point 
+com.andrewshu.android.reddit#62502:	   One problem is the reply button when responding to comments if it was linked to the enter button on the phone it would be awesome. 
+com.andrewshu.android.reddit#62510:	  Does everything I need and haven't seen a single bug 
+com.andrewshu.android.reddit#62512:	   Like I said in the title, I bought this app since I've used it for years, but recently it's been crashing while reading comments. Not sure what's causing it, but hopefully coming updates help out. Otherwise great app. 
+com.andrewshu.android.reddit#62524:	   No fluff. It works without any problems. 
+com.andrewshu.android.reddit#62534:	  Does everything it needs to do and does it well. The only problem I have is that it crashes when loading large imgur galleries. I have a Sony Xperia Z3 with 3gb of ram so it shouldn't be a problem. 
+com.andrewshu.android.reddit#62538:	   I've never had this app crash more than once a month, now all of the sudden it keeps crashing? Why? 
+com.andrewshu.android.reddit#62544:	   Not as smooth as baconreader, but bacon reader crashed constantly and this doesn't o it's got that going for it 
+com.andrewshu.android.reddit#62548:	   Has great functionality and is the best mobile experience I've seen for Reddit but crashes if you load a imgur album with high resolution or a lot of pics 
+com.andrewshu.android.reddit#62564:	   Lots of new features and only a few minor bugs. Recommended! 
+com.andrewshu.android.reddit#62567:	   Only problem is loading/playing gifs from gfycat. But that might be my phone. Love the night mode, and use it 24 hours a day lol. 
+com.andrewshu.android.reddit#62584:	   It was working great, but since the latest update it's been crashing constantly again. I do not have android webview updates installed. 
+com.andrewshu.android.reddit#62607:	   I like getting sub Reddits in a widget. I just wish title names were not truncated, or RIF would scroll in the widget. When attempting to post, the captcha won't load. 
+com.andrewshu.android.reddit#62611:	   It does everything I need it to do, everything is easy to find, and I haven't run into any bugs so far. Gr8 
+com.andrewshu.android.reddit#62622:	   Doesn't have the annoying bug that when I click on a link and then press back button it opens up the first post... Drives me crazy 
+com.andrewshu.android.reddit#62624:	   Close to perfect, it just has rare stability issues with opening external links, especially imgur albums. I still usually use it over the official app. 
+com.andrewshu.android.reddit#62640:	   Didn't used to, but now crashes regularly. 
+com.andrewshu.android.reddit#62645:	   Easy to use, looks nice, but sometimes imgur and gfycat don't load correctly and I need to restart the app 
+com.andrewshu.android.reddit#62647:	   The app is designed wonderfully. Love the layout and design. If it didn't randomly crash every three minutes, I would give it 5 stars no question. But it isn't usable for me. 
+com.andrewshu.android.reddit#62659:	   I never have any issues with this app. I've tried three for Reddit on my phone and this is definitely my favorite. 
+com.andrewshu.android.reddit#62673:	   Love it except for when it randomly crashes. 
+com.andrewshu.android.reddit#62678:	   This app is easy to use and works well with phones at least 2 years old. I have a love/hate relationship with this app because it enables me to waste too much of my time. I still only have one problem, which is impressive considering how many times I've (re)installed this app: after about page 35 it's prone to crashing. Honestly though, that's a good thing. 
+com.andrewshu.android.reddit#62679:	   Easy to use, I have had almost problems 
+com.andrewshu.android.reddit#62688:	   I have constant problems with the official app. It crashes all the time but this one is issue free so far! 
+com.andrewshu.android.reddit#62689:	   Sometimes have problems loading gifs in the app. 
+com.andrewshu.android.reddit#62698:	  Gifs do not open 
+com.andrewshu.android.reddit#62716:	   I love Reddit is Fun. It is head and shoulders above the other non-official Reddit apps. But recently it's started crashing regularly when I view image posts. I thought it was a phone problem, but it still occurs on my new Pixel. I still deal with it, but it has been reduced to a 3 star app. 
+com.andrewshu.android.reddit#62740:	   Crashes doing nearly everything. Even just looking at pictures or opening links. 
+com.andrewshu.android.reddit#62754:	   The bug has been fixed 
+com.andrewshu.android.reddit#62759:	   I'll view close to ten posts, then the app will crash and I'll have to force stop it. 
+com.andrewshu.android.reddit#62761:	   For a couple of versions now there's been an issue where if you happen to open a YouTube link in the app then it opens a YouTube window at the bottom of the screen that will never close or let you back out of it. The only thing you can do to get rid of it is close this app and reopen it. Previous versions of the app allowed you to simply back out of it. 
+com.andrewshu.android.reddit#62765:	  I love it when apps crash instantly. Wait, no I don't. 
+com.andrewshu.android.reddit#62767:	  Crashes on latest version 
+com.andrewshu.android.reddit#62768:	   Reddit Is Fun is the best reddit app out there for style for style and function. I use it everyday. However recently it has been crashing as soon as I open it. Hoping this gets fixed soon. 
+com.andrewshu.android.reddit#62769:	   Keeps crashing for some reason. I wonder why.... 
+com.andrewshu.android.reddit#62771:	  Currently won't open. Will change rating when fixed. 
+com.andrewshu.android.reddit#62772:	   LG G4 here, and I recently updated. Every time I try to use it, it always crashes for some reason... I've tried force stopping, and clearing my cache, but no luck. Hopefully you guys will fix it because it's such an amazing app, and I use it every day! Please fix it! 
+com.andrewshu.android.reddit#62773:	   Whenever an ad loads in, the app crashes. 
+com.andrewshu.android.reddit#62774:	   No matter what I do, the app crashes within ten seconds of me opening it 
+com.andrewshu.android.reddit#62775:	   App was great before this update, will rate 5 stars if they fix it 
+com.andrewshu.android.reddit#62777:	   Keeps crashing after last update 
+com.andrewshu.android.reddit#62778:	   Hey folks, crashing today since I updated last night. Any ideas why? Bug! 
+com.andrewshu.android.reddit#62779:	   I haven't had any problems with this update. This morning RiF keeps closing seconds after opening. 
+com.andrewshu.android.reddit#62780:	   Constantly crashing since this morning on my Sony xperia z3 mini 
+com.andrewshu.android.reddit#62781:	  Force close error 
+com.andrewshu.android.reddit#62791:	   I love this app, it's so easy to use and you can easily browse reddit whilst on the go. Only minor issue is that imgur images rarely load so you have to open them via imgur. App also gets very laggy if you have it open for a while and things refuse to load until you close and reopen it. Other than that it's amazing! 
+com.andrewshu.android.reddit#62797:	   No other app is used so much. I really should pay but the free version is so good I don't really need the extra features. Just a minor annoyance for this wide fingered user, the comment link is so small that I some times miss tap and get the next post by mistake. I know this is not the place for feature requests however I believe there is a proper one logged to getting to comments via a double tab. Fix that and I'll buy; you know what I'll just buy it anyway. Thanks guys. 
+com.andrewshu.android.reddit#62806:	   there are many faqs. Why this app. Can I submit my post to my Reddit account through this app. I tried but failed to submit (properly share) a post. *Suggestions: bring a faq or support & app tour page in this app. 
+com.andrewshu.android.reddit#62808:	   Comment scores have suddenly disappeared, not sure if this is a reddit problem or the app problem but all comment scores are gone. New/old/front page all gone. 
+com.andrewshu.android.reddit#62824:	   Weird that Reddit doesn't have their own app. Or maybe they do. But I have no reason to not use this one.  great 
+com.andrewshu.android.reddit#62828:	   Keeps refreshing on it's own after every other post I open causing me to lose my place. Is there a way to fix it? 
+com.andrewshu.android.reddit#62833:	   Any serious problems that this app has are usually fixed within a matter of days. It's very full-featured, and almost every feature can be accessed without paying anything with optional (and unintrusive!) ads. Less gimmicky than other apps, it feels very powerful and the theming options make it feel very customizable. Have used for years across many devices, and will continue to do so for even longer! 
+com.andrewshu.android.reddit#62847:	   I've tried them all and this app is the best. Use the Dark theme. I also appreciate the left hand mode you can change to in settings. This app has become the only way I browse Reddit. It is stable and free of issues. It allows you to get the most out of browsing Reddit 
+com.andrewshu.android.reddit#62848:	  Imgur galleries keep crashing the app!!! 
+com.andrewshu.android.reddit#62855:	   Fix yo gfy's 
+com.andrewshu.android.reddit#62857:	   This app is almost great, randomly closes sometimes and sometimes images don't load and I have to go to imgur. Other than that it's for lack of a better word...neat 
+com.andrewshu.android.reddit#62871:	   es a lot. Fix the bug. 
+com.andrewshu.android.reddit#62890:	  It's gotten better, still crashes a few times a day tho. Still my fav reddit app by far. 
+com.andrewshu.android.reddit#62893:	   Much easier to use than the desktop and other apps,tons of features,and NEVER crashes. 
+com.andrewshu.android.reddit#62898:	   Everything works except sometimes it crashes when looking at albums. 
+com.andrewshu.android.reddit#62902:	  Developer ignores issues 
+com.andrewshu.android.reddit#62922:	   Rarely ever have a problem with this app. Good job developer(s). 
+com.andrewshu.android.reddit#62925:	   I can't post anything. The letter thing at the bottom of the posting screen isn't there and won't reload. Please fix. 
+com.andrewshu.android.reddit#62941:	   I have only had few issues with this phone and they are always quickly solved with updates. This isn't a pretty looking app but it just works. That's all I need. 
+com.andrewshu.android.reddit#62947:	  Its in my opinion the best Reddit app, only problem is loading imgur albums it's crashes the app from time to time 
+com.andrewshu.android.reddit#62956:	   It used to be an amazing 5 star reddit browser but it keeps crashing after imgur gifs or albums load 
+com.andrewshu.android.reddit#62963:	   This app has everything a Redditor needs. Loads fast and fluidly, and allows all options just as the desktop version. Update: Upload bug no longer an issue. Thanks for keeping your app the best choice for android! Old: Since the last update I haven't been able to submit anything though. The captcha never loads, no matter my connection or how long i wait. I'd suggest either removing the Captcha or using a different kind of verification. After that's fixed i would gladly call this a 5 star app. 
+com.andrewshu.android.reddit#63000:	   App dev always is on the ball to fix bugs 
+com.andrewshu.android.reddit#63007:	   Usually crashes halfway through writing a lengthy comment. Incredibly frustrating. 
+com.andrewshu.android.reddit#63060:	   Crashes occasionally, but generally works very well 
+com.andrewshu.android.reddit#63067:	  Error loading data when using my account 
+com.andrewshu.android.reddit#63084:	   Fails to retrieve my login info :/ 
+com.andrewshu.android.reddit#63086:	   Crashes constantly. Can't use it for more than 15 minutes at a time. 
+com.andrewshu.android.reddit#63126:	   The app has stopped freezing at random, so now the problem is that almost all GFYCAT links have stopped working without switching to the gif. 
+com.andrewshu.android.reddit#63128:	   Amazing reddit app and very simple to use. But what prevents me from giving it a 5 is that Gfycat gifs won't load after I view like 7+ of them in one go (blame r/Overwatch for the highlight gifs). But overall it's amazing! 
+com.andrewshu.android.reddit#63142:	   Great app, updates fix any issues I've encountered. 
+com.andrewshu.android.reddit#63150:	   I really like the app. It's pretty easy to use and I definitely prefer it over the official Reddit app. However, my RIF app sometimes crashes when I open up imgur albums which is annoying, but I still prefer this one. 
+com.andrewshu.android.reddit#63173:	  Crashes when opening an imgur album 
+com.andrewshu.android.reddit#63178:	   I can barely use the app as it freezes and then crashes frequently. 
+com.andrewshu.android.reddit#63185:	  Crashes harder than a plane to a tower. 
+com.andrewshu.android.reddit#63194:	  Stops loading links after 5 minutes of use 
+com.andrewshu.android.reddit#63199:	   Crashes every so often, but overall very good reddit client 
+com.andrewshu.android.reddit#63232:	   For anyone that's hung up on getting this or the official app, get this one. The official app is full of bugs and looking at pictures or gifs barely works half the time you try. Never had any issues with this app 
+com.andrewshu.android.reddit#63264:	  I've been using this app for years and love it but I literally can't use it anymore. It constantly crashes on the S5. Will adjust score if/when I can use the app again. 
+com.andrewshu.android.reddit#63265:	  Crashes all the time. Every time I open an imgur link it crashes. Absolutely ridiculous. 
+com.andrewshu.android.reddit#63266:	   Sometimes this app randomly crashes on me and that can be a bit annoying. 
+com.andrewshu.android.reddit#63267:	   Only trouble i found is links sometimes not working/loading forcing me to open in browser. Everything else is just perfect and feels better than actually going on the desktop. 
+com.andrewshu.android.reddit#63326:	   Doesn't load anymore since the last update. Please fix. 
+com.andrewshu.android.reddit#63327:	   Love it. Great interface. Can't use the desk top version any more cause I'm so used to this 
+com.andrewshu.android.reddit#63375:	   I was neckbearding a fedora in no time! I used to not feel the need to talk about being an atheist, but now I cry alot... Also, I have no sex life! My severe depression is still a problem, but who has time for suicide when you're browsing dank memes? I'm gonna get back to the app now before I have a chance to think about how horrible my life is! The awesome comment section is sorta like having real friends! I will die alone and no one will care! 
+com.andrewshu.android.reddit#63377:	   It's the most full-featured Reddit app that I've used. I keep coming back to it. The developer is also very responsive to feedback and bug reports. 
+com.andrewshu.android.reddit#63397:	   Still works great. Since the official app came out, I still have to use this instead. The only thing it needs which can't be fix because it was a reddit decision is bringing back the exact numbers of upvotes and downvotes. 
+com.andrewshu.android.reddit#63405:	   Has decent functionality. Haven't really had any problems with the app. 
+com.andrewshu.android.reddit#63415:	   Updated review: This app is the first thing to go on my phone when I get a new one, and probably what I have spent the most time in. My last review had said that the app crashed and needed fixed and the devs replied quickly with how to fix it(although I didn't know they did but everything got fixed anyway). This is my favorite app to use Reddit with, prefer it even over the computer. Highly recommended. 
+com.andrewshu.android.reddit#63423:	  After moving to Android and losing alien blue I had been using the official Reddit app, but it has been constantly inconvenient with a lack of features and its last update ruined the aesthetic for me so I started this, and it has solved most the problems. Much better than the official alternative 
+com.andrewshu.android.reddit#63444:	   I have daddy issues and this helps me. 
+com.andrewshu.android.reddit#63447:	  Great app use it everyday, bad a problem with crashing but they seem to have fixed it 
+com.andrewshu.android.reddit#63454:	   Now won't load pictures from imgur (or pretty much any other source). Had this app forever and getting ready to uninstall. 
+com.andrewshu.android.reddit#63459:	   Isn't loading any posts or threads since this morning. 
+com.andrewshu.android.reddit#63469:	   I've been using it for a long time and the only minor issue I've had is when I'm scrolling up and down while holding my phone in landscape (or horizontally), it would constantly bring up a menu I had no intention of clicking on. I'm just nitpicking but other than that I've had no problems with the app. 
+com.andrewshu.android.reddit#63474:	   It does its job, RARELY crashes and its fast. One suggestion would be custom themes (I only see Light/Dark) 
+com.andrewshu.android.reddit#63476:	  Fixed previous issues. Works great. Better than official app 
+com.andrewshu.android.reddit#63478:	   I really loved this app, it's still my go to, but lately it's been crashing A LOT. my app has crashed at least 3 times today. If this continues I'll have to switch to the official app :/ 
+com.andrewshu.android.reddit#63494:	   This app make reddit good on phone. Me no get sad when reddit hard on phone anymore. Thank you app creators, me raise flagon of grog in your honor. 
+com.andrewshu.android.reddit#63502:	   This is one of those apps that I use a lot. Amazingly, it's never crashed, it's not buggy, the ads aren't obtrusive; it's an all-around great app that does just what you'd want in a simple, clean, easy-to-use manner. Thanks a ton for such a wonderful app! 
+com.andrewshu.android.reddit#63511:	   I can not go 10 minutes without it crashing on me, I've seen one other review with the same problem. NEEDS TO BE FIXED 
+com.andrewshu.android.reddit#63513:	   Never had any problems or even a force close. 
+com.andrewshu.android.reddit#63514:	   I love browsing reddit. And this app is my go to. Some times it has problems loading pictures and content but I'm not sure if it's the app or my internet. But it works great either way. 
+com.andrewshu.android.reddit#63516:	   I've been using this for a few years, and it's not failed me yet. 
+com.andrewshu.android.reddit#63541:	   Only complaint is the "next page" button is placed right next to my phones "back button". I have several times gone back instead of opening a page. Might be an issue unique to HTC, or people with sausage fingers. 
+com.andrewshu.android.reddit#63554:	   Has some problems identifying communication errors with Reddit, but otherwise quite efficient 
+com.andrewshu.android.reddit#63565:	   I can go back to not working as much because I'm on reddit. 
+com.andrewshu.android.reddit#63576:	   Everything else works, im writing this on mobile afterall, but I cant connect to anything. This is NOT the first time this has happened, and its annoyed me enough that im getting a new app for reddit. Pls. Fix. 
+com.andrewshu.android.reddit#63587:	   Easily the best way to browse reddit on mobile. Great job and fixes of bugs along the way. 
+com.andrewshu.android.reddit#63602:	   Use it virtually every day without any issue. 
+com.andrewshu.android.reddit#63609:	   I've tried a few different apps for reddit, and I always come back to RiF. It's smooth, fast, and I've had no crashing issues. Multi account handling could be a bit better, overall a great app. 
+com.andrewshu.android.reddit#63612:	   Easy to use and never crashed on me, love the UI 
+com.andrewshu.android.reddit#63626:	   Have been using this app for over a year and haven't had any problems. The perfect way to browse Reddit on mobile  
+com.andrewshu.android.reddit#63627:	   Works great when it doesn't crash. However, recent versions have been causing hard lock-ups on my Galaxy S6. It requires a full reboot of the phone. This has been happening fairly frequently (I have no issues with any other apps), and the hard lock doesn't allow me to send an error report. 
+com.andrewshu.android.reddit#63628:	   Great app. In my opinion, best organized reddit app out. Very rarely crashes, nice features, all around has a reddit desktop feel. 
+com.andrewshu.android.reddit#63631:	   Would give 5 stares, if they just fix the bugs that cause it to crash. I've sent numerous crash reports, but nothing seems to get better. 
+com.andrewshu.android.reddit#63632:	   Is not the most beautiful app out there, but neither is Reddit by itself. Is easy to use and open most link without issue. My only problem is when opening Imgur, because most of the time it crashes. 
+com.andrewshu.android.reddit#63633:	   Most of the time when my apps get updated I get frustrated because developers try and fix things that are unnecessary to the app and just end up frustrating me. I've been having an issue where I'm subscribed to several subreddits but only frequently visit a few and have been debating unsubscribing most of these subreddits so it's easier to get to the ones I like the most. With being able to pin them, now I won't lose/forget small subreddits, thank you!! 
+com.andrewshu.android.reddit#63640:	   Didn't work as well on my last phone but works completely fine on this one. 
+com.andrewshu.android.reddit#63650:	   Very good, enlightening well working little app. Never had any problems with it, use everyday. Even though unofficial it is still tied officially with the real Redditch website so all the information and stats is the same and you can log in to your account like normal. 
+com.andrewshu.android.reddit#63654:	   Only issue is occasional crashes, but otherwise amazing 
+com.andrewshu.android.reddit#63662:	   It's amazing how you can have any kind of information at a single tap and how fluid it is, one of the best apps to look for answers to problems you could have, 10 out of 5 amazing app 
+com.andrewshu.android.reddit#63668:	   I've used this app for about a year. Never had any issues. You will have to open external links in other apps, but this is a mobile app so you can't expect it to be like the desktop site. 
+com.andrewshu.android.reddit#63675:	  crashes often 
+com.andrewshu.android.reddit#63684:	   Sometimes imgur links won't load. 
+com.andrewshu.android.reddit#63694:	   The app crashes a lot when you open a link to an imgur album or in some cases a single photo. 
+com.andrewshu.android.reddit#63697:	   Simplistic, good looking and functional. I use it everyday without problems, it's my go to app for browsing reddit, even more so than the reddit website. 
+com.andrewshu.android.reddit#63706:	   Perfect for my late night browsing! Haven't had a problem yet, so it's pretty good! Highly recommended. 
+com.andrewshu.android.reddit#63708:	   New update is causing the app to stop working. 
+com.andrewshu.android.reddit#63709:	  Constant freezing and errors with new update 
+com.andrewshu.android.reddit#63713:	  Error loading sidebar, but the posts load fine 
+com.andrewshu.android.reddit#63715:	   Have you ever went to a store for programs and you eyed a product that seemed perfect. The solution to that one problem in your life for which you have no...solutions....but you found it! That one thing! But you are in your thirties and the sting of corporate pandering has got you hesitant...You are stupid to think that buying it without research is smart in any form. So you go online to read reviews. Sir, this reviewer is here to be your doorway into that great heaven! Software is excellent. 
+com.andrewshu.android.reddit#63723:	   Love it but crashes occasionally when linking to imgur albums. 
+com.andrewshu.android.reddit#63731:	   New update has crashed 4 times in the last half hour. Crashes on external links in the browser mostly. imgur links are very slow to load or don't load at all, I'm having to save links so I can view them on desktop of they're interesting. 
+com.andrewshu.android.reddit#63733:	   Crashes when viewing albums.  otherwise. 
+com.andrewshu.android.reddit#63745:	   I downloaded this because Relay for Reddit kept crashing on me. RIF works infinitely better. 
+com.andrewshu.android.reddit#63751:	  Much better than the official Reddit app or mobile version of the site. Easy to navigate and search for posts, and they fixed the gfycat bug so all gifs now load quickly and reliably. The only downside is that it's difficult to find subreddits that aren't in the drop-down list, but overall it's still the best way to use Reddit on mobile 
+com.andrewshu.android.reddit#63764:	   But the latest update crashes constantly. Trying to download a large giphy? Crash. Trying to... Load certain things? (Not even sure what the most recent was about I was just opening a thread) crash. Great. Good update. 
+com.andrewshu.android.reddit#63768:	   I've used this app for years, it's my favorite. Within the past week, however, I got a new phone (galaxy s7) and gifs don't load.. They either play too fast or not at all. Hoping it's just simple bug! 
+com.andrewshu.android.reddit#63779:	  Currently isn't running smooth. Doesn't allow the door to load whether signed in or not. 
+com.andrewshu.android.reddit#63817:	   Once you get sucked into reddit, there's no getting out. This app makes switching through sub-reddits easy and up voting is just a press away. 
+com.andrewshu.android.reddit#63827:	   I love the dark theme. Makes it easy on the eyes. I like that i can disable ads for the simple experience. And im okay with enabling ads for more features. Thats the best way to implement it. Thank you for a great app to browse reddit. Only problem is that i always end up getting imgur links and that leads me to their app. But that is usually the OPs fault. 
+com.andrewshu.android.reddit#63838:	   App won't work when launching and acts as if I'm offline when I'm not. 
+com.andrewshu.android.reddit#63855:	   Gifs are not loading, even if I open in browser. I looked online for a solution and it seems to be a common occurrence. 
+com.andrewshu.android.reddit#63863:	   When I try to make an image post, after I pick it from my gallery, it ends up in RIF upside down. Get your stars back when this is fixed. 
+com.andrewshu.android.reddit#63876:	  Works well. Few issues or crashes, full range of functions for reading and posting and most account functions. Can browse links directly or send to browser, and download content to internal storage. Interface is easy-to-use. All around a very good ap. 
+com.andrewshu.android.reddit#63883:	   I never have problems with it, and the controls are intuitive. Nice UI too. 
+com.andrewshu.android.reddit#63897:	   Keeps crashing when going into photo albums, half the gifs and pictures don't load sometimes won't load more than one page 
+com.andrewshu.android.reddit#63931:	   Not working properly after the upgrade. Cannot comment nor load additional threads. Looking for the past version. 
+com.andrewshu.android.reddit#63942:	   It crashes most times when I try to save a gif. Extremely annoying 
+com.andrewshu.android.reddit#63948:	   Ever tested you own application on a tablet (Samsung Galaxy 10)? It CRASHES! Again and again! 
+com.andrewshu.android.reddit#63952:	   I really like the look and how the features are laid out but it crashes on me all the time. 
+com.andrewshu.android.reddit#63977:	   Love this app! Hardly crashes and everything is easy to find and navigate. 
+com.andrewshu.android.reddit#63982:	   After some updates all crashing issues have past. I found it to be the easiest and most clean reddit app to use. 
+com.andrewshu.android.reddit#63985:	   Now I get "Error loading Reddit data. Please try again later." and my screen saying "No threads here. Tap to refresh." After about 5 seconds of the spinning white loading circle and that's all I can do. Is there any way to fix this? Thank you. 
+com.andrewshu.android.reddit#63987:	   The app does what it needs to do with minimal crashes. 
+com.andrewshu.android.reddit#64003:	   Literally every other time I try to load an album on imgur, the app crashes. 1* and an uninstall until this issue, which has been happening for MONTHS, is resolved. This is absurd 
+com.andrewshu.android.reddit#64006:	   [i wrote this maybe 2 months ago and it's still true... docking a star because it's still not fixed after multiple updates] I exclusively use this app to browse reddit and lately it's been non-stop crashes. It makes it really hard to do anything when it crashes every 5-10 mins. There's plenty of space left on my phone and I never really have too many apps open so idk what the problem is. LGG4. 
+com.andrewshu.android.reddit#64021:	   Never had any issues on any of the devices I've installed this app on. Really easy to use. 
+com.andrewshu.android.reddit#64031:	   I've been using this app for quite sometime and very happy with it but why is it crashing so much? I purposely avoid post from imgur because as i wait for it to load it crashes!?! Drives me nuts. 
+com.andrewshu.android.reddit#64036:	  Comments won't load anymore 
+com.andrewshu.android.reddit#64058:	  Oh well... now that we have an official reddit app out, this is just simply obsolete. Either way, back when I had to use this app it was simply the best way to get a mobile reddit fix in the bathroom, waiting for food, etc. 5 stars for legacy, and for how fantastic this app was. RIP Reddit is fun :'( 
+com.andrewshu.android.reddit#64063:	   Always says 'failed to retrieve data. Please try again later' when logging in. 
+com.andrewshu.android.reddit#64072:	  Often crashes when opening Imgur albums. Even Imgur images are slow to open. Fix in the works? Otherwise it's brilliant. 
+com.andrewshu.android.reddit#64078:	  Keeps crashing when imugur is opened, very annoying 
+com.andrewshu.android.reddit#64089:	   I use this app every day. It's extremely user friendly and I've never had any problems with its functionality. 
+com.andrewshu.android.reddit#64091:	    when browsing The_Donald. Sent at least 25 crash reports over 2 weeks. No reply from devs. Must be Hillary supporters. 
+com.andrewshu.android.reddit#64097:	   Only issue is not playing well with Imgur 
+com.andrewshu.android.reddit#64100:	   The official app was crashing regularly for me, didn't show notifications, and was generally not as good 
+com.andrewshu.android.reddit#64103:	   I've never had a problem and it updates regularly. Easy to use and just an overall well made app for Reddit. 
+com.andrewshu.android.reddit#64104:	   I've been using Reddit Is Fun since I switched over from iOS and I've never had a problem with it. It works very well and does what a reddit app should - lets you browse reddit in a convenient and comfortable way. 
+com.andrewshu.android.reddit#64119:	   App almost always crashes when i open any imgur link containing 3 or more images. Infuriating 
+com.andrewshu.android.reddit#64126:	   Ever since the new update it keeps crashing my phone 
+com.andrewshu.android.reddit#64129:	   Works amazingly good, less crashes compared to the official app. 
+com.andrewshu.android.reddit#64135:	   Crashes sometimes on my old 4.01 tablet unfortunately. A great addition would be tabs! 
+com.andrewshu.android.reddit#64142:	  Great app, have had it for years. Although currently there seems to be an issue viewing tweets. Everytime I try, I get a "you are not authorized to view this" 
+com.andrewshu.android.reddit#64151:	   Seems to misbehave on Lollipop, so down to 2 stars. The developer addressed the crash concerns so back up to 5 stars 
+com.andrewshu.android.reddit#64160:	   I've tried others, but I always come back to this one. It's simple and works well. It is not always perfect, but no app is, and in this one issues are resolved quickly. 
+com.andrewshu.android.reddit#64169:	   It's great being able to navigate though the wormhole and not get sent back to top of first page upon returning. 
+com.andrewshu.android.reddit#64170:	  When Browsing for awhile it eventually stops opening imgur links 
+com.andrewshu.android.reddit#64172:	   Never had a single issue with it since download and installation. 
+com.andrewshu.android.reddit#64175:	  Fine for browsing reddit, and doesn't have some of the bugs of the official app, but some other features would be nice, like being able to keep multiple reddit threads open at once via some sort of tab system. 
+com.andrewshu.android.reddit#64182:	   Whole app always crashes when I'm halfway down an imgur page that I'm viewing through the app. Never let's me get to the bottom. Pretty annoying. 
+com.andrewshu.android.reddit#64187:	   I like the set-up of this app. But for no reason when following links to imgur the app will randomly crash. 
+com.andrewshu.android.reddit#64218:	   I also have the paid Reddit app, and this one isn't much different. I haven't had any issues with either and this app has a decent format. Definitely recommend. 
+com.andrewshu.android.reddit#64227:	   I definitely enjoy this app. I have many praises for it ranging from ease of use, extent of customization, and formatting of layout to its minimal lag in processing (it's clean and fast). My only complaint about it has been that it'll occasionally throw errors when trying to play .gif files, but even then that's maybe once a month. It's also possible that my phone is responsible for the issue (or perhaps even Reddit or the source hosting the .gif). I know the app developers have previously patched this. 
+com.andrewshu.android.reddit#64231:	  There's crashes no more and everything is smooth and fast. 
+com.andrewshu.android.reddit#64233:	   Love it. Can't get off it. Help!!! 
+com.andrewshu.android.reddit#64242:	   I have been using it for a little over a year and I have to say I have never had a problem 
+com.andrewshu.android.reddit#64243:	   Still fails to load some things depending on its mood. Random crashes for no apparent reason. 
+com.andrewshu.android.reddit#64246:	   Frequent crashing on external links, will be trying the official app instead 
+com.andrewshu.android.reddit#64250:	  Crashes consistently when viewing imgur galleries, and has done so for a while now... 
+com.andrewshu.android.reddit#64254:	   The app crashes approx 1/3 of the time when trying to load an Imgur album with more than 2 images. 
+com.andrewshu.android.reddit#64266:	   Been working great aside from the occasional crash. 
+com.andrewshu.android.reddit#64268:	   This app is great! Fluid, easy to work, far better than the official app. However, there are frequent problems with different media links (imgur, gify, YouTube, etc.) that will often crash or stall completely. 
+com.andrewshu.android.reddit#64270:	   Imgur albums don't load on mobile format 
+com.andrewshu.android.reddit#64280:	   Developers need to fix copy and paste on this app. At the moment, users can only select all of the text from a post, not the portion they want to select. Pulling quotes from long passages requires me to copy and paste hundreds or even thousands of words and delete 99% of them to get the direct quotes I want. This is the only thing I dislike about this app but it's a huge drawback for me. 
+com.andrewshu.android.reddit#64284:	  Quality App very few issues 
+com.andrewshu.android.reddit#64287:	   Wonderful app and I'll take it any day over the official app, only gripe is that the app itself crashes whenever I am clicking a YouTube link and the video will play, but the app will be closed 
+com.andrewshu.android.reddit#64291:	   Amazing app just seemed to crash a bit on my HTC m10 
+com.andrewshu.android.reddit#64292:	   Crashes occasionally, but otherwise no complaints 
+com.andrewshu.android.reddit#64305:	   After about a minute the app becomes extremely slow and laggy until it comes to a complete stop and crashes 
+com.andrewshu.android.reddit#64310:	   Just works. Ads are non-intrusive, never had a problem. Solid app. 
+com.andrewshu.android.reddit#64314:	    and crash and always says unfortunately riddit has stopped 
+com.andrewshu.android.reddit#64316:	   I have used this app for the past few years and with the latest updates I can't even use it anymore. It is always crashing. This has honestly been the only app I have used on my phone that I have downloaded in the past two years and now I am having to find a new reddit app to replace it. Any suggestions? 
+com.andrewshu.android.reddit#64324:	   I've been using RiF for 5 or 6 months now and haven't run into any problems caused by the app. Nothing to really complain about, it does what it says on the tin. 
+com.andrewshu.android.reddit#64337:	   More efficient mobile data use. Suppresses images so you don't get dinged on your mobile bill. 
+com.andrewshu.android.reddit#64338:	   The only gripe I have about it is that I don't get notified about any messages or comments until I open the app. Other than that, I love the interface and it's functionality! 
+com.andrewshu.android.reddit#64341:	   I haven't encountered a single problem using this app, I browsed as easy as I was browsing on a computer. Definitely recommend. 
+com.andrewshu.android.reddit#64345:	   This used to be my go to app for browsing reddit, but 75% of the time I click on an image hosted by imgur, it crashes. This has been going on for months and I'm finally uninstalling to try a new app. Otherwise I really did enjoy the usability. 
+com.andrewshu.android.reddit#64363:	   Blank. Error. 
+com.andrewshu.android.reddit#64370:	  Nothing loads except comments I have to open in broswer if I want to see it pls fix. Galaxy s4 
+com.andrewshu.android.reddit#64372:	   I use it er day and never had a problem, love the layout and everything about it. 
+com.andrewshu.android.reddit#64374:	   Solid app, just a few bugs short of 5stars 
+com.andrewshu.android.reddit#64377:	   I'm using a Galaxy Note 7 running the latest firmware. Continually crashes without warning 
+com.andrewshu.android.reddit#64380:	   To get your reddit fix on the go. over all format works great. 
+com.andrewshu.android.reddit#64392:	   this is the first and only reddit app I've installed and its been great to me for a while. however recently I've ran into an issue where most image links only load if i open in browser. otherwise it functions great. 
+com.andrewshu.android.reddit#64433:	   The app keeps crashing. Are you sure its because of android web view? I have another reddit app and it runs smoothly and it too uses android web view I suppose. 
+com.andrewshu.android.reddit#64434:	   I would give 5 stars but this app has a huge problem where if I ever try to open imgur albums, it just crashes. This has a massive impact on subs like /r/streetwear where 90% of the posts are albums. 
+com.andrewshu.android.reddit#64449:	  Sick of the constant crashing 
+com.andrewshu.android.reddit#64455:	   Simple to use, no frills, gets the job done. Have used it for years and never had a problem 
+com.andrewshu.android.reddit#64459:	   This used to be a really slick Reddit app, but as of late it doesn't load gyfcat or imgur very well. I can open the same links in browser and it loads instantly. However, when i open a link in-app, it always takes a while to load, and even then video playback is frozen. It'll be a still image while the progress bar on the bottom runs through--no matter how many times it repeats. 
+com.andrewshu.android.reddit#64466:	   I actually have to rip the battery out. Several times a day. Please fix 

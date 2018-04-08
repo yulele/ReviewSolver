@@ -1,0 +1,862 @@
+org.coolreader#120001:	  Not good can't open epub file 
+org.coolreader#120004:	  It was my favorite app. However, I stucked with a problem that the app does not see my external SD card. So I cannot read anything from it. Please FIX it! 
+org.coolreader#120005:	  It keeps closing. I just downloaded it. In 5 minutes it closed three times. Just stops working and closes. I li ke this app please fix it 
+org.coolreader#120012:	  Emailed dev but no reply. On Samsung tab. Can't redirect to TRUE root to be able to read from External SD card. Not enough space on internal device so for now can't use Cool reader until/if dev decides to fix. Pity cause looks promising and prepared to pay if worked 
+org.coolreader#120019:	  This works well on my Samsung 4. I use it every day. It crashes once in awhile, but I have never lost any info. It's one of the few apps I've paid for - donated in this case. 
+org.coolreader#120020:	  Could B a really GREAT App but has problems: glitches & hangups, timeout conflicts, etc NOT snuff to stop using it tho 
+org.coolreader#120022:	  Won't load any of my books. 
+org.coolreader#120025:	  worst app this app can not find where is your pdf file in phone or memory card 
+org.coolreader#120026:	  The only thing I wanted this app for was the text to speech and it sucks. About once a minute it would give up on a sentence and skip to the next one. It might have been the italic words causing the problem but whatever, it didn't work well. I have not tested any other features. 
+org.coolreader#120032:	  When I showed some books like harry potter, Alice in wonderland it shows no books. So borring. Don't download it. 
+org.coolreader#120037:	  Used to be really great but recently it keeps shutting down unexpectedly and loses the page. Too frustrating and there doesn't seem to be any support or updates to try and fix this problem. I don't use it any more but if the problems could be solved, I'd go back to it immediately. The best looking interface of all of the readers I've seen. I now use Moonreader which is OK but not as comfortable as Cool Reader. 
+org.coolreader#120042:	  Although the app is very good, it crashes way too much for it to be prefered over other e reader 
+org.coolreader#120062:	  A couple issues: 1) the read-aloud feature will occasionally skip one or more sentences. 2) on my ASUS tablet, the app does not respect when the auto-rotate setting is off (which should keep it in either landscape or portrait mode). 
+org.coolreader#120069:	  Cannot access SD Card on Samsung Galaxy S5 anymore. This used to be the best reader, but newer versions do not allow SD card access. As internal space is limited this is a dealbreaker. 
+org.coolreader#120078:	  Great app but is hard to fix the crashes anyway it is very good 
+org.coolreader#120087:	   Seems to work right, but won't open files in certain directories 
+org.coolreader#120089:	   Keeps occasionally crashing. Sometimes I tap to turn the page and the whole thing shuts down, not saving any of my reading process. Pretty annoying. 
+org.coolreader#120091:	   Now with my new phone and tab , it cannot read sd card. Keeps crashing too. No idea why. Worked like a dream when using with my old phone. 
+org.coolreader#120093:	   It was the second epub app I installed and it's absolutely perfect. It has a simple clean interface and highlights and bookmarks with ease,which are the features I look for.been using it on 3 different devices since past 2.5 yrs.so I've used it a lot and it has rarely failed me(no apps foolproof). Best app for epub files. 
+org.coolreader#120095:	   This used to be the best reader for Android until you upgrade to Lollipop or newer OS. NOW IT CAN'T FIND ALL MY BOOKS ON MY SD CARD!! This is definitely an oversite by the development team. I started looking at other readers and found several to be equal and better than Cool Reader! Will not switch back since your team cannot keep up with technology! 
+org.coolreader#120099:	  night mode not working on samsung s7 edge. It worked on samsung note 3. Far too many options and the color sliders are a pain to use. There is no support 
+org.coolreader#120103:	  Have used this app for many years. It was the best. But since Marshmellow it can't find my external sdcard. I'm hoping it can be fixed. 
+org.coolreader#120104:	   Reduced trom 5 to 2 stars. Still a great app but cannot get books stored on sd card. Any chance of sorting this out as,other than that, it is a really great app 
+org.coolreader#120114:	   It crashes almost on every page 
+org.coolreader#120115:	   Love the interface, but it crashes sometimes when the e-book css is disabled. Also slow to load large e-books. 
+org.coolreader#120116:	   It used to be my favourite app but now it closes every time and randomly, while I'm reading a book. When I open again, it will take me to a different page than where I was. When I try to search for the page, it doesn't go to it and will crash once again. It's very annoying cause it's happening constantly. The one positive is that it can open all of my ebooks, even the ones that other ereaders can't 
+org.coolreader#120119:	   It was my only reader app till recently. It outperformed all others until I placed a 128gb sd card in the phone and it cannot access it, so I had to uninstall the app. What a shame. 
+org.coolreader#120120:	  This would be 5 stars except that with my new tablet, I can't get it to even see the SD Card that all my books are on. 
+org.coolreader#120122:	   For a long time, this app has had a serious issue with the tts function that prevents it from reading epubs properly. I notice that whenever it reaches a word in italics while in a paragraph (for example) it immediately skips to the next sentence. Some sleuthing reveals that it has something to do with the span tag. When I decompress the epub (zip format) and remove all the span tags from the pages, the problem is magically fixed. 
+org.coolreader#120130:	   On my Galaxy Tab A 6 it keeps on crashing. Very annoying while trying to read, especially having to find the page i was on. Needs an update. 
+org.coolreader#120132:	   Then it would open up with a different format. The one installed. Then I would have to reformat it to my liking again. After the THIRD X I uninstalled it. Work out the bugs people!! This app can be better than Aldiko or Moonreader if you do. All of which I use by the way. Until then, its two or less stars in my book. 
+org.coolreader#120133:	   It crashed once and never started back again even after trying to start it soo many times 
+org.coolreader#120137:	   Used to use this exclusively... updated to new tablet and now cannot access files on sd card so had to install moon reader 
+org.coolreader#120138:	  Does not save my settings - eg always changes my brightness. Prefer to have it permanently in portrait mode, but half of the time - even when I change both settings on phone and the ap - it stays on "sensor" mode 
+org.coolreader#120139:	  Recently bought a new phone with Android Marshmallow - Cool Reader does not see books on SD card and I cannot navigate to them. When I click on a .fb2 file using explorer it does not open with Cool Reader either. 
+org.coolreader#120140:	   Wouldn't care about the constant crashing if the app didn't reset my book to a random page. Not one reply to any crash reports that have been sent.....and they would be 500 plus by now. Also in the almost a year since I started using this app there has been no update to fix bugs and crashing issues. I have deleted the files the app suggests to prevent crashing only to have it crashes again 10 minutes later! If the crashes didn't occur I would rate this app a 10. 
+org.coolreader#120146:	   This is the best reader I ever used. It's clean, neat, has an array of displays, fonts and backgrounds to choose from. And I don't need to import my ebooks from my phone. Only problem is, it crashes. Every time. Dear Developer, will you please update this wonderful app so I can give you a 5* rating? Thank you. 
+org.coolreader#120147:	   The app cannot access the external card, where all my books are stored. Uninstalling until corrected 
+org.coolreader#120151:	  Actually I love this app. Really love. The only problem is - on my Sony z3c (Android 6.0.1) it recognizes sd card, which is an emulated internal storage. External sd-card remain unseen. As soon this fixed - I'll give 5* 
+org.coolreader#120153:	  It doesn't find my memory card! Why? I started reading books on the phone with Cool Reader, and it was finding it. The problem started after some cool reader update. And the problem isn't in the card, every other app on the phone does finds it! Please fix this, otherwise the app is fine. 
+org.coolreader#120155:	   When you turn the page and the faster you turn the more it crashes. I can get through a chapter if I turn the page reallly slowly each turn. A bit ridiculous and annoying making it not so fun to use. That fixed and it would be a great reader. 
+org.coolreader#120156:	  App is so annoying feel like killing the who created the app. Pls don't use listen to me if u won't then it gonna suffer. Installing this app is gonna be a time waste, energy waste and also space in the phone is wasted. 
+org.coolreader#120157:	   So whoever is developing this app clearly isn't listening to their consumers. I've waited for a month cause at the time I was just reading old book titles. Now some new books has come out and I wish to read them on this app but they still haven't fixed the SD problem with the Android 6.0 update. I would not recommend downloading if you are using a SD card. 1 star 
+org.coolreader#120161:	  Stopped opening. Shows a black screen. 
+org.coolreader#120166:	   It used to be my favorite e-reader. It turned any readable file into a convenient book format. But now I cannot access my books on external SD card. Why? The same is true for Cool Reader GL. This is very unfortunate. I hope this will get fixed soon because I hate to use internal memory for storage. 
+org.coolreader#120177:	  Don't work pdf to voice... 
+org.coolreader#120188:	   -Newest update. Crashes and loses current book more than in any version of last 4 years The only reading app i use... And i read many hours a week 
+org.coolreader#120190:	   I liked the app overall, but the TTS has a known issue of skipping italics and jumping every word after to the next period. I held on for a long time, but no fix was provided. Also crashes periodically. There's plenty of other good readers out there, so moving on. 
+org.coolreader#120193:	   It has issues with displaying PL fonts. 
+org.coolreader#120194:	   Really god reader, all features i need. But crashes time to time. 
+org.coolreader#120195:	   It doesn't read external SSD drives, unfortunately. So, no use for me for now. 
+org.coolreader#120196:	  Crashes all the time 
+org.coolreader#120206:	   Couldn't use it. As soon as I downloaded it and started it my lighting went so low I see anything. Uninstall asap 
+org.coolreader#120210:	   Highly customizable, every option you could want including advanced font settings, custom touch areas, titlebar with progress meter and/or battery % and clock. Bug with TTS where skipping backward results in voice skipping backward but highlight skipping forward. 
+org.coolreader#120215:	   I like everything about this reader except out of over 600 epub books, it will read only 12 of them!!! Not good. Why is that? Would appreciate help on this. Went to the Web site but nothing on help for this problem. 
+org.coolreader#120219:	   I read a lot of books mainly for entertainment but sometimes for school. I favor this one over Moon Reader's settings. Took some trial and error to figure all the settings out though but still my favorite reading app. 
+org.coolreader#120221:	   Cannot access external SD card on Android 6.0. I installed zx Reader and it accesses the SD card without problem. Hopefully it will be fixed soon. 
+org.coolreader#120223:	  Not work with new Android 6.1 
+org.coolreader#120224:	   I love this app, but only one problem though still crashes sometimes i hope u could fix that 
+org.coolreader#120226:	   Does not work with marshmallow on Tab S or Note 4. As it cannot read epubs on the SD card. Otherwise great 
+org.coolreader#120230:	   Can't load books from SD. 
+org.coolreader#120234:	   The problem is with permissions, obviously. It won't even try to access my external SD card. Sad, because this is perfectly doable (some other ebook readers can do it) 
+org.coolreader#120245:	   Just one issue regarding the dictionary plug in .. Maybe It would be exceptional to have a dictionary within the app 
+org.coolreader#120247:	   It crashes again and again, specially during swyping 
+org.coolreader#120250:	   Its the best, until I update to marshmallow. Now only internal storage can be read. Please fix 
+org.coolreader#120257:	   Love the readers versatility and integration with a dictionary. One bad thing: Newest android crashed my SD card accessibility, please fix soon. 
+org.coolreader#120258:	   I've used this on my old phone for ages without issue. With my new phone, it randomly crashes and closes, losing whatever progress I have. I'll have to try a hard reset and see if that helps, because it's getting worse and happening frequently. Thankfully I still have my old phone. 
+org.coolreader#120259:	  Doesn't work 
+org.coolreader#120264:	   Love the app but after updating my Note 4 to Android 6 it no longer reads my external sd card where my library is stored. That needs to be fixed 
+org.coolreader#120268:	   Really pleased with this FREE app thats read every book I've thrown at it. Use it daily. Now's it crashing a lot & returning back to an earlier page, 3 stars untill that's fixed 
+org.coolreader#120270:	  Actually my favourite ebook reader but am disappointed that now it seems my new 128GB SD card is not accessible? 
+org.coolreader#120272:	   Always used it on my S4 but disappointed with the S7 operation because it cannot find the SD card and there seems to be no answer from the author about a fix. What a pity 
+org.coolreader#120273:	  Nice, but does not access SD card on Android 6. Use FBReader. 
+org.coolreader#120282:	   Every time I try and open my .mobi book, the app crashes! What gives? 
+org.coolreader#120283:	   Crashes a couple of times per hour of reading on average. Them have to open again and find page I was on. 
+org.coolreader#120284:	   Crashing often on Note 7. Was good on previous smartphone and tablet. Hope next updates will improve. 
+org.coolreader#120288:	   It won't let me open word documents. I see there's an extension for it here but it won't find any of my word docs. Unless I'm doing something wrong. 
+org.coolreader#120289:	  This was my default epub reader for many years (since 2012). Unfortunately, after my Samsung Galaxy Tab S2 tablet was updated to Android 6.0.1 three days ago, I wasn't able to use Cool Reader any more to open the epub files on my SD card. It seems that Cool Reader 3 simply cannot access files on the SD card in Android 6.0.1. I tried the other app "Cool Reader GL" offered, but it too cannot open any files from the SD card. Hopefully, the developer can patch the program so that it can read files off an SD card in Android 6.0.1. Otherwise, I will need to find an alternate epub reader that can open files on the SD card. 
+org.coolreader#120299:	   IT IS NOT OPENING. Even if it does, it just kicks me out could have gave it a better rate if the bug was fixed. Fix. IT. 
+org.coolreader#120305:	  Cant use the internal file browser to view books on the sd card. Wish they would fix this bug 
+org.coolreader#120306:	   I cannot find a way to open books in my sdcard. It won't work for me. 
+org.coolreader#120309:	  Fully crashed in Moto G3 
+org.coolreader#120311:	   After mashmallow update on galaxy s5 doesn't access external sd card. 
+org.coolreader#120312:	   I couldn't find a way to get access to anything on my memory card where all my books are. Can you help please? Before the update I would have given a 5 star rating but now I have access to nothing I'm afraid it's a 1. Sorry 
+org.coolreader#120323:	   Awesome app, and I would rate five, except for the small issue of the audio skipping portions of the story when it reaches an italicised word.  Update to fix? Pretty please? Promise to re-rate 5 if you do. 
+org.coolreader#120326:	   Can you fix it? Add custom directory or something 
+org.coolreader#120329:	   It's a good app, but it's auto rotating it self. Then i check setting on my phone, but I already turn off auto rotate. Please fix these, i'll give 5 star for comfy read 
+org.coolreader#120330:	   It crashes at random on my Galaxy s7 and my Galaxy Tab s2. Other than that of love the app. I've been using it for years now, and it may crash but it hasn't failed me yet. 
+org.coolreader#120342:	  Title says it all. I love it. I use it every night to read to help me sleep. Update: After upgrading to Android 6 (Marshmallow), Cool Reader fails to load epub files from external SD card. 
+org.coolreader#120344:	   Lets you read ebooks for free. I enjoy the page color, easier to read in low light environments. Compatible with a good many formats. There are minor issues here and there, a pinch of frustration when not swiping correctly and such. But it is a very solid reader, and it is very free. You could do a lot worse than this in the app store. 
+org.coolreader#120345:	   Best UI and features of all other apps. Been suffering over 10 months with crashes every half hour and loosing book position. Today did a factory reset on tablet and installed ONLY this app. 3 crashes in first 15 minutes. Google Play says last update June 2015 - over a year ago. Last year filed ticket on Source Forge but developer never responded. Moving on to #2 reader, FBReader. What a shame. 
+org.coolreader#120346:	   Couldn't find any better app. This one is amazing i've been using it for a year now and you can choose the background, fonts and size. Pretty much everything that can make me reading in comfort 
+org.coolreader#120347:	   Since Marshmallow, doesn't use ext storage. won't even load from it. "trying to load book from non-standard location". my favourite app just bit the dust in a gory bloody mess. 
+org.coolreader#120348:	  It is perfect! Except one thing: It is crashing from time to time. I try it on 6 different devices - everywhere the same 
+org.coolreader#120350:	  I recently purchased Samshung Galaxy Tab S2 and the same got uprgaded to Android 6.0.1 i.e. Marshmallow. After that, this software is not able to read epub and any other files from MicroSD card. These are showing as txt files . So this software has now become useless for me. May be sone future update will fix this, But fo rnow, this is a major problem with this software. 
+org.coolreader#120353:	   Ever since the Android OS update it doesn't see my memory card where I keep my library. I hope that gets fixed. 
+org.coolreader#120362:	   Crashes all the time, then opens up 2 chapters back. Touching the screen accidentally flips between chapters. Total crap. 
+org.coolreader#120365:	   Love this app, but just got a new phone with Marshmallow and it can't see the SD card. I see reviews reporting this 6 months ago, so not hopeful this will be fixed. I guess it's the end of the road for me. :( 
+org.coolreader#120366:	   ...until my device updated to marshmallow. Now it does not read files on my sd card. Please fix this! 
+org.coolreader#120367:	   Phone updated system and now I can not get it to recognize the files on my SD card to read 
+org.coolreader#120376:	   I have used this ap for years and other than a few crashing instances it has been perfect. 
+org.coolreader#120381:	   Can't access sdcard on Marshmallow 
+org.coolreader#120386:	   Can't open books on sd card on Android 6.0 
+org.coolreader#120390:	   Use it couple years. Didn't have any problems. 
+org.coolreader#120392:	  very excellent application. The ancient Froyo tablet I favor for ebooks can only use an old version, but the cold version is plenty cool enough. QUESTON: There's no icon. App mgr can't see it, it's not on all apps, no ghost icon either, no little android guy. I launch it from the old anttek app mgr pro because no other app can see it (the reason shortcut apps don't work). It doesn't even show in notifications. Is there a way to manually add a shortcut by moving files or maybe decompressing the apk? THANKS!! 
+org.coolreader#120393:	  Can not open extsdcard, can not change charset 
+org.coolreader#120399:	   that is all I got.. also error 502. uninstalling.. 
+org.coolreader#120402:	   Been using it for years. Used to be quite stable but recently keep crashing. Please fix. 
+org.coolreader#120403:	   I've been using this app for some years now and suddenly it won't save my settings, every time I close the app the settings reset. 
+org.coolreader#120405:	  Cannot read SD card on Android 6.0. Please fix. 
+org.coolreader#120408:	  Horrible app, they ignoring system settings, crash 20 time per day, and don't save place where I read last time. 
+org.coolreader#120412:	   I lost my place in my book and cc decided to start again but the drop down arrow whilst in the book has disappeared so I can't skip to pages or even read out loud anymore. Help or fix 
+org.coolreader#120413:	   Love this app strong versital in a compact size. Reads most formats and saves your place as well. Even among several books. Would give it five stars but it has a tendancy to crash after 15-20 pages on my lg Vista when changing the page, its an annoyance that is quite frustrating. Ootherwise fix that and I will give 5*. 
+org.coolreader#120414:	   Seriously?No memory card support?Then you in the wrong store,should be in iTunes store,they don't use memory cards. 
+org.coolreader#120415:	   Every time i try to read a book, after awhile it crashed and then force close by itself. What happen ? 
+org.coolreader#120423:	   Since last update to Marshmallow, it would not see SD card or Dropbox/Google drive/One drive. Can you fix it? 
+org.coolreader#120433:	   Its so confusing I can't find a book or anything hate it! 
+org.coolreader#120435:	   I've been using this reader for a long time and loved it... until recently. When the last update installed it caused some issue with my SD card and I can no longer access my books that are stored on there. I just recently purchased a whole bunch of new books and can't read any of them... very frustrating! Please fix! 
+org.coolreader#120436:	   I don't understand why it keeps crashing on my phone. It's always fine on my tablet. My tablet is an old version of android and my phone is the latest one. Is it not compatible with the latest version of android? 
+org.coolreader#120439:	   I get internal or emulated sd internal, but can't file path to actual external sd card. I have current phone and Android os, and moving files another time is not worth it. Looking for a fix out working app, which ever comes first. Having a reader versatile with formats read and other customization is great. This was my default reader. The initial page load is slower than kindle and bookmarks work, but could be refined and a little more visual. 
+org.coolreader#120440:	   Please fix this, and I would give 5 stars 
+org.coolreader#120441:	  Love the app but it crashes a lot 
+org.coolreader#120442:	   It is a good reader except for constantly crashing - constantly. I am very tired of this. 
+org.coolreader#120443:	   Not working for Android 6.0 for Samsung S5. Not able to access external SD card. 
+org.coolreader#120450:	   It opens the file but doesn't display anything. Then it crashes. 
+org.coolreader#120452:	  Hi all. Been using this app for over two years and it's absolutely reliable..until now. Upgraded to android marshmallow and now can't access the SD card?!! What's up with that?!!!! Neeeeeeed a response urgently 
+org.coolreader#120454:	   Hangs a lot. Hard to use interface. Text can not be selected easily. Dictionary does not work. 
+org.coolreader#120460:	  Excellent! Just what I was looking for... I'd like to donate, but there is no PayPal option... No problem with epub format, slight problems with prc (MobiPocket) format... Working great on Samsung S4, LG GPad V500, Gigabyte GSmart GX2... Android 4.4.2 and 5.0. Does NOT see extSD on Samsung S5 + Android 6.x 
+org.coolreader#120462:	   No major or even noticable bugs. Works flawlesly on every android device I have. Useful and comfortable reading modes. I recommend it, if you want to turn your android device to e-book reader. 
+org.coolreader#120465:	   I've been using this reader for a couple years and it recently started crashing after an update. It freezes or closes without warning. Frustrating. 
+org.coolreader#120466:	   But you need to fix the external sd card issue on Marshmallow. I don't want to keep my books on the internal memory. 
+org.coolreader#120469:	  Installed it to read mobi files downloaded from AO3. It won't open them--gives an error message. 
+org.coolreader#120476:	   CR no longer recognizes that I even have an external SD card. It will only read the device memory. I don't keep my books there. Fix this please. 
+org.coolreader#120483:	   Have been using it. But now in Marshmallow and infinix hot 600 it can't open the folders and with .rtf files. Please rectify 
+org.coolreader#120484:	   Still had some crashes 
+org.coolreader#120485:	   I've looked through the whole play store , but I didn't find anything better. 
+org.coolreader#120487:	  Good but it crashes sometimes... Please fix it thanks :) 
+org.coolreader#120493:	   Nice features but crashes too often and fails opening many epubs 
+org.coolreader#120494:	   On my Kindle Fire, the Kindle reader read my PRC books fine. This app gives a message saying, "Error Reading File." My books appear and seem to be recognized, but they just don't open. 
+org.coolreader#120502:	   Fail 
+org.coolreader#120504:	   So I made a folder on my SD card but I cannot access it from within this app. Useless for me. 
+org.coolreader#120505:	  Never had a problem 
+org.coolreader#120508:	  Have been using this app for about 2 years now. Never had a problem till I got a new phone. Every time I exit the app, the font size and the brightness are set to default. Really annoying. 
+org.coolreader#120514:	   I like the reader a lot, but it crashes a bit too often. 
+org.coolreader#120515:	   Will give 5 once it's fixed. Happens more than 5x/hour. Hang and jump back 50+ pages. Please fix it as I really love this app and don't want to change to other apps. Tried reinstall. Still the same. This happens after the update 
+org.coolreader#120531:	   I used to love this eReader, but I keep all of my eBooks on my MicroSD Card so as not to use primary phone storage, but now all of a sudden I can't access my books... 
+org.coolreader#120532:	   Errors 404 500 won't download books in 2.1 where fbreader wont even install. Use spicysquid EbookReader. Works well 2.2. 
+org.coolreader#120533:	  Crash, crash, crash on tab 4 
+org.coolreader#120538:	   Great, free, used to work, suddenly won't find my books on Sd anymore, now useless. Please fix, same issue with cool reader gl. 
+org.coolreader#120546:	   Everything is great. The only issue: it pretty often opens previous book instead of current one. 
+org.coolreader#120549:	   Does not open external SD directory 
+org.coolreader#120552:	    Great ebook file types support. Been using it for a long time. Some very small number book titles that I have looked weird on my 4,5" phone screen, especially the ones with heavy css stylings, but it's far from ruining the reading experience. Just turn off the css and everything is well. Also, footnotes and footnote links doesn't appear at all, css or not. It'd be so nice if these are fixed. 
+org.coolreader#120556:	   It crashes when tilting android phone to read in landscape or portrait. Last crash wiped clean the books file from my sd download directory also. 
+org.coolreader#120560:	   Crashes too often 
+org.coolreader#120562:	  Unfortunately, I can't see my SD card after update to Android 6. Is this an issue in the app? (or maybe some system glitch) 
+org.coolreader#120589:	   Was a time when I used to use only this software for all my books but lately it crashes so often. Can't read any book over 2mb in size and the settings once changed in error are difficult to roll back 
+org.coolreader#120592:	   Tried many readers but this offers more choices when it comes to exporting annotations either individually or as a text file or sending to other apps, eg Evernote. Great choice therefore for students and scholars. Developer responds promptly and helpfully to emails. Updated: since I left review various updates but sadly random and unpredictable crashes remain, losing all notes and bookmarks made since app was opened. 
+org.coolreader#120598:	  Does not work, I can't access any of my books. Uninstall 
+org.coolreader#120609:	  Too many bugs 
+org.coolreader#120610:	  It's been my favourite e-reader for a few years now, on my rooted Nook Simple Touch. Unfortunately the latest version doesn't work and crashes before even starting :( So I'm sticking to the old version. Would love to have the updates work again. I love that it shows as an option from the Nook's 'currently reading' button, and that I can use the Nook's side buttons to go forward/backwards. Customization of tap zones is a very handy feature. I do wish the library were easier to use, though. 
+org.coolreader#120611:	   when I first downloaded worked fine now it shuts down and takes forever to load if it even decides to load... thanks for fixing crash problem I love it again 
+org.coolreader#120614:	   Since the upgrade to Android 6, it does not seem to be able to access my external SD card to read my ebooks. Have used it for years. Cannot use it now. Please fix! 
+org.coolreader#120615:	   If works well on your device it is a reasonably good reader. You can customize a lot regarding how it displays -- althouh finding the setting you are looking for can be chellenging. Unfortunately, it was crashing every few minutes. 
+org.coolreader#120620:	   Why ICAI website epubs are not downloading?? Pls help.. 
+org.coolreader#120621:	  Very useful....been over a year and haven't had problems 
+org.coolreader#120624:	   Was my favorite reader app until move to Android 6. Can't see external storage formatted as portable. Unfortunately that's where the books are. Would be happy to re-rate when bug is fixed. 
+org.coolreader#120629:	   Help fix this problem please 
+org.coolreader#120632:	   Very good app, used to be my go-to ebook reader, but recently began to constantly force-close and lose track of the page of the book i'm currently reading. hope this would be fixed soon. meantime, i'm using a competing reader... Edit: using Samsung Galaxy Tab S 8.4 and 5.0.2. 
+org.coolreader#120633:	   I have been using this reader for many years, and it has always served me well. As another reviewer has mentioned however, it seems that in Android 6.0, files located on an external SD card cannot be opened by cool reader. I hope this is fixed in an update soon. 
+org.coolreader#120635:	   Needs update. Keeps crashing again. 
+org.coolreader#120641:	  The app was great but now it crushes and it loses the reading progress which is really bad. Please fix it otherwise I'll delete it forever. 
+org.coolreader#120643:	   One of the coolest readers indeed. A loooot of customization options, just about everything you can think of. However, there are a couple of issues such as paragraphs disappearing, cover not appearing, table of contents removed, and unexpected shut downs.. The latter which is infrequent, but reoccurs many times when you come across it. 
+org.coolreader#120646:	  This is fantastic. One of the best with updates. I'm glad I didn't buy a kindle or similar device. Bookmark problem however. Seems to store but come back in a few days and last one missing! A bit annoying! Can this be fixed? Is there a limit to how many bookmarks you can have? Pdf reading - when will this be added? Still waiting for PDF reading ability. This would be awesome!!! 
+org.coolreader#120657:	   It is not reading italized text. It skips and continue reading on the next sentence. Please fix.... 
+org.coolreader#120658:	   On every net book, error 404 
+org.coolreader#120660:	  Crashes after system update to 6.0 
+org.coolreader#120662:	   But I'm having trouble getting it to open rtf mode books. Says error 
+org.coolreader#120667:	  This used to be my fav reader, tho now a lot of the old features I loved doesn't work, and just :( PLZ FIX, I TRIED SO HARD TO MAKE IT WORK 
+org.coolreader#120668:	  I've used this app for about two years now and I've always loved it. I love that it's easy to adjust the size of the fonts and the background lighting and even the background color. I can read most of my stories and files in this one app. The only reason I did not give it five stars was because of something that just recently started happening. I had to erase my data from my phone a few days ago and when I reinstalled this app, i began to get lots of pop up ads as if I don't turn the page fast enough. I don't know if I picked up a bug and its just my phone, but since this is the only app doing it. I'm wondering if I now need to pay to stop the ads or what. if someone could let me know that would be cool. thanks for such a great app. I really do like it. 
+org.coolreader#120671:	   Tried opening an RTF file on my Android phone. The file was an attachment to my email. After installing "Cool Reader" I tried this. Still got an error message saying no app on my device can open this. After about 10 minutes of having this app, I have thrown it where it belongs: In the Uninstall Garbage Bin. 
+org.coolreader#120672:	   Crashes every other page! 
+org.coolreader#120673:	   it don't find pdf file. don't read prc file. only read txt :)) what is app? 
+org.coolreader#120674:	  Crashes often. 
+org.coolreader#120680:	  I have been using this app for sometime and find it excellent. but now i face a problem.i got an android update and upgraded to android 6.0. After that cool reader stopped recognising the external sd card mounted .other apps are able to access but not coolreader.i am forced to transfer books to internal memory and read.please fix this and i will rate 5 star 
+org.coolreader#120682:	   Great reader for the file format options, but crashes LOTS. When you start it back up you've usually lost your page and need to search it out. 
+org.coolreader#120684:	   But still crashes, at list 3-4times per book 
+org.coolreader#120685:	   Good options that doesn't work 
+org.coolreader#120693:	   This works beautifully. Reads all eBook based file formats, allows for many customisation options, bookmarks with ease, and has many functions essential for any avid reader (too many to list). My only "complaint" is that you must find the file using CR, it doesn't just bring up all found on device period, as some others do. But if you know where to look, that shouldn't be an issue. 5/5, would definitely recommend. Edit: is capitalizing all letters Edit: switched from epub to mobi, fixed for now... 
+org.coolreader#120697:	   I am using your app for a while now, but recently it started crashing like 5 times in a row.. very upset with that, waiting for a fix. Using galaxy alpha 
+org.coolreader#120700:	   Great app but please fix screen rotation bug. Its not following the global settings. 
+org.coolreader#120704:	   Waiting for new updates fixing crushes. Can not use it - crushes every 5 minutes. But still hope they gonna fix it and still don't uninstall it. Meanwhile using other reader. Guys come on 
+org.coolreader#120707:	   Works best for me. Very sophisticated, detailed interface; very intuitive and genuinely useful options. "Book Shelf", "Last Read", "Storage", "Sources" right up front on a "desktop"; no menus in menus. Crashes now and then - not too often - but so do I. 
+org.coolreader#120711:	   It is frequently crashing. 
+org.coolreader#120712:	  All crashes fixed! 
+org.coolreader#120714:	   i used to love this app but now it crashes every time i try to use the dictionary feature. when it crashes it loses my page. please fix this. 
+org.coolreader#120717:	  Not the one I need. All my books and docs are pdb. This app description says it reads pdb,but it doesn't :( It reads e pub like many other apps, it is cool, but why does it promise something it can't do? It says error :/ 
+org.coolreader#120719:	  I am uninstalling because it is not user friendly. You will not able to add any book 
+org.coolreader#120721:	   This app really rocks! It won't disappoint You, cool reader reads books when all other readers fail! UB reader failed to read something but this read it! It looks a bit bad but it works better than anything. I even somehow managed to download the messages off a social network and read THEM as a book! Beyond compare, you will love it, do rate it 5 stars! 
+org.coolreader#120723:	  It still crashes occasionally even though I'm now using it on my Nexus 5 with 6.0.1, and sometimes the titles are a bit messed up unless I don't allow the document's internal styling. I'd do that but if I don't allow the document's internal styling, italics disappear. Otherwise, works like a charm. 
+org.coolreader#120728:	   Crashing frequently since last few weeks on my galaxy grand jelly bean 4.2.2. Pls fix 
+org.coolreader#120730:	  Terribly unstable. Just keeps crashing. Other 3 ebook readers on same devices are perfectly stable. UI and icons feel rather dated. On the +ve side, page background is pretty nice.. Gives old book look. It's a small app that opens a lot of formats. 
+org.coolreader#120732:	   I had a different OS before and CR worked perfectly. But when I upgraded my phone that has a lollipop os, it will always crash. Nothing wrong with the interface but the app will randomly close. Please fix. And I wish docx format will be supported too. Thank you! 
+org.coolreader#120734:	  App is lagging while turning the page. My devices are HTC M8, which I changed to M9 and got the same problem. Please, optimize it. 
+org.coolreader#120736:	  All of the fonts are the same, i. e. The adjustment simply doesn't work. Disappointing. There are other readers. Also, in a plain text file it interprets an apostrophe as a question mark, making the app totally unusable. Of course, the developer will continue to ignore me. 
+org.coolreader#120738:	   his is the worst ap ever it won't let me read any books when ever I go to it it freeze fix it and I might give 3 stars fix the problem plz 
+org.coolreader#120749:	  Cannot open pdb files 
+org.coolreader#120753:	   Great e-book reader. But the latest version crashes every 5-10 minutes!! 
+org.coolreader#120754:	   ..At all. It was good app before all those updates. Now I can't open a book without crushing the app and reopen it several times. I would be happy if it wasn't so laggy. 
+org.coolreader#120764:	   Well done, good backgrounds and has never crashed on me. Multiple devices. 
+org.coolreader#120767:	   Works great and been using it for a while. The biggest problem I have had is the screen auto rotates in the app no matter what the global setting is. It's frustrating if you want to lay on your side and read as the screen turns 90 degrees. This is about the only app I have come across that ignores the global setting. 
+org.coolreader#120770:	   Does not work properly. Sometimes it opens books for infinite time. And often it quits on page turning. There are better apps. 
+org.coolreader#120772:	   I just downloaded this app but can't download books! Give some instructions 
+org.coolreader#120773:	    removed the settings bar at the top and made the font giant size. How do I fix this? 
+org.coolreader#120777:	  Bricked my phone. Tried another reader that worked well but didn't liked it. Installed this, turned a few pages and then the phone froze. Nothing respond, can't reboot or turn off. That page has been displayed for 15 hours now and I can't use the phone 
+org.coolreader#120782:	   Can't upload PDF files.. 
+org.coolreader#120783:	  Last update stop working on nook. Why? 
+org.coolreader#120791:	   Haven't use it yet but I have it also functions well on Non-android  
+org.coolreader#120794:	  Even though this was a great app to use for my first book, it doesn't open any other PDFs that I'd like to view. This is frustrating because the book was in PDF format which worked great. Please fix your application 
+org.coolreader#120797:	   Kept crashing whenever I tried to open an epub that I have opened in other readers 
+org.coolreader#120803:	  Crashes literally all time. 
+org.coolreader#120809:	  Like it much but i have a problem.. just this night i wanted to add a new book in my library but when i click the book i chose it doesnt open.. ERROR 404 shows up instead. What does it mean? Please help.. 
+org.coolreader#120814:	  Crash 
+org.coolreader#120818:	   I love this reader but now I am having issues with the night mode text and I can't see it. Instead of the yellow I am used to it is now grey and hard to read 
+org.coolreader#120820:	  Hands down the best reader out there. Logical interface and user friendly navigation through the features make it a spear longer than other more glossy reading apps. I use it pretty much everyday for almost 2 years now without any significant number of crashes. 
+org.coolreader#120821:	   Keeps dumping me back to the launcher & losing reading progress on an ASUS ZenPad 10, Android 5.0.2. App has been great for me in the past, but is too unreliable right now. Fingers crossed that it is just a temporary bug, or x86 issue that can be resolved. 
+org.coolreader#120826:	   It used to be my favorite epub reader app. Back when I was still using Android Jelly Bean, it worked perfectly. But it doesn't seem to work in my new phone (with Android Lollipop). When I try to reduce the screen backlight brightness to the lowest level, the text becomes blurr. It was perfectly fine in my Android Jelly Bean though. So I wonder why it won't work in Lollipop? Can I just send this problem through email so i can show you the screenshoot? Please respond me  
+org.coolreader#120847:	   I've been using this reader for a long time and it's perfect for me. But since the last update I can't delete files directly from the app. Fix this, please? 
+org.coolreader#120848:	  Crashes ALL THE DAMN TIME just reading TXTs. I mean what the... Not to mention having to disable text autoformat because it displays like 3 sentences per page, of which most are stylized as titles.. 
+org.coolreader#120854:	   It gives 'error while loading document ' when loading PDB files ... I don't think it is capable of opening Palm OS PDB files as claimed in the promo .. 
+org.coolreader#120861:	   Love it. Well thought out for reading & customizing. Used a lot on Moto RAZR phones. Love one touch night/day mode & how it remembers the brightness. Can adjust everything to improve the readability to suit own needs - obviously designed by readers for readers. Only criticism; may be difficult for some to understand how to customize. I had major problem one time; end of one ebook caused program to crash repeatedly. Last attempt it froze phone -battery not removable so phone unusable till it drained. 
+org.coolreader#120865:	   It doesn't want to remember my settings so I have to reenter it every time I start the app. Please help! Still doing it! Please fix it! 
+org.coolreader#120867:	   Constantly crashes since last update 
+org.coolreader#120881:	   On my Nexus 7 I'm using 3.1.2-102 and having problems. When I check the Play store on my tablet, it says that's the latest. In the Play store on my phone, it says 116 is the latest. Fdroid says the newest is 3.1.2-72. What should I be using? 
+org.coolreader#120886:	   Once you fix the screen rotation problem, it will be 5 stars. I've adjusted all the orientation settings and none of them lock it... 
+org.coolreader#120887:	   Works OK on my Android, does what it says its meant to. Crashes infrequently when used in horizontal position, losing the last page opened. No adds in my version a big plus ++++! For free its great. I Did not update to newer version no need to add more permissions than it already had. Have it on a computer as well but I prefer to read on CALIBRE because its far more versatile. It takes longer to locate books on Coolreader. 
+org.coolreader#120888:	   I love this BUT am constantly having problems with the background going really dark & making it really hard to read. Not sure if anyone else has had this problem but nothing i have tried seems to work. 
+org.coolreader#120890:	   Couldn't open or read the pdf book and gets lag, slow to scroll page in big size books that I tried 17mb prc book, so please improve it, otherwise it's great, thanks. 
+org.coolreader#120892:	  Extremely buggy in the recent versions. Too much crashes. 
+org.coolreader#120899:	   I downloaded this to open chm files as described in app info but there's a serious problem with the formatting that missed the file seriously it's very bad however I haven't tried it for anything else yet it doesn't even deserve the one star. 
+org.coolreader#120908:	  Would have given five stars but has stopped working since last update .. Please fix!! 
+org.coolreader#120910:	   It may crash few times a week, but it is best reader I've ever seen. 
+org.coolreader#120912:	  Crashes quite often 
+org.coolreader#120915:	   Ever since android updated coolreader keeps crashing when turning a page. Used to be perfect. Problem is when you restart coolreader it does not remember what page you were up to sand may crash again as you flick through trying to the last page read 
+org.coolreader#120916:	  Cool Reader stopped working on Nook Simple touch after the last update. Please fix this as soon as possible. Or, if not possible, please let me know how I can revert to a previous version. For me, at this moment this great app you made became 100% useless. Thank you. P.S. - when working properly, this app deserves 5*, which will get, as soon as I can use it again. 
+org.coolreader#120927:	   Used this app for about a year. Start to crash in previous update. After last update still crashes. Less then before but too often. Forced to move to another app. 
+org.coolreader#120935:	   Mail me after fixing..... 
+org.coolreader#120941:	   I could not use it to read my pdf , doc, and any other time of books , I have the new tab s2 Samsung 
+org.coolreader#120943:	  Tts doesn't work at all 
+org.coolreader#120944:	  After the update works as best free app in the store. No minuses, only good reading without adds. Thanks! 
+org.coolreader#120952:	   Still think this is great but there's a problematic bug that appears regularly, after finishing a book the option to browse the file system isn't there and as the search option doesn't seem to search files in the device it can be impossible to open another book 
+org.coolreader#120959:	  Nice app. But It keeps crashing fix it plz 
+org.coolreader#120962:	   Opens wide range of books with different extensions but Keeps on crashing ALL the time :( 
+org.coolreader#120965:	   I can't change the font from script without it crashing and putting script back on. What is this? Okay so I fixed the font but nothing ever stays were I put it. Font size keeps shrinking and brightness keeps going back to 2%, and now it crashes every 6 or 7 pages. And it can't read aloud. I've never had any of these problems before on my other phone. 
+org.coolreader#120967:	   Everytime I open this it keep on crashing whenever it is loading. Please fix so I can rate this 5. I thought this is the best app, it prove me wrong. So, please fix mine. This is the only app installed in my tab that keeps on crashing when loading. 
+org.coolreader#120968:	   Why I get this text when trying to download books from online catalog ?? Otherwise it's best reader on google play store, but for now it's of no use 
+org.coolreader#120972:	  Frequently Crashes 
+org.coolreader#120975:	   Doesn't work from a long time. I can't open not even its own manual. The best alternative remain AlReader by Alan.Neverland. 
+org.coolreader#120976:	  Crashes sometimes on nexus 7, but still very good. 
+org.coolreader#120977:	   Randomly crashes and sends me 5 to 10 pages back everytime. 
+org.coolreader#120978:	  For last two years keeps crashing unpredictably. And my Samsung Galaxy Nexus is no longer supported? 
+org.coolreader#120981:	   A nice, reader friendly interface. The only problem I faced was that I couldnt read pdf format books ( Technically, it may not be the best format). Integrating pdf as well would surely make it my favourite book reader app. 
+org.coolreader#120985:	   I absolutely LOVE this app. The best I've tried out of several. The only complaint I would have, and the only reason I didn't give 5 stars, is that when I edit the book tags (title, author, series, book #), it doesn't save after the app closes. :( 
+org.coolreader#120990:	   The last update helped, but it still crashes way too often. 
+org.coolreader#120997:	  Hyperlinks on images don't work! Why?? :'( 
+org.coolreader#120999:	  It is a great reader but... The reader now starts up with the Cool Reader manual instead of where you left off in your book when you powered your device down. This is much more frustrating than the next one. The brightness for both text and book list goes dim. Going to Android tools and tapping the brightness slider corrects the problem but you should not have to do that. Aside from these warts, it's the best reader I've found for Android. Samsung GT 7.7 (Android 3.2) & Asus Transformer (Android 4.03). Update 8/6/2015 I believe Cool Reader to be the best, most configurable, ebook reader available and I've evaluated many (but perhaps not all). Cool Reader has crash problems when paging in Android 5 on my Samsung tablet. However, there is now a Cool Reader GL which uses Open GL and works flawlessly so far. Great work Vadim! Thank you. 
+org.coolreader#121000:	   But nothing but problems since last updates. 
+org.coolreader#121001:	  It is still my absolutely favourite reader, though for some reason it fails to save my font size settings. Every time I exit the app and open it again the font jumps to the tiny 33 :( 
+org.coolreader#121003:	   I loved how the complete setting for the app so we can change it whatever we want. But it's so annoying when the app keep crashing and force closed in the middle of my reading. Please fix it immediately 
+org.coolreader#121005:	  After latest update encoding problem with Lollipop Samsung Note2 still persist. No suitable fonts for Chinese characters. 
+org.coolreader#121009:	   I loved this app but it constantly crashes, I can't read 
+org.coolreader#121010:	   Please fix 
+org.coolreader#121022:	   This is a very good reader. But contrary to others, mine often crashes after the last update. Please fix. 
+org.coolreader#121023:	  Nice, but last version doesn't save font size parameter, need to set it every time on open 
+org.coolreader#121032:	  Its an excellent app. But the last update breaks on my phone. Please fix it! 
+org.coolreader#121033:	   I have a problem with your app. Running the last version of the app from google play on a SM-N9005 Samsung Galaxy Note 3 on stock android 5.0. It won't let me stick on using full screen option and every time I exit the app, reverts back to not full screen (the box in the options is unchecked even after I ticked it before exiting). Also it reverts the font size to 28 and to stock dark theme again every time I exit it. Please help. This happened some time lately with an update. Before it was my favourite.help 
+org.coolreader#121035:	  Love the UI. Easy to use but i dont know why,for some books,this app keeps crashing and suddenly stops when i reach certain page. I m in the middle updating the apps.i hope it will solve the problem 
+org.coolreader#121037:	  Crashes all the time. 
+org.coolreader#121039:	  It can not download books, you write a title of a book but it doesn't search. 
+org.coolreader#121048:	   I like this reader, having tried just about all of the others. I think this reader is better than all the rest. There are a few bugs, but they are minor. One is if you have a lot of ebooks, then a scan seems to forget about some of them. Second, there needs a way to flush all of the book info and rebuild it with a new scan. 
+org.coolreader#121062:	   This worked Luke a dream until I got the error message yesterday saying "trying to load book from a non-standard path" and subsequently not opening my books any more (which I hadn't moved). Any fix for this? 
+org.coolreader#121063:	   Most recent update fixed galaxy s6 crash. Great app! 
+org.coolreader#121064:	  Yesterday's update killed the program on my LG G4, app won't open at all 
+org.coolreader#121066:	   Version 3.1.2.84 didn't work at all on my Lenovo Yoga 2-8. 2 days later: Looks like all got fixed in version 104. Good boy Vadim, that was a quick response. Otherwise an excellent application. Reads all my old book formats without having to convert. Thanks! 
+org.coolreader#121071:	   Program instantly crash on galaxy S 6.I need to reopen program around 15 times to open it. 
+org.coolreader#121072:	   I have used this app for months now, easily my favorite reader. Never had any issues except for maybe a crash here and there. Please fix... 
+org.coolreader#121074:	   Whatever was wrong with the update has been fixed. It is back to being THE BEST! 
+org.coolreader#121081:	  Very good app, sometimes it crashes, but versatile and quick! 
+org.coolreader#121085:	   Crash fixed my ... 
+org.coolreader#121089:	  It always says error in loading 
+org.coolreader#121106:	   Used to love it. Updated it, now it takes forever to upload, format and open. Then, when it eventually opens, it hangs & just stops working.Urgh! Please give me back the old version that worked just fine. I knew I should not have done the update. 
+org.coolreader#121109:	   It used to be the best app to read books on but now the updated version does not allow you to go to specific page numbers and percentages . Could this error kindly be fixed 
+org.coolreader#121110:	   Crashes seem due to page animation, turning off in settings, middle menu, page animation, no animation seemed to be a reasonable workaround. Other than that, Vadim did a great job on this application. 
+org.coolreader#121116:	   The app has a horrible design. A lot of the finger toggle options don't work, it's difficult making selections. On top of all that, occasionally, when I open the app, it doesn't open my current selection, like it does normally. Instead, it opens the app as if I haven't even selected that book. It forgets that that was the book I was on and gives me the options to open books previously read. That alone is a problem worth avoiding this app for. 
+org.coolreader#121118:	   Text reads OK till it encounters a capital letter (proper noun) without preceding period. For example: "We ran down to London for tea." "London for tea" is not read. Please fix. Other than that excellent app 
+org.coolreader#121123:	   I use an Acer on the Android platform. This app crashes every few pages and when I restart it, it goes back to the page it was on when I opened the app. Terribly frustrating. 
+org.coolreader#121124:	   Would be great app if it can be fixed where it doesn't keep crashing and shutting down every few pages. Using on a samsung galaxy tab 3....... Please fix 
+org.coolreader#121128:	   But today was a problem on Elephone p5000. App crashed. 
+org.coolreader#121140:	   By the latest update I experience the app closes every 10 min of usage pls fix it soon  after this new update facing same problems 
+org.coolreader#121141:	   Tried it on Android 5.1 but its crashing again and again. Please fix it 
+org.coolreader#121142:	  Crashes often causing me to lose my place. 
+org.coolreader#121147:	   App used to be great but now I can't get get 5 pages without it crashing. Same keeps happening with my wife on her tablet..... 
+org.coolreader#121148:	   Could you please share old version, the one before first version with crash on start? Until now it is not stable. Sometimes black screen after start, some rare cases - app freezes. 
+org.coolreader#121149:	   Just love wood background and great interface. But there are some cons : after switch to other app and switch back it takes some seconds to get to reading position. Last update causes constant freeze+crash after which reading position resets dozens of pages back. Meanwhile I going to moon+ reader till fixed. 
+org.coolreader#121151:	  Used to be a great reader, now it keeps crashing almost after every page turn. I give up - need working reader, not 'cool' 
+org.coolreader#121165:	   Whatever you did with last fix has broken mine! Keeps crashing while im reading and locking up! Not happy! Was perfect before!! Trying uninstall and reinstall... 
+org.coolreader#121166:	   Recently started crashing and reopening on wrong page 
+org.coolreader#121167:	   It's almost not usable. Just crashes all the time. Sometimes it's on the first page turn. 
+org.coolreader#121172:	   Love this app. I have used it for years. Skips on the the text to speech when words are italicized. Fix? Can I set something to stop this? Would love it if I could pause the tts in the ui for my Android device. Not complaints. Just suggestions. I use this app more than any other on my phone. Keep up the good work. 
+org.coolreader#121175:	   It reads mobi so well. Kindle, Aldiko, etc failed to read it. 
+org.coolreader#121191:	   Wonderful app. Should be 5 stars, but I've got problems with "browse file system" panel ( menu is not functional, extSdCard is not accessible, no ability to customize) - could you please fix that? 
+org.coolreader#121193:	   Samsung S 5...crashing and can't finish my book. Please fix because I really loved this app up until now. 
+org.coolreader#121194:	   Good app! But after the last update app crashes on Samsung Galaxy Tab 3 
+org.coolreader#121215:	   Love the app. I've had it for years but yesterday the background changed. Please bring back the old paper one. This new one is too bright, even when you dim it. I hate it and it makes me want to install another app for reading. Please fix it 
+org.coolreader#121217:	   Text to speech is BROKEN! It never continues to the next page after it reads the current page I'm on. Instead it goes all the way back to the first page. So glad I didn't donate anything cause I was just about to after testing it for 1 page. Glad I actually made text to speech read a whole page before giving this failure of an ebook reader any money 
+org.coolreader#121233:	  keeps crashing! pls fix 
+org.coolreader#121239:	  Cannot open pdf 
+org.coolreader#121252:	  Error while loading document 
+org.coolreader#121264:	   I've loved CoolReader until now. I spent $30 for a 38 MB epub ebook, a large reference manual, and CoolReader chokes on opening it; after waiting over 30 minutes for it to open and format this 38 MB epub file, I gave up and installed FBReader, which opened the ebook with a delay of about 8 seconds. Please fix! 
+org.coolreader#121275:	  Kept crashing 
+org.coolreader#121277:	    app, but have problem with reading out loud. App skips sometime some words 
+org.coolreader#121283:	   Works nicely in Samsung but frequently not response and stop in Asus Fonepad 8. Can this be fixed? 
+org.coolreader#121299:	   Used this app for long.was really d best n very easy to use.its acting weird recently.doesn't remember the page where I left reading,once I close and open again all recent books r gone n then have to start from searching which page I left at.tried reinstalling but no difference.plz fix 
+org.coolreader#121324:	   The issues I had with a previous version have been fixed. I really like this app. Best reader I've tried. Other reviews said there was no brightness control but that isn't correct, just swipe up and down the edge of the screen. (Galaxy s5) 
+org.coolreader#121328:	   This ebook reader is really great, better than most of the ones I've downloaded before. I only gave 4 stars because it can't open rar files. I hope you guys make rar files viewable in your next update. :) 
+org.coolreader#121330:	  it crashes every time I open it 
+org.coolreader#121331:	   Sometimes crashing. 
+org.coolreader#121334:	   This used to be my favourite app but it's constantly crashing every time I turn a page. (Nexus 7 Android 5.1) 
+org.coolreader#121337:	   All of my books on google drive is in RTf format and none of them won't open with this crap. Uninstalled! 
+org.coolreader#121343:	   The app keeps closing itself after reading 20-30 pages, fix this please! 
+org.coolreader#121348:	   As soon as I get really into what I'm reading, the app crashes. And doesn't save where it crashed. Once I flip to the right page it crashes again and again. Just let me read! 
+org.coolreader#121354:	   (Droid Razr Maxx HD) This is the *best* *free* reader app. Tap zones let me hold it AND turn pages with the same hand; it's better than paper! Lots of customization. Reading RTF on Android is a miracle, plus all other formats except PDF. I have none of the bugs listed here. Finding files was unusual, but switching between "recent" and "folders" displays I now easily go from Books to Downloads and any other folder, just like windows. Yes some limitations but being free and so many formats it's worth it. &lt;3 
+org.coolreader#121377:	   Unfortunately I under-use its capabilities, as I have had no cause to try other formats supported by the application. Nonetheless, as a pure book reader, it is one of the very best. There are plenty of configuration options, for those who insist on such things. The biggest failing of Cool Reader is the Library function, which basically doesn't exist. For me, this isn't a problem as I use Calibre Companion as my library app. When I click on a book, it opens up Cool Reader. When I exit Cool Reader, it returns to Calibre Companion. This is a surprisingly quick process. I have encountered other readers that aren't as fast switching from library mode to reader and back. It's not a program for everyone, but for me, it is extremely useful. 
+org.coolreader#121378:	  Can't find any of the books I want! 
+org.coolreader#121380:	   But crashes every few minutes when trying to actually read the book, which is incredibly frustrating. Would be great if the read aloud would read italics in a sentence rather than jump to the next sentence as it can get a little hard to follow. 
+org.coolreader#121381:	   Using nexus 7, after update to new android the app started to crash really often. Can't read anymore 
+org.coolreader#121383:	   I only got this app because it supports text to speech, which I really wanted to use for when I'm going on long drives and the book I want to listen to doesn't have an audio book version. Although it mostly works, the is an annoying problem when encountering italic and/or bold fonted words. It will read out the paragraph up until the mentioned word, then skip the italic word and the rest of the entire paragraph and continue to the next. Another issue it has it that it will often read a paragraph twice. 
+org.coolreader#121396:	   'Export bookmarks to text file' is very useful. Report bug: The app is starting to crash since yesterday ( 23rd Feb 2015 ) while trying to add highlighted text. And when the app is restarted, the eBook opens in Scroll-View mode instead of 'PageView' mode. 
+org.coolreader#121399:	   It gave me issue back when i accidentally uninstalled it and then installed it back. It started loading a epub book of 400 pages to 1500 pages. But i reinstalled it after a long time, seems to have taken care of that issue. But the loading of any pre-opened document has a lag time of 4 5 seconds, its actually annoying. Rest is all ok. 
+org.coolreader#121403:	   Sometimes crashes on my Samsung S3 
+org.coolreader#121416:	  excellent, can't ask more for free. love it. not accessing public library catalogue. 
+org.coolreader#121419:	   Always shows "Error while loading document". And the library sucks, it's hard to add document into the library. Need to learn how to manage documents from MoonReader. 
+org.coolreader#121424:	  My favorite reader..but it wont save current settings after exiting the reader..please fix it... thanks.. 
+org.coolreader#121428:	  Great features, but crashes every dozen pages on Android 5.0 
+org.coolreader#121430:	   This is the best epub reader when used in day mode. I have some epub books which would not work no matter what setting used, the font is dark on dark, impossible to read. 
+org.coolreader#121431:	   This really is fantastic ereader. Performance is flawless. I've never had it crash. There are enoigh features that I regularly use without being excessive. All around a great product. 
+org.coolreader#121438:	   Not so good on 4.4 as it crashes randomly and when restarted puts you back to where you last opened it  
+org.coolreader#121439:	   Supporting a lot of formats, is very stable and has a lot of settings. Using it a few years and never had a problem. Probably it's the best reader so far. 
+org.coolreader#121447:	   I can't change font color. Dark mode doesn't work correct. Text is too dark no matter of bright level. 
+org.coolreader#121458:	   Has formatting issues, and Control problems, decided, to go with Moon+ Pro eReader, Since I Already got a Big Discount On The Paid Deluxe Version, and Also Trimming Back Duplicate apps that have less Bells & Whistles to save Memory, on a 64 GB Tablet.... 
+org.coolreader#121461:	   It constantly crashes when trying to change page. I had no issues before updating my tablet to android 5.0 Please fix 
+org.coolreader#121462:	   Love this app but no matter what I do it won't save the font size between sessions. The font it defaults to is incredibly tiny, almost unreadable. 5 stars once this is fixed. 
+org.coolreader#121466:	   Using it without any problem, like it 
+org.coolreader#121478:	   Unable to download eBook files....shows error 404 
+org.coolreader#121503:	   Read option is not working properly. Most of the time skip words and paragraph also. Please fix this issue. 
+org.coolreader#121504:	   My moto g 2 crashes after few days of usage... Hope it has been fixed or will be fixed soon... Otherwise great features! 
+org.coolreader#121509:	   Have been using for sometime and this reader just gets better. Did have some crash issues, but now fixed. For free makes it my number one reader. 
+org.coolreader#121513:	   All the letters are read from left to right which is not good . Hope you could fix it and make it to support RTL 
+org.coolreader#121516:	   But useless for reading online literature. When you try to load anything from online libraries, you get 404 or 500 errors. And even when something loads, navigating through it freezes the app. 
+org.coolreader#121517:	   How can i install dictionary. I've tried fora dictionary from playstore but it won't work 
+org.coolreader#121525:	   App Not open .pdb and .mobi file 
+org.coolreader#121541:	   Good reader but still crashes often...have to bookmark often because of crashes... 
+org.coolreader#121546:	   This is the worst app if you don't know the series or what the U.R.L. is you can't get your book. 
+org.coolreader#121550:	  Your app crashes every few minutes. 
+org.coolreader#121557:	  Bengali fonts are misplaced in words. Is there anything I can do to fix? 
+org.coolreader#121562:	  I have been downloading a lot of apps that can open a file and all of it failed me I wasted a lot of data and I found this app and saves the day I was close to deleting those files which were impt to me but I had no choice coz its useless anyway. Thanks to the creator. 
+org.coolreader#121564:	   Very good software, amazing interface. I'd say better than moon reader. But, the only disappointment is that it can not open pdf files. :-( would give it 5 stars if you are able to add pdf support.. Thanks.. 
+org.coolreader#121566:	   I just love everything about it. So far I don't see any problems. So keep it up! ;-) 
+org.coolreader#121567:	   Unfortunately lately the app crashes a lot on my s3, while reading fb2 files. 
+org.coolreader#121568:	   but it crashes on my asus tablet,fix would be wery welcome... :-) 
+org.coolreader#121575:	   Seem that it is not working every time I use need to set font size 
+org.coolreader#121576:	   keeps crashing! would give 5 star if fixed. 
+org.coolreader#121577:	   My online library doesn't work.... 
+org.coolreader#121580:	   I installed this because it says it will open .rtf files but it said "can't open"! So I tried Office suite 8 and not only did it open but it even has edit. 
+org.coolreader#121584:	   Have it installed on all devices, Hasnt failed me yet 
+org.coolreader#121588:	   Last time I tried out it used to crash. Now its fixed. 
+org.coolreader#121590:	   Frequent crashes in android 5.0 with not saving last reading page. One of that removed all my saved books. But still sometimes some deleted authors appear in the list. 
+org.coolreader#121593:	   Also crashed system on first start. 
+org.coolreader#121596:	   I love this app, but recently it stopped opening my newer .rtf files. They were all made on the same computer in the same program but newer ones won't open. Great app though, if it updates and fixes this I'll be sure to revise my review 
+org.coolreader#121597:	   So very frustrated that my font/format settings don't stay the way I set them. It used to! I set them big and bold because I read outside on a phone a lot... please put it back or fix and I'll give you back that fifth star! 
+org.coolreader#121599:	   I like this application. Only problem: it crashes regularly on .doc documents (older ms word format). New comment: THE APPLICATION IS STILL CRASHING. The "goto page #" feature is buggy. When I use the slider, then often does not go to the selected page. I had uninstalled because of the crashing. 
+org.coolreader#121609:	   I am very very disappointed with the read aloud function of this app, it's just skipping words, sometimes the whole paragraphs, please fix it as soon as possible 
+org.coolreader#121610:	  Has issue with reading same line over and over. Hard to stop it. 
+org.coolreader#121623:	   App is great. I like its background, Classic paper style. But 1 problem that annoying me is orientation option does not work at all! When I lay down and tilt the phone, app automaticly switch to landcape though I turned off my device auto-rotate screen and set orientation portrait to the app. But still doesnt work. Pls fix it! 
+org.coolreader#121624:	   I've been using this app for years. Free, no ads. Extremely intuitive hidden brightness slider controlled by sliding your finger up & down the left side of the screen; wish the rest of my phone operated the same outside of the app. You can customize everything: font size and color, background everything (day and night mode), what the hidden grid of nine short and long press screen panels do, etc. Put a bit of time into learning and personalizing and you'll wonder why all your other apps don't work the same. 
+org.coolreader#121626:	   Great App! No flaws... Buy after the new update the app does not save my prefered setting for font size, it goes back to the font size 30 which is too small, everytime I exit the app 
+org.coolreader#121632:	   I really like this app. I read a lot, and use the read aloud function on my way to and from work. My issue is that I noticed the other day that while in read aloud, it ships large chunks of paragraphs. It'll read the first sentence or two then skips down quite a bit. Fix that and it's a 5 star app in my books. 
+org.coolreader#121634:	   Ammm it was 5 stars... But for the last 6 months it was unusable. With the new fixes, i can't evan see the Mobi books that were working fine a year ago. Am i missing something? LE. i just had to scan the directories. Everything is brilliant. 5 stars Thanks 
+org.coolreader#121636:	   All is good again. Thanks for the rapid start up crash fix. Respect to Dev! This app is the business. 
+org.coolreader#121637:	   Very responsive developer too... Thanks for quick fix! 
+org.coolreader#121638:	   This app makes my day... Thanks for fixing the crash so soon :) 
+org.coolreader#121644:	   Guys i had the same crashing problem when i updated the last update. Just uninstall the app and reinstall it again. It will work fine. I hope they can find a solution without this process but you can do this till then. 
+org.coolreader#121646:	   Thanks Gergely Kovs, because of your comment, I was able to solve the crashing problem upon starting the app. I was feeling very down when I thought I wouldn't be able to use this. So thank you very much. 
+org.coolreader#121647:	   I like it but it now often crashes. Had to reinstall. 
+org.coolreader#121651:	  It was very good, 5 stars, but today, after the update, it cannot start at all... The fix came very fast. Thank you! 
+org.coolreader#121652:	   To solve the latest upgrad freezing problem: just remove (completely) the old one and reinstall from the play store again. This worked for my Galaxy S3 
+org.coolreader#121653:	   Update pointless Now it does not open!! So uninstaled. 
+org.coolreader#121654:	   Please fix as I cannot open app at all 
+org.coolreader#121655:	   It was great before started to crash on opening. Now can not even open. Fix it!  
+org.coolreader#121656:	   Totally loved this app but now it won't open 
+org.coolreader#121657:	  Stopped working after update! Please fix the problem! Can't live without this app 
+org.coolreader#121658:	   Have loved this app for years but it is now crashing on startup. Please fix! 
+org.coolreader#121661:	   Have loved this app for years now but the new updated version keeps on crash please fix this 
+org.coolreader#121662:	   After Updating App, it's crashing continuously....... 
+org.coolreader#121663:	   Not sure what's going on, but it crashes each time I try to open it. Uninstall. 
+org.coolreader#121664:	  Got note2. It has stopped working after the latest update 
+org.coolreader#121665:	   My favourite reading app, but after the latest update it crashes every time I try and load it. 
+org.coolreader#121666:	  Wouldn't run at all. 
+org.coolreader#121673:	  Thanks.Very good apps. Now it can detect my SD card aswell which was an issue earlier. 
+org.coolreader#121690:	   I wish I could give it five stars but it has some problems that need to be fixed. And I wish there was a quicker way to zoom fonts. But I can find no other reader that let's me read epubs AND can properly read .txt file books. With pure .txt books, Cool Reader deals with the wrap around and indentation perfectly and even manufactures a good table of contents and bolded centered chapter titles. And, very importantly to me, it let's me read in 2 page landscape view. 
+org.coolreader#121694:	  Crash on nexus 5 KitKat when opening a chm file, plz fix! 
+org.coolreader#121702:	   I have been using this app from last 2 years, Its really great and I was astonished with its TTH feature, which was mainly I am using. Now its not working anymore. It doesn't goes beyond two three paragraphs, it goes in same loop, reading same paragraphs again and again. 
+org.coolreader#121704:	  Opds prob can't open online catalogue 
+org.coolreader#121708:	  I can't find how to change footnote font size: the menu for footnotes doesn't seem to change it, it seems. But otherwise a great app. 
+org.coolreader#121709:	  HAS FONT SIZE PROBLEMS, ALWAYS HAE TO BE ADUSTING FONT SIZE FROM BOOK TO BOOK.. ALSO, OFTEN OPENS NEW BOOKS SOMEWHERE TOWARDS THE MIDDLE OF THE BOOK. HAVE TO USE THE SLIDER BAR TO GET BACK TO PAGE 1. 
+org.coolreader#121715:	   Would be better if it worked properly. Crashed while loading mobi and epub. Managed to get pdb loaded, but couldn't get to the page I wanted. Also, attempted 'read aloud', but would always jump back a page. I think this app needs a sort out, it could be good then. 
+org.coolreader#121725:	   Why is the links inside the book cannot be clicked? Please fix this issue. Thank you very much 
+org.coolreader#121727:	   Screen rotation is turned off on my phone but the app still auto rotates when I try to read in bed or so much as tilt the phone to attach the charger. There is no option to disable it in the app...pls fix this issue so I can re-rate. 
+org.coolreader#121730:	   Then got new phone. It crashes all the time and will not hold settings. 
+org.coolreader#121732:	   I had a poor experience the 1st time I tried this app. Now it is my favorite. I send a link to the app with my eBooks I send out. I especially like the feature of Read Aloud in settings. It works great with Ivona that supplies a natural voice. Together the 2 are the best I've found. Oh, the Read Aloud option in settings looks like a set of headphones. The only problem is if you are listening to a book and touch the screen, it stops reading and goes to read only. Small problem maybe they will fix in the future. Another good thing is you can stop the app and when it restarts it is where you left off in the book. Other apps restart at the beginning of the book. 
+org.coolreader#121736:	   Same issue on two tablets with shutting down while reading less than a chapter and and if this isn't annoying enough, if I don't continually save bookmarks as I go along it restarts at very first reading point...frustrating! Also I enjoy listening to read aloud while I walk or drive yet maybe 5 pages in it begins to repeat same sentences/paragraphs over and over until stopped and restarted which happens time and again which is a real disappointment...Hope this can be fixed soon or will have to find another. 
+org.coolreader#121758:	   Its completely unusable. Everywhere there's supposed to be "quotation" marks, there is instead ?question? marks. Fix that and you'll get 5 stars and I'll switch back to cool reader from moon+....... Edit: updated version has the same problem...... 
+org.coolreader#121763:	   Latest update fixed Mobi format issue. Was, and is again, the best book reader. 
+org.coolreader#121767:	   Some how the app doesn't include my sd card in the app's predefined directories. I am disappointed that the system dead locks the directories. Even after moving the folder to my phone's internal storage, app just straight out dies trying to format some of the book. Had the same issue with my old phone, app only showed sd card and ignored phone's storage. Worst design ever. 
+org.coolreader#121788:	   This is my favourite reader app, fast and supports a ton of ebook formats.With later versions some mobi books appeared in raw html, resolved by downgrading to 3.1.2-33 (all versions can be downloaded from sourceforge, you can find a link on coolreader's homepage) EDIT: fixed in new version, thanks:) 
+org.coolreader#121791:	   Now that .Mobi support is fixed again, this reader returns to the *top of my most-used app list. A few small tweaks like a rearrange-able folder/location bookmark list would be nice, and I dream of being able to reflow/format text from a pdf file one day. But what it already does, it does better than any other reader I know of. :-) 
+org.coolreader#121793:	   Ok so you fixed most of the problems and I appreciate that. Some files still have ridiculously large margins and I have to use moon reader on those files, but for the most part this is my favorite reader. 
+org.coolreader#121803:	   One small bug. When the book is read out, problem with stopping voice. Otherwise great app 
+org.coolreader#121809:	   I love all the user control in this app. Being able to choose the background - texture, solid color, etc.; the infinite font color choice; font size and font, just to name a few, but VERY important choices. Unfortunately, there are some weird glitches, although rare, where a book just will not open. And I cannot figure out why. Those few books are formated exactly the same as all the others, and will open in other apps. But, I'm too spoiled by Cool Reader to enjoy reading them in those inferior apps. Would love it if the authors would contact me to help figure this out! WHAT HAPPENED TO THE SHORTCUTS BAR A CROSS THE TOP OF THE SCREEN??? 
+org.coolreader#121810:	   Latest update(3.1.2-48) still crashes on orientation change on moto g 
+org.coolreader#121829:	   I think it is the best e-reader app. Thank you for considering Nook Touch users. There are still problems with .mobi books: wrong positions of pictures, table of contents is empty. Please, fix. Adding support for docx, PDF and maybe djvu would be great. 
+org.coolreader#121840:	  Great fixes in the upd.but you still didn't fix the upside down thing on moto g while having autodisplay on. 
+org.coolreader#121843:	   Never had a format issue. Never loses my place in novels, even when switching through a lot of texts. Default page look is very easy on the eyes. Many options for customising. Great app. 
+org.coolreader#121847:	  Problem with change file name /like list of books! 
+org.coolreader#121848:	   Cool Reader is far the best reader regarding css formatting in *.epub books. Unfortunately, there is bug with quotation marks from Update 3.1.2-48. Languages like german, dutch, dansk, czech, slovak, slovene, hungarian and maybe others use quotes of 99-66 type (&bdquo; and &ldquo;) and opening quotation marks are no more glued with quoted text - reader renders line break AFTER opening quote instead of BEFORE. 
+org.coolreader#121859:	   Thanks to the latest fix and return of the mobi format support I have no reason to switch this app to any other ebook reader. Nice app :) 
+org.coolreader#121865:	  Mobile format fixed - spacibo bolshoi, Vadim 
+org.coolreader#121877:	  Unable to open any books since the update today. Would give 5 stars if this was fixed 
+org.coolreader#121883:	   Needs improving n bug fixes....grrrr! 
+org.coolreader#121891:	   Earlier versions apparently work with mobi - but not this one. Problem is not resolved as of 9/8/14. Works fine with epub. But the point is to have one that will read both. 
+org.coolreader#121892:	   I mostly use cool reader to read epub format. And it works well. But while downloading books from opds catalogs, if there is any error, whatever you try, it doesn't happen and the same old error is displayed 
+org.coolreader#121893:	   Loved this app and previously gave it 5 stars but just lately I get part way through some of the books and it just wont go any further. Have tried deleting book and reloading but that is not working either. Its not the book as it works on other devices. Very frustrating. 
+org.coolreader#121897:	  Fantastic app. Although there is a problem after the latest upgrade: fullscreen doesn't work correctly on Samsung Galaxy S, Android 2.1. 
+org.coolreader#121902:	   I love reading and I have tried many different ebook readers for my Galaxy Grand so far. However, they were not as visually attractive and format compatible as I wished. I would only recommend fixing one minor bug that shuts the app down randomly. 
+org.coolreader#121903:	   Good reader. Add pdf format. Crashes often on Note 3 Neo. 
+org.coolreader#121911:	   Don't use anything else. 
+org.coolreader#121915:	  cant read mobi files....plz fix it 
+org.coolreader#121920:	   In previous versions this could read mobi files without problems. Now there are html tags all over the place. Bad :( please fix asap 
+org.coolreader#121921:	   The app works good on sgs2, but not working properly on sgs4, unable to save settings, default fonts are too small. 
+org.coolreader#121923:	   Been enjoying for years, but now crashes every time. Cleared cache & data, uninstalled & reinstalled. No go! Help please! 
+org.coolreader#121926:	   I use to love this app and use it all he time but now I can't use it at all took 30 min to load a book I was reading and now I have to start ever book over won't load where I left off 
+org.coolreader#121933:	   It has a lot of features and it is very easy to use. There are problems with recognizing words in some books I tried to read 
+org.coolreader#121938:	   Dunno why. But uninstalled after not fixing it. 
+org.coolreader#121950:	  A great reader if the crash issue is really fixed. 
+org.coolreader#121953:	   Very good. Never crashed. Never lost bookmarks. 
+org.coolreader#121954:	   Earlier I had some problems, but I discovered that the problems were with the files. The app itself is fully functioning. 
+org.coolreader#121958:	   I have this app on all my devices. Been using it without any problems for years. Dont look elsewhere. This is one of the good ones 
+org.coolreader#121965:	   3stars for old time'sake.Used to love this reader.Now it doesn't even read .mobi format ebooks,it shows html source code every time you open an .mobi book,i tried unistalling and reinstalling it,didn't solve the problem.Plse fix it. 
+org.coolreader#121971:	   It just crashed everytime 
+org.coolreader#121974:	   Can't open pdb format 
+org.coolreader#121977:	  It has to be the worst possible reading experience on this earth having the book you're reading shut close on you, and then going back to it to find out that your mark was lost. This app crashes too frequently: useless. 
+org.coolreader#121984:	   Was brilliant! !! Now after the last update, it crashes after every few minutes.. Please fix this. 
+org.coolreader#121989:	  It crashes a lot recently. Otherwise it has always been a nice app 
+org.coolreader#121992:	   I'm using galaxy note 2. After updating new version all my books appear text coding then I cannot read them anymore. Please fix it asap 
+org.coolreader#121993:	  I love this app.should have given 5,but most of the time it crashes and open with a new oage 
+org.coolreader#121996:	   An awesome app....but in the new update mobi files don't open for me.. 
+org.coolreader#122006:	   Please fix it. 
+org.coolreader#122010:	   But after last update I noticed that it start to crash. UPD: looks like issue fixed. Thanks (: 
+org.coolreader#122013:	   I had a downloaded book and I couldn't get it to .Show on my Kindle app.It was the right format .But it wouldn't, I downloaded this here.I had no problems pulling up my book on this .Great book app! 
+org.coolreader#122016:	   Same problem as someone else reported it shows text plus computer code. Same file reads perfectly on Moon reader. Will have to delete this app. 
+org.coolreader#122019:	  Won't open up this app wasted a lot a mb for no reason 
+org.coolreader#122020:	   I don't get tired of reading on my tablet thanks to this app and all it's features 
+org.coolreader#122028:	   Great reader. Sometimes crashes and doesn't always keep the last book Full 
+org.coolreader#122033:	   Uninstalling since it is not working with pdb files 
+org.coolreader#122035:	   Whenever I open a mobi file it also shows the code that modifies the text. This is a huge issue. I love the app on all other counts and will raise the rating if this improves. 
+org.coolreader#122039:	   Animation does not work as expected (as in previous version). Book page is re-displayed 3 times. Can be corrected somewhat by switching animation off in development options 
+org.coolreader#122065:	   Nice app but it crashes regularly and I keep losing my page. It's got so bad that I exit my book every few pages to save my page, in anticipation of a crash. Fix this and get 5 stars! 
+org.coolreader#122066:	  Sometimes jumbles up epub books. Usually fixable by restarting. 
+org.coolreader#122068:	  Doesn't work with Samsung 10.1 anymore. Used to be great. Not now. 
+org.coolreader#122072:	   Instead it display the html tags... Other readers able to open without problem... 
+org.coolreader#122073:	   It can't find any of my pdf files,so i now use Adobe and i have no problem. 
+org.coolreader#122074:	   Used to be great, but now its totally messed up with .mobi format books - showing html like stuff around every paragraph making reading totally impossible. Please, please fix 
+org.coolreader#122077:	   Crash all the time 
+org.coolreader#122082:	  I used to be able to read my pdf on this but now they don't even show up on the list of books anymore please fix 
+org.coolreader#122092:	   Stops virtually every time I read a book since the last update. Happened 3 times in the last 10 minutes! Update - months later & is still crashing out & losing my place every few minutes! Looking for a replacement reader! 
+org.coolreader#122094:	  it crashes suddenly in big ebooks files! 
+org.coolreader#122096:	   I must be lucky. I've not had any of the problems other reviewers write about. I use this daily and love it. I use it as a reader with calibre companion as my library organizer and it works well. The file open function is a bit limited but calibre fixes that. The interface is clean and uncluttered. The touch screen customisation is good and the brightness option is really handy. (Nexus 4 on 4.4.3) 
+org.coolreader#122101:	   Have used it for sometime now and I am very impressed easy interface and a nice backgrounds and fonts still by far the best of all the readers and now the problem with mobi and html have been resolved .very easy to use and the adaptive background removes the strain in night mode ..well done 
+org.coolreader#122106:	  Loved it, then the update ruined it. I went from only reading at home to reading everywhere. Please fix and add a reset or default feature and I will rate it a 5 
+org.coolreader#122108:	  I have changed device and can't get the same app with my books on the new one.Help... 
+org.coolreader#122111:	   I don't know if it's a kitkat problem or something. There must be a workaround though 
+org.coolreader#122116:	  Great app but with the latest update mobile format became unreadable. There are some html like codes between the lines, please fix it and I'll give 5 stars again! 
+org.coolreader#122121:	  Doesn't handle all .mobi files.. Cannot open all files.. 
+org.coolreader#122126:	   Does everything that other eBook readers do and then some. Can open more formats then any other, but not all. Some, like Kindle, are proprietary to that format and are not open source. But otherwise, this application does the most. Highly recommend it for general eBook reading. No problems found so far. Thx. 
+org.coolreader#122131:	   Have tried quite a few other readers but always come back to this one. But seem to be getting a lot of crashes when trying to access books on my SD card. But can't find another reader as user friendly. Still wish I could store my books in the catergories I have filed them in; eg. Crime thrillers, bios, history etc. But still the best for me. 
+org.coolreader#122133:	   It's a cool reader, but it cannot get table of contents. I hope next build will fix this. Thank you 
+org.coolreader#122151:	  Crashes incessantly. I can't open my txt files at all. 
+org.coolreader#122152:	  It saidnit can read pdb files, but it cant..... please fix this, i'll give you 5 stars 
+org.coolreader#122157:	   Used to love this app but now I get these weird punctuation symbols instead of spaces , paragraphs etc in the text of my books. Other devices of mine do this too so it must be a bug rather than settings or my files Shame, will now look for another reader. 
+org.coolreader#122162:	  Love it. Only problem is that occasionally it switches itself off and looses the page. But it is minor problem. 
+org.coolreader#122172:	   Im using this app sinse ling bt sinse last update thrs wiered problem in it the text of book(.prc file) is complemented with some comupter code fr eg Plz fix ths error.... 
+org.coolreader#122180:	  Stopped seeing my add on flash memory card after updating to android 4.4.2. On Lg G pad. Before it was great. Hope you will solve this issue. On another program, all is fine. I'll have to use the other application for now. 
+org.coolreader#122189:	  Didn't open my mobi books 
+org.coolreader#122191:	   Fix it please, your reader was the best 
+org.coolreader#122195:	  Was a 5 but this is horrible, odd characters all over the place . No chapter titles and regularly loses bookmarks. This goes for previously perfect books, not just new ones. Any one know of cure for this problem or how to remove update? 
+org.coolreader#122202:	   This app started out awesome. Best ebook reader I had tried. But it's been going downhill since. Has been crashing every five minutes today. 
+org.coolreader#122204:	   I really liked coolreader because it has so many customizations but recently it keeps crashing whenever I try to do anything other than turn pages while reading. 
+org.coolreader#122209:	   Was a huge fan of this app, but ive just updated it and now most of my books have a computer code through them which makes them unreadable, very disappointed :( hopefully this can be fixed soon so I can enjoy using the app again. 
+org.coolreader#122217:	   I found a better reader app after this one crashed all the time. It didn't do a good job of keeping track where you were so I was doing more searching than reading 
+org.coolreader#122218:	  Can't read books in my y300 huawei. Useless. crashed when i open 
+org.coolreader#122220:	   I used this app for a while, but i won't anymore, as - after upgrading to KitKat- it doesn't see my external SD card, where my books are stored. Shame... Update: new version hasn't got this issue, problem fixed, thanks a lot! Five stars again. 
+org.coolreader#122221:	   I use the tts feature a lot since it allows me to still be able to read books while doing chores at home. Lately though, there are some books wherein the tts feature just goes back to previous paragraphs and repeats it over and over and does not move on anymore even if you reset it and place the marker on the page you should be reading next. Shoutout to the developers, i hope this issue can be fixed. :) thanks! 
+org.coolreader#122226:	   But problem with.mobi files 
+org.coolreader#122230:	  Upgraded to Gal Tab 3 7 Now .mobi files load eith HTML code making reading impossible. Fix this and it's back to 5 stars Gary 
+org.coolreader#122233:	   Congratulations for making this, as it supports many useful file types. Though I wish there was an option to resize the page we are reading and most importantly I believe u should fix the quality of a page! 
+org.coolreader#122240:	  Very much bugs and errors. Delete. HTC one 
+org.coolreader#122244:	   Can't open mobi file in my xperia z1s. 
+org.coolreader#122247:	   I have been using this application for few months now. Suddenly few days back it started showing up  in the book (mobi & epub) format. very frustrating. Please fix. 
+org.coolreader#122250:	   after you read one page, it will not sync back to same page... page alignment changes frequently.. 
+org.coolreader#122255:	   fix the MOBI or take it off yr list! 
+org.coolreader#122257:	  Excellent customisable ebook reader with awesome old paper like backgrounds. Antialiasing. Various different fonts. And overall decent interface. One complaint. For some reason page turning is exceptionally smooth with my older Galaxy s3. With the galaxy s4 it's very choppy. Ended up disabling the animation but I miss it. Hopefully this will be fixed in time. Still a great ebook reader. 
+org.coolreader#122263:	   Please fix MOBI. Then this will hit 5 stars again. 
+org.coolreader#122266:	    crash crash 
+org.coolreader#122267:	   I have read tons of books with this app, but all of a sudden when I put a book on here there is a whole bunch of code and bits of book all jumbled up...please fix... 
+org.coolreader#122268:	   UI sucks. Does not open chm properly. Author should review his coding & its logic. But I will appreciate the efforts the author has put. 
+org.coolreader#122295:	  Was a 5 star app until it stopped working with mobi files and it will be again as soon as that issue is resolved. 
+org.coolreader#122299:	   some mobi files are now full of html! used to love this reader. please fix it! 
+org.coolreader#122303:	   It was good before update to Android 4.3.. Note it's crashing on start :( 
+org.coolreader#122306:	   Very good app.. But recently continuous crashing on lenovo p780... Please update 
+org.coolreader#122311:	   Without any reason app stops all the time. I decided to give a chance to this app, but after the fifth crash I deleted it. 
+org.coolreader#122323:	   One is it showing the coding and 2 I want smooth reading for the read aloud feature 3 load time fix these and I will give u 5 stars 
+org.coolreader#122332:	   Used to love Coolreader, now have to find something else. All my books show up as HTML code or HTML formatting - this is not good. I can sometimes make it work by converting my mobi books into txt, but it's another step I shouldn't have to take. Author - Please fix. 
+org.coolreader#122334:	   The latest updates have resulted in strange html-like formatting instructions appearing in the midst of my mobi format books text on my phone. It was a good reader and perhaps I could still use it, if I convert everything to epub format. However, I Just switched to a different reader and it works perfectly. It is sad when updates add bells and whistles, but fail to do the original main task correctly! 
+org.coolreader#122335:	   It was my favorite app, but now I need find a new book reader because it makes the HTML tags visible on mobi's and will not save personal settings any more- Droid Razer HD 
+org.coolreader#122337:	   App worked great before the recent updates. Seem to have a particular dislike of .mobi files since all either no longer open or open in encrypted non legible formats. The TTS my favorite feature will loop on the same paragraph forever. Hope these bugs get fixed. The app was very good untill all this. 
+org.coolreader#122342:	   this is a good app has been for a long time the latest update has started to crash force close constantly 
+org.coolreader#122351:	   Bugs galore 
+org.coolreader#122357:	   All my books are showing up with  codes. It's a good app if this problem is fixed 
+org.coolreader#122365:	   Still the best reading app for me but after last update lot of crashes detected :( Clear data and reinstall the app, almost no crashes, working like a charm :) 
+org.coolreader#122371:	   Read loud becomes very slow in pace when phone is locked. Initially there was no such problem. I am using samsung galaxy core. Otherwise it is very good. 
+org.coolreader#122373:	   I cannot use this app any longer on my mobi books. What a pity such a good app has been spoiled with no noticable gain anywhere else. Please give us a choice of returning to the old app. 
+org.coolreader#122377:	   I used to love this app, but it suddenly doesn't read most the files it used to.. Please fix for the deserved 5 stars it had before 
+org.coolreader#122378:	   Somehow when I tried to open , it showed an error of 'Unknown Document Format'. I've tried this with a number of  but it showed the same error. If this can be fixed, I'll rate a full 5 stars with donations. 
+org.coolreader#122382:	   Best reader app I've used so far but the current update is messed up. My MOBI files are unreadable so please fix it soon before we move on to another app:( 
+org.coolreader#122393:	   Couldn't even see it, as it crashed on the first intent to open. (EngelProjektDroid, BQ Curie) 
+org.coolreader#122397:	   it cannot read pdb files.. please fix.. i like the read aloud function though.. 
+org.coolreader#122398:	   This is by far the best and most versatile eReader app. Perfect for reading on the go and very customizable. Only issue so far is .mobi files showing as html code, but I trust this will be fixed in the next update. Totally recommended!! 
+org.coolreader#122401:	   I initially downloaded this app cause I liked the capabilities of being able to support all different file extensions and languages. But the app just kept crashing. Not to mention the fact that trying to load my downloaded books onto the phone a difficult and long process. Sometimes, simple is better. THEN, when I actually started to read a book, it would crash every 2-5 pages. Forget about scrolling to a different page. CONSTANT crashing drove me crazy. UNINSTALLED! 
+org.coolreader#122408:	   Why does this program keep stopping on me. If they could fix that it would be an awesome program 
+org.coolreader#122411:	   Issues with fullscreen on KitKat 
+org.coolreader#122420:	   I love this app however, I have noticed a problem when reading for a long period of time without creating a book mark ( i.e. returning to the main page). If you read 4 or 5 chapters of a book without returning to the main page, cool reader will generate a forced close message and abort. Then you need to open the book again and manually move to the page you were on. This looks like some kind of memory issue. I am on the latest release. 
+org.coolreader#122426:	   After this new update, everything went to crap. I open a book and all I see is the formatting language. Books I have read and new books. Fix this and I give it 5 again. 
+org.coolreader#122431:	   Works great! I love that I can read all my stories on it. Great customizations if font, background color, even the tap options. Also works great with IVONA text to speech. Only issue I've had is with it randomly switching from page view to scroll view, but that's very minor. 
+org.coolreader#122435:	   I used to really love this reader but this newest release really messed up my .mobi files. The HTML tags appear on the screen, making everything look like gibberish. Ugh. Please fix this ASAP. 
+org.coolreader#122443:	   The latest version cannot open mobi format books. 
+org.coolreader#122444:	   This WAS the best reader app for Android. As of the last update the reader crashes out when ever a new document is opened via open file. This is true particularly for html type files. Please fix the fix. It was a 5 star but is now worth 1. As it is an old friend, I will give it 2. 
+org.coolreader#122452:	   I think the update version would have more suppoted ebook. But instead go to page option is not work at all...and also the start up speed is extremely slow. I regret udating the reader. Now i will give only 3star but will give 5 star again if this issue is solved... 
+org.coolreader#122455:	   Can't open anything without it quitting immediately. Useless. 
+org.coolreader#122458:	   Almost perfect eccept pictures don't show well and have alignment problem. 
+org.coolreader#122459:	   My review has the same concern as Dan Kern's, and I've sent a note about it to CoolReader support about the HTML code showing in some .mobi book files. This has been my favorite Android reader, but now I'm having to use the Moon+ reader because the HTML renders books unreadable with CoolReader. I'm hoping the next release fixes CR back to what it was, and I'll move it back to 5 star where it belongs! Update - my note to developer bounced because mailbox is full. Maybe others had the same idea... 
+org.coolreader#122460:	   Recent updates caused crashes when opening certain books. 
+org.coolreader#122463:	   After update can not get night mode to work properly. Just black on black. No effect after changing settings. 
+org.coolreader#122469:	   Until I tried the read aloud option and it doesn't work like it used to it repeats every couple paragraphs in a loop like manner 
+org.coolreader#122470:	   This App has been fine but something has happened to it on my Nexus 7 as some of the books are coming up with HTML codes in them making them unreadable. Please fix. 
+org.coolreader#122471:	   I love this app, worked fine for ages, 5 stars. But then it started crashing while reading and losing the page I was on. Has happened 3 times tonight and is getting very annoying, I'm considering looking for another app to use instead. 
+org.coolreader#122474:	   I hate whining in reviews but couldn't find an easy way to get support. Opened a new book and its now showing the page control codes making books unreadable. Another reader is showing them fine, but I'd rather use this one. 
+org.coolreader#122480:	   One of the best but fix the bloody crashes already. 2 updates and still crashes 
+org.coolreader#122482:	   Like others, since the last update my mobi format books now show all the formatting code as well as the text. Hoping this can be fixed quickly as this was by far the best up to then. 
+org.coolreader#122493:	   This is one of the best eReader apps on the store. Love it, used for personal, business, technical reading. Sadly when I updated on Feb. 19, some, but not all mobi format books show as HTML code. In fairness, this is the first error I have seen with it, so hope the developer can find what is either corrupting some files or causing them to incorrectly render. Subsequent update after 2/20 did not resolve the issue. 
+org.coolreader#122494:	   My kindle can now have a rest thanks. update, now shows format tags, can deal with the crashing but the tags are driving me mad. gotta go somwhere else until fixed. right bummer as i like this a lot. 
+org.coolreader#122506:	   I have six readers, three of them paid apps and I prefer this free app. It always works. I use it daily and it has never crashed or lost the page. I would definitely recommend it. . 
+org.coolreader#122512:	   The latest update keep causeing the reader to crash. 
+org.coolreader#122514:	   2013/07/07: Crashes in ug_en.chm , the User's Guide for the Dell 2350dn Laser Printer: 1) When searching. 2) When advancing to the next page after page 18, 19 or 20. [ 1 Star ] 2014/02/19, Wed.: Fixed. [ 4 Stars ] 
+org.coolreader#122515:	   From yesterday, facing crashes. Not able to open the lastbook. Opens to the manual. Needs urgent fix. 
+org.coolreader#122541:	   Only comment is that while im reading it suddenly closes and when I open it again it opens to the last page prior to when it auto close. Example..I close the app when im on page 16 when I open it again it brought me to page 16 automatically. Then when im already in page 25 it auto close and when I open the app its on page 16 rather than 25. Its annoying especially as I dont memorize the pages so I have to browse the page when I last read b4 it forced close. Kindly fix. Add pdf reader, i'll donate.Thanx. 
+org.coolreader#122552:	   This app is awesome,but i think the last patch broke something,the book i'm reading now was working fine this morning but now is unredable,bettwen lines some code-like text appers that represents idications about the hight or width of the page or font format,hope there's a fix soon,the book is mobi format in case it helps in finding the problem :) 
+org.coolreader#122565:	   Issue has been resolved with latest update. Thanks 
+org.coolreader#122584:	   Can read almost any document file extension.. But for some reason they left out pdf's please fix this. 
+org.coolreader#122588:	   I've tried many e-readers on play store and this is the best app ever... it was one of the first fully functioning apps I've encountered and it has never had a problem on the many devices I've gone through... Look, Try and LOVE! <3 
+org.coolreader#122590:	   FC every time while opening .chm files in samsung galaxy grand 2 running 4.3 Please fix this. 
+org.coolreader#122599:	   I'm an avid reader. My first 'tablet' was actually the Nook Tablet. When it came time for me to get a more general purpose tablet, I knew I wanted a good reader app. I tried a number of other applications, but they all had one issue or another that made me continue my search. That search stopped here, and I'm ecstatic with the results. Cool Reader has all the customizability I could ever ask for, an easy-to-use interface, and all around the best reader app out there. From here on out, no matter what tablet I may get in the future, Cool Reader will be my first installation. 
+org.coolreader#122619:	   Cool Reader crashed on me 40 minutes into Neal Stephensons Cryptonomicon. Maybe it was the lack of Internet access in our dentists office. I don't know, and I don't care. If you read long books, DONT rely on THIS! 
+org.coolreader#122627:	   After trying out another free ebook reader and it failing to find the books that I put on my phone I found this wonderful app. No matter where you put the books on the phone, you can find and open them with this app. Truly the best app that I could have ever hoped for. Although the user interface is a bit tedious at first, it is definatly an app that is well above the rest. Thank you developers. 
+org.coolreader#122641:	  Crashes 
+org.coolreader#122655:	   I would use this but I use the TTS to read to me while commuting. The TTS has a very annoying problem. If the last sentence of a paragraph (or the only sentence of a paragraph) is a single word, the TTS does not read it. If a paragraph ends with a name (like "Mr. Smith."), the TTS reads "mister" but does not read "Smith". Dialog where the character responds only "yes" or "no" is impossible to follow. I emailed the dev with a very short example and a recording so that they could see (and hear) the problem and had no contact back. Good ebook reader, bad TTS reader, unresponsive developer. 
+org.coolreader#122666:	   Almost perfect, the only issue I have found is that it sometime skips ahead several pages at a time instead of just one 
+org.coolreader#122678:	   Great app. Reads from SD card w no problem. 5 stars if u fix the random annoying crashes 
+org.coolreader#122679:	   Lost the brightness on my reading pages. No brightness adjustments could fix problem. Now i.'be got to find a another reader. 
+org.coolreader#122686:	   Does not work. Uninstall it and install another chm reader is better. 
+org.coolreader#122687:	   Awful app. Unpredictable, way too many options switched on by default. Crashes if you skip ahead more than a couple of pages. Jumps chapters due to obscure gestures. Not good for a nice, calm bedtime read! 
+org.coolreader#122697:	   This used to be the best reader out there. But several changes have been made over the last year that made it more of a pain to use. For example, when you back out of a book, it no longer takes you to the directory your book was loaded from - now it takes you a useless home screen that you have to RENAVIGATE to the same folder that used to come up automatically. In addition, Cool Reader can no longer load ebooks located on the external sdcard. This has been known for some time, but nothing has been done about it. The email address given for the developer doesn't work, and he doesn't respond on the forums. If the developer won't properly support his app, find a better one. 
+org.coolreader#122705:	   The app tries to filter PDFs out of catalog listings, but it's pointless since a PDF eBook's author, publisher, etc. will continue to appear in non-title catalog views (and then generate a "no listing" error when clicked). It'd be better to say "this isn't a regular eBook, do you want to download it or open with {list of PDF readers on your device}?" 
+org.coolreader#122715:	   Not sure if it was my book file or this app., but the book i was reading decided to stop working and never open again. Anyway, I like the night mode which makes reading easy on the eyes. 
+org.coolreader#122723:	   I reccomend not to download this piece of trash and ruin ur data packge it cant detect all the chapters of book and do not opens book further 22% 
+org.coolreader#122729:	  The best reader on the market, last version has no any problem. 
+org.coolreader#122732:	   But sometimes it won't open an epub file. I tried using other epub reader and open the same file and it worked good. And keeps shutting down while I was reading a file. Please fix this. I've been using this app for years, best reader app I could find. Please fix this. 
+org.coolreader#122754:	   the lack of support for PDFs. This is the only reason I can't use this app, because my entire collection is in PDF format. 
+org.coolreader#122764:	   Has . The upper side menu on a open book is too big but doesn't have all the buttons. The main menu is twisted as well i compare it with my Note 1. I think it is because of the bigger screen resolution. I hope you fix it soon. This is my favorite reader!!! I use it with my Nook too!!! 
+org.coolreader#122767:	   It needs to support Japanese.. It just has these scary weird characters that aren't even part of any language. And it won't even open any of my other documents, it has an error. Sorry. 
+org.coolreader#122770:	   I can't open books on SD card. When I try to browse it will only let me browse my internal storage. I have found no way of going in the upper directory, like/storage/, it just takes me back to the intro page. I'm sure I was able to do this in the past. 
+org.coolreader#122771:	   The most pleasant apps so far... Still some small issues : when reading FDR files, some paragraph become unreadable code 
+org.coolreader#122781:	   The title says it all. I still think Cool Reader beats both Kindle and Nook all to pieces, and I did indeed sell my Nook because of this app. BUT I'm knocking a star off because this thing is HARD on battery life... and that's true whether I'm using it on my Galaxy Note 8 or my phone (an S3), and it was true when I had it on my Galaxy Tab 7.0 Plus. If the developer can find a way to fix this, it'll once again get 5 stars, and I'll continue unabashedly praising it to the heavens. 
+org.coolreader#122799:	   Files don't open 
+org.coolreader#122802:	  Crashes all the time 
+org.coolreader#122811:	  It crashed after 10 minutes use. 
+org.coolreader#122815:	  crashes 
+org.coolreader#122817:	   Was an excellent app until recent Android 4.1 update. Now crashes after a few pages and loses place. 
+org.coolreader#122826:	   I like the app, for the most part but since the last update it crashes frequently and requires closing the program and clearing ram to proceed. Also, if I have to turn my phone off, it loses the book I am currently reading and I have to find the book and then find my place again. I would love to see this corrected - if so, I could rate higher. Galaxy S. 
+org.coolreader#122828:	   Nice reader but it eats the battrry like there's no tomorrow. I have games installed that don't use this much battery. What does it need this much battery for? 
+org.coolreader#122836:	   Tried 2 download rtf file on my Samsung galaxy s2 and it would not download at all. But on my iPhone, i have no problem at all downloading rtf file. Android needs 2 get this issue resolved. Besides i like my android but the iphone thumbs up on downloading files. 
+org.coolreader#122840:	   Kept crashing and losing bookmark 
+org.coolreader#122846:	   Fix read aloud so text would not be hidden behind buttons. Add better page flip animation. 
+org.coolreader#122859:	   Been fixed all problems i had b4 
+org.coolreader#122862:	   This is my favourite reader and I have it on all my devices. Only problem is it crashes a lot and on reopening goes back to last saved page. Annoying if you've read another 70 or 80 pages. Fix this for five stars 
+org.coolreader#122898:	   Cannot open any prc file. 
+org.coolreader#122901:	   I am really enjoying your reader so far. The layout is clean, and there is a good amount of features. A couple things I would like to see is the ability to pinch zoom on a page (if the option is there, I couldn't find it), and possibly speed up the page turns so its more fluid. Other than that, great job! 
+org.coolreader#122920:	   Works well. Would be better with switchable menu settings ie basic & advanced. Full menu bit daunting when I first used. Only gripe is occasionally totally crashes out and doesn't save last page so have to rescroll. PITA if been reading for a while. 
+org.coolreader#122924:	   The only problem I have is, bookmarks give trouble after you finish a book. 
+org.coolreader#122926:	   This is the best reader I have found so far! However, I now cannot read any documents stored on my external SD card! :( Please fix this! 
+org.coolreader#122937:	   Doesn't open the books on my galaxy tab 2 10.1. ............ 
+org.coolreader#122938:	   This app doesn't find ANY of the pdfs or epubs I downloaded to my phone. Fix this! 
+org.coolreader#122939:	   Crashes when I open a book. 
+org.coolreader#122940:	   PDF files not open 
+org.coolreader#122942:	   Yet it can't get right the basics, just cuts out every 5mins or so reading an needs restarting, frustratingly many pages previously. 
+org.coolreader#122944:	   I downloaded cool reader but was not able to install figure 920 error appeared please what it the meaning I was using Techno F7 
+org.coolreader#122945:	   Error loading on reading PDB... CANT READ PDB. 
+org.coolreader#122946:	   had been using this app for a couple of months, and it was fantastic. However for the last month it has not been working great. It doesn't remember recent read books or even last read. When it does remember last read, it usually opens the book at the wrong page or at other times simply won't load the page at all and simply freezes. Please help! Iwant my fabulous reader back :) 
+org.coolreader#122951:	   App is perfect aside from the one flaw with the free dictionary app not being recognized. No amount of reinstalling works. Please fix in update. Pretty please :) 
+org.coolreader#122952:	   I have read all the positive comments about this software. Upon download, I cannot even open any of my chm files on my sony xperia tablet. Pls fix. 
+org.coolreader#122954:	   Crash sometimes in newest version. Old versions work fine 
+org.coolreader#122956:	   Text to speech function keeps looping the same page. Volume and rate slider is out of my screen on my nexus 7. Will amend my ratings if the developer would fix these problems. 
+org.coolreader#122965:	   Very flexible application, it has all the settings I was looking for. And the most important, it also reads diacritics without problem, unlike the other 4 or 5 readers I've tested. Thank you for the great work! 
+org.coolreader#122966:	   Could u please fix this? When i open it the first time it was ookay but now it closes.. I am using gt-p5100 
+org.coolreader#122968:	   I always install this one after flashing stock rom or cusrom, from one device to another, never left it since i found. Never failed me to read epub. Very easy to use. Thank you very much. 
+org.coolreader#122984:	   Could you please tell me the reson it can't run pdfs?Because most of my books are in pdf format 
+org.coolreader#122993:	  I could not get this to work. Uninstalled. 
+org.coolreader#122997:	   I really like this app, but sometimes when I press the next page/volume button, it keeps turning 3-12 pages on its own. The other problem is that it occaisonally gets stuck on a single book and even if I choose another book and read that for a while, when I close the app and then reopen it, it jumps back to a different book. Those only occur once in a while but they irritating when they do. 
+org.coolreader#123001:	  The best. Better than mon reader it have much bugs but still the second best 
+org.coolreader#123003:	   It crashes while reading. I don't know why but so.etimes when I turn pages it crashes and get me back to previous position when I reopen it. :-( please fix it. Otherwise perfect reader. 
+org.coolreader#123005:	   I used to love this app...but today..I purchase a set of twilight novel...the prc file is appear when I tried to open it from this app...but it wont load it.."error while loading document" 1 star till this bug fixed 
+org.coolreader#123008:	   I've been using Cool Reader for more than year and it crashes almost every reading session for fb2 books. Time to use another reader until crash issue is resolve. 
+org.coolreader#123012:	   The best app ever seen. The only problem is that when it is in landscape mode and the phone is locked, and we open it again, it starts loading again. 
+org.coolreader#123022:	  Crashes when opening .chm files on nexus 7 (2013) 
+org.coolreader#123033:	   price, free multiple format support, excellent crashes and failures on my sg3, nonexistant. 5 stars. 
+org.coolreader#123038:	   Literally. Well...too many options actually, like way way too many unless you like playing games instead of reading and the hyphenated text, maybe somewhere you can change it so the words are not broken up but I couldn't find it and I tried, fiddled more than I wanted but I tried I suppose. 
+org.coolreader#123044:	   . . So many functions . . No pressure to buy anything and no ads issue. . Brilliant keep up the great work, i have all my books on this app and wouldn't use another one. 
+org.coolreader#123045:	  Don't work 
+org.coolreader#123069:	   I downloaded this application to read some .mobi files but everytime I open the application it crashes and works very bad and slowly... 
+org.coolreader#123073:	   I love this app. I really like the read aloud function even though it messes up some word, wind is read as wined. I am using it mainly to read my epub files of SAO. So far I had a problem with read aloud, as it word keep reading tyhe same page over and over again, but changing chapter fix this problems. The gui is very out dated IMO. I would love to see my ebooks on a ebook shelf like some of the other ebook apps out there. But all in all gr8 app 
+org.coolreader#123076:	   Crashes periodically on my Samsung s3 
+org.coolreader#123086:	   Please fix. HTC Droid Incredible 2 4G LTE Verizon 
+org.coolreader#123095:	   Please fix, it's annoying. 
+org.coolreader#123123:	   try opening prc file; failed loading. maybe the next update? 
+org.coolreader#123128:	   I like the Text-to-Speech(TTS) functionality very well. If we enable "Read Aloud" option, the text will be read by highlighting sentence by sentence. Only problem is the transapernt TTS control panel hides some of the text while reading. One of these solutions need to be implemeted: 1. Whenever the new sentence hide in the panel, show new page from that sentence.. 2. Make TTS control panel vanish after some time 3. Keep the TTS control panel available always and show the book only in the rest of the area. If then, 5 star.. 
+org.coolreader#123135:	   i would love to have this app on my tab... too bad.. please fix... 5 star right away aftr fix 
+org.coolreader#123137:	   This was the best ebook reader till now and All of a sudden bookmark stop working.. it keeps bringing back to starting page 
+org.coolreader#123149:	   App unexpectedly closes, sometimes freezes and is unresponsive. Nexus 7 2nd generation . Works well with epub files but I'm sick of it crashing. 
+org.coolreader#123153:	   Didn't load any of my PDF and couldn't decode Arabic in the doc files 
+org.coolreader#123162:	   This reader is easy to use, and lacks the "issues" of many other readers. Recently, hubby was using a different reader he claimed he liked... Until he tried to read a poorly scanned copy of a classic book. Instead, I downloaded this AP, and found a free copy of the same book - UNabridged. He is finding it MUCH more pleasant, and deleted the other reader entirely. Comfortable font-size, lighting options, and padding are some of the high points. 
+org.coolreader#123176:	   Having problems with reading some books that can be read normally with a PC. 
+org.coolreader#123179:	   Really awesome It doesnt crash at all :) 
+org.coolreader#123182:	   Been using this app since I discovered it in Nov 2011 and have not found anything better the only issue I have with it is it does not read pdf but there are other apps for that. If you are looking for a good feature rich multi eBook reader look no further 
+org.coolreader#123183:	   I guess this is the best reader ever, even though I haven't used many more. But this one absolutely rocks! COOL! 
+org.coolreader#123193:	   The aesthetic is nice, but Android doesn't recognize Cool Reader as a mobi reader. So since there's no association, you can't open the file unless you open it from CR. Also, doesn't read djvu, which would be nice. 
+org.coolreader#123213:	   I downloaded this app because of the many good reviews it got but it was such a disappointment! It crashed every time I tried to open my books. Also, the app claimed to support .prc file but I couldn't open any of my .prc books. Not only that, It was having problems opening epub file books as well. I had to unintall if from my phone. 
+org.coolreader#123215:	   TTS doesn't work in other languages except Russian 
+org.coolreader#123218:	   It can't display thai in opening doc file, but still can use TTS in thai well. If fix this, I'll give 5 stars for sure. 
+org.coolreader#123223:	   Still love this app more than the other eBook readers out there... Just one thing... Cud u fix autoscroll so we cud set the speed? Currently the default is too quick. Also page turn animation needs improvement 
+org.coolreader#123226:	   Couldn't open my documents! Deception! 
+org.coolreader#123233:	   I can't open my PRC format e books using this apps. Is this format partially supported or not at all...??. 
+org.coolreader#123235:	   Since the latest update I cannot get text colour to be anything other than black. E.g. in night mode with white text on a solid black background the book text renders as black (unreadable) - but the Author Name, Book Title, Page Number etc do render as white. Otherwise excellent! UPDATE: Problem only affected the book I was reading at time of update. All working fine now. 
+org.coolreader#123244:	   Good overall but bugs on a book sometimes then crashes. You can then no longer open that file. Please bug fix this. 
+org.coolreader#123249:	   But recently started bugging out. The book I was reading was going fine till about chapter 7. Now no matter how far ahead I read to the moment my screen goes off, I rotate the screen or leave the app it sticks me back at chapter seven. 
+org.coolreader#123255:	   Used to be a 5 star app, but the latest update crashes every couple of pages. When this issue is addressed, it will be back to 5 stars 
+org.coolreader#123257:	   One of the best apps in Android and a must have if you love reading books. I wish I could rate it more than 5 stars because it doesn't get any better than this. Should be a paid app. 
+org.coolreader#123262:	   Can't open any chm files. 
+org.coolreader#123266:	   The bugs are slowly getting ironed out. However I switch from read aloud for the car to reading myself when I'm able. Every time I have to mess around in the settings to stop the text from not wrapping to the screen size. Fix this and 5 stars. 
+org.coolreader#123271:	   Nothing is worse than not be able to finish a book that you open before without any trouble... crash without any message or error and no way to fully clean cash.... removed. 
+org.coolreader#123273:	   Please fix problems in opening all formats of books including PDF it force closes often please fix it in next update.please update fast 
+org.coolreader#123276:	   Do not work in my Samsung galaxy tab 2. 
+org.coolreader#123283:	   Downloded a txt via Google Drive. Cannot open the file clicking on the file. No book found error. 
+org.coolreader#123287:	   Not loaded with ads, access to online catalogs a huge plus! Easy and intuitive interface! 
+org.coolreader#123290:	   why can't open prc file larger than 800 kb?? 
+org.coolreader#123291:	   It's easy to use and loads quite quickly. Very user friendly. I suggest this to everyone. The only issue I havr with this is that when you jump to a diffetent page from the table of contents or when you jump to a bookmarked or highlighted page, once you press the back key, it goes back to the page you were last in. Besides that, it' good. 
+org.coolreader#123294:	   All that pops up is "Error 404" 
+org.coolreader#123306:	   Hi This is a good app however it does not work with opds servers that require passwords 
+org.coolreader#123307:	   Very good otherwise, will give it Cinco Diamante once this issue is addressed 
+org.coolreader#123309:	   Was working beautifully until recent update 5* and then the fonts all failed. Defaults to a ghastly san seriffed font that is hard to read and changing the font doesn't make any difference. 
+org.coolreader#123315:	   Mostly "cool" but frequent crashes make it unusable. 
+org.coolreader#123322:	   Because of people like Vadim I am reading books like crazy again. Very versatile, reliable and stable!!! Not a single issue on my LG 2.2 android as well as on my Ramos w41 4.1 device. All my friends and family are using this app (those who have the android device...LOL) 
+org.coolreader#123334:	   Works well. Like the choice of font colors on night time reading background. Sometimes audio reader doesn't work correctly-it gets stuck on a section and keeps repeating it instead of continuing on. Five stars when that gets fixed. 
+org.coolreader#123369:	   Crashes all the time on fb2 books at 70%,freezes my phone so i have to restart it. It was perfect reader ,but after the last update can't use it. I have asked to fix the problem several times ,I waited for almost a year, so the problem will be fixed. But nobody cares... TOO BAD!!! 
+org.coolreader#123374:	   still has some quirks with caching, when out by, say, Home key, might later fail to open last book, and I had to remove the book's cache from .cr3 dir manually. also, if set to landscape mode, re-switches to it heavily after screen off. otherwise perfect, the best! 
+org.coolreader#123379:	  Sometimes not reads and it takes time to fit on screen and page hangs without proper scaling. Pages does not fit on screen.tExcept given problems, its ok. Try it. 
+org.coolreader#123381:	   The UI is an eyesore and consumes more battery power than needed. Please get rid of all the graphics and use a simple black and white theme. Fyi, omled screens individually turn off pixels if they are pure black thus saving power. Crashes constantly. 
+org.coolreader#123382:	   I love this little application, its nice and simple to use however its compatibility could be a little better, sometimes it can fail to read the books correctly and leaves out complete sections of text, I prefer to use cool reader, however for the present set of books I am reading, i am having to use FBReader, as cool reader leaves out almost anything written between quotation marks. 
+org.coolreader#123383:	   crashing frequently and starting from previous pages. Kindly correct the problem in otherwise a good reader 
+org.coolreader#123390:	   It was so great that I had suggested it to many of my friends, since it was handy and quick, but recently it just force-closes ALL the time. I will be forced to uninstall. I tried to put up with the problem, but I can't go five minutes without crashing! 
+org.coolreader#123398:	   Will not open!! I need to read my book, I am very upset! Please fix!! 
+org.coolreader#123399:	   This is a good bookreader but doesnt get five stars because its started to crash after reading ten pages or so. Unless that can be fixed i'll have to find something else for my epubs. Update.. still no fix for this so its gonna be moonreader. 
+org.coolreader#123403:	   The app is crashing while trying to read mobi file.. 
+org.coolreader#123413:	   I am an ebook creator who is testing various eBook readers. This reader doesn't do its job well. 1) can't display font color, 2) can't adjust font size, 3) error render sentences contains Chinese and English. 4) can't display cover image. In short, can't display a simple epub format in proper. 
+org.coolreader#123415:	   Google nexus tablet Apps opens fine but when I'm trying to scroll down to see all my books, it let's me scroll down to maybe 10 or so books before it restarts me back up at the top/beginning of my list. I have over 50 books on my tablet. For some reason all my books are showing up as doubles. Sometimes while I'm reading the app crashes and I lose the spot I was reading when it closes out by itself. :( Help please? 
+org.coolreader#123420:	   Was a perfect reading experience. I just wish I could specify a home directory for my books. Now it crashes when trying tk save preferences and doesn't remember the current page. 
+org.coolreader#123433:	   BUT! Last version eats whole RAM memory, and works unstable. Hope author will fix that soon. Still 5 stars. 
+org.coolreader#123436:	   Nice UI, friendly but do not support Vietnamese, have problem on navigate menu 
+org.coolreader#123447:	   I don't know whether it is my device fault or the apps fault it crashed on the first time and never run well in my device, I prefer aldiko over any other readers the only issue with it is that it does not support page scrolling 
+org.coolreader#123449:	   It crashes all the time. 
+org.coolreader#123450:	   I really like it and I never had problems with it. 
+org.coolreader#123454:	   A very good reader but it seems to crash fairly often and doesn't remember your page afterwards. 
+org.coolreader#123455:	   But the shutoff button backlight does not work for my HTC one and I can't seem to get the info bar working but other than that awesome reader 
+org.coolreader#123457:	  Cannot find language choice. Default is French and I need English 
+org.coolreader#123459:	   Doesn't open epub files. 
+org.coolreader#123463:	   Excellent reader. But after the last update it always crashes. Please fix it 
+org.coolreader#123469:	   Experiencing same crash issues as others when trying to read my epubs. Doesn't matter what book I'm reading it continually crashes. 
+org.coolreader#123470:	   Simply the best, it takes even rtf. Never crashes, so reliable, always remembers last page. Every time I use it, every time I really enjoy it. Only for djvu and pdf I have to use another one, the rest it takes just fine. It gives SO many options to customize reading exactly the way I want, realistic pages, a lot of themes for background, diffrerent control options, it has everything for my convenience and I am really happy with this reader! 
+org.coolreader#123483:	   Sometimes crashes and cant open books when they worked before uninstalling 
+org.coolreader#123493:	   So, I've been a dedicated user of this app for a long while now, and everything has been fine. And then some genius (That'll be you Vadim Lopatin I presume?) went and updated it to something that continually crashes... A true masterstroke in user hostility generation... Well done. Uninstalled... Moon reader is better anyway. I am forced to give this exercise in stupidity the minimum of one star, but that is about 4 billion stars too many. DON'T buy this app for anything more than ABSOLUTELY NOTHING folks, attempt to use at your own peril. 
+org.coolreader#123494:	   I used it for a while. Found it crashed a lot and forgot the locations of my books. I finally switched to another popular reader that doesn't crash as much and looks nicer. 
+org.coolreader#123508:	   Now it crashes all the time. 
+org.coolreader#123509:	   After trying out several eBook readers I finally came upon Cool Reader. After reading several dozen books with this app, I can say that I am in love despite some of its flaws. The most jarring flaw is the random crashing that occurs in the latest version. It wouldn't be so bad if it didn't cause me to lose my place on relaunch. As soon as this bug is dealt with, it'll be a solid five star rating. 
+org.coolreader#123514:	   Last update I get random Chinese in txt files till then it was my fav reader. Can't you fix this I really love your reader. Still there a year later. 
+org.coolreader#123524:	   Keeps crashing a lot. Very nice application, but it's annoying with the numerous crashes. 4 stars until the fix. 
+org.coolreader#123530:	   Read aloud function has started looping. Its the one reason I chose this app. Please fix! Thank u 
+org.coolreader#123537:	   Needs to update to fix crashes otherwise I love this app when it works 
+org.coolreader#123538:	   Sometimes the pages flip by itself and no memory of the previously read page, fix that and you'll be five stars..! 
+org.coolreader#123541:	   After updating on android 4.2 - the program start to crash very often (1-2 times per hour). After crash it usualy lost my position in text and sometimes even load another book. 
+org.coolreader#123542:	   Keeps randomly crashing on my HTC one x and putting me back several pages. True full screen and the ability to dim the devices control keys would be good too. But I do recommend, despite the issue above still best reader out there, sort the crashing out and 5* for sure. 
+org.coolreader#123557:	   On Epub just started to exit to home about 3 times in hour without popping the crash dialog. I believe it happens on page change. Must be WinDeath. Otherwise love it and use for 2 years now for all reading formats. 
+org.coolreader#123559:	   It has great potential, but some features don't work well. 
+org.coolreader#123567:	   It was a really cool reader and I`ve been using him for a long time. Now he crashes 10 times a day and starts again on previous pages. Uninstalled. 
+org.coolreader#123576:	   As soon as I open my epub book the app crashes. This book has worked perfect in the past. 
+org.coolreader#123577:	   Best reader - I tried a number of them. Only issue is after I upgraded to HTC one, the font sizes got screwed up - the largest one is what use to be medium on my HTC raider... Could u fix that? I''ll donate more... 
+org.coolreader#123582:	   Tried looking for a TTS system to read my EPUB books aloud. This does exactly that but there's no way (that I found) to skip to a chapter or use bookmarks at all. It also kept (gracefully) crashing on my device. I later found Mantano premium, though expensive, is exactly what I needed with a much better interface to boot. 
+org.coolreader#123586:	   It also caused my phone to get stuck, get rebooted a couple of times and a few other slight malfunctions which went away once I uninstalled it. However I am sure I am unique in having this problem on my Galaxy Y Duos as apparently no other user reported such things. Please look into the problem and sort it out and I promise to give nothing less than 5 stars. Update to my comment: Installing this app screwed up my phone. 
+org.coolreader#123588:	   Cool Reader is very, very close to what I want & need: A reader w/ intelligent paging and page advance. Vital features are high-quality rendering of text & graphics, & really simple page advance (swipe, flip, tap, etc.). Cool Reader has these, making it better than Polaris Office (lacks smart page advance) and better than readers with poor rendering. But it's missing one critical feature: Integration with the "Complete action using..." menu. When I access a PDF online (whether directly via my browser, via Google Drive, etc.), I very much want my preferred app to be in the "Complete action using..." list. Forcing me to download the doc then go find it on the filesystem is a usability fail. Other things that would be nice would be direct Google Drive integration - but I can live without that, as long as I have the above. Overall, it's a good app, nice look and feel, plenty of configuration options, once I'm in a doc. But the lack of "Complete action using..." integration is a showstopper. Without it, I'll either stick with Polaris Office or I'll keep hunting for a better reader. Add "Complete action using..." support and I'll gladly buy a donation version. 
+org.coolreader#123597:	   Nice app. But needs fix to take rotation lock into consideration. 
+org.coolreader#123604:	   Tried many readers... Problem with aldiko was scrolling.. Moon + reader was annoying for the scroll as well... Have been using this awesome app ever since I've discovered it. Excellent. 
+org.coolreader#123605:	   Add a shelf view like aldiko and this would be the ultimate app. Love the way you can add a series specification and the books show in relation to that. So many readers don't do that. Finally all my books are in the correct order! Also love all the customizable content. Would also love if the home screen showed just the imported books not a directory. Fix the shelf view and the home screen issue and this will be five stars. 
+org.coolreader#123608:	   I love this app, it's the easiest to use among all my reading apps and functions well. Only problem is, latest books don't show up on the app for some reason. Is there a book limit? 
+org.coolreader#123609:	   Failed to display text properly formatted 
+org.coolreader#123618:	   With the paper background. It also crashed. 
+org.coolreader#123622:	   Not useful until it opens pdf. 
+org.coolreader#123623:	   Right in the middle of a good book and it just stopped working. Can't read the book. Uninstalled and tried reinstalling it with no luck. Permanently uninstalled, which is a shame because up until that point it was a good app. 
+org.coolreader#123624:	   Fix it!!!it cant even open my ebooks properly...you have so many control buttons that doesnt even work. 
+org.coolreader#123630:	   The latest version lets me customise screen tap commands which stops the jumping 10 pages problem. Everything else was pretty much perfect anyway. 
+org.coolreader#123634:	   There are a few things, because I didn't gave a 5 stars. So there it is: 1. I need more fonts, 2. I didn't find smooth auto scrolling options with configurable scroll speed. Fix this and u will get 5 stars from me. Good thing is that have NO ADS! Overall, good job mate! 
+org.coolreader#123641:	   I havent had a problem with this app. Easy to use nice theme. 
+org.coolreader#123656:	   Nice features, frequent (!) crashes (HTC1X)... Shame. 
+org.coolreader#123669:	   Horrible app. Doesn't jump to chapters from index, slow pagination,often crashes with mobi files from Amazon. 
+org.coolreader#123671:	   Couldn't open the only epub I wanted to read... 
+org.coolreader#123673:	   For reading books this app is great. No perfect but it's my favorite. Unfortuntely I didn't buy the app to read primarily I bought it for the "read aloud" feature. This feature works... sometimes... if you like hearing the same passages over and over since it get's stuck in repeat loops and repeats the same text again and again. The developer has known about this bug for some time, there's bug reports and numerous forum posts and emails sent but as of yet no recognition of the bug and no fix. Vlad when can we expect this to be fixed so this can truly be the best ebook reader out there? 
+org.coolreader#123677:	   I am using this reader for a very long time. Everything was perfect until recently. It started to crash every few minutes. The worst thong is that when you start it again it puts you on the page where you have started your reading session. It is so annoying to look for the page where it crashed. Was great app. Wish I didn't update. 
+org.coolreader#123688:	   Getting memory leaks on Android 4.2 resultibg in force close. Never had this problem before until most recent update 
+org.coolreader#123689:	   Terrible formatting and crashes all the time. Would not recommend. 
+org.coolreader#123690:	   Works with perhaps half my books - the rest, the app crashes back to desktop. (PPrs resource forks in pdb containers, used by Peanutpress/Palm/Motricity/Fictionwise/Nook ereader format) 
+org.coolreader#123697:	   Tts was working fine then just stopped working with no apparent reason. 
+org.coolreader#123702:	   Worked properly in the beginning but started to crash afterwards. very irritating, poor. Awesome initially, But bad due to crashing 
+org.coolreader#123706:	   Great for fiction; lets you fix bogus formatting and read books without annoyances. Only thing that bothers me is that the time and notifications are hidden while reading. 
+org.coolreader#123728:	   It doesn't have option to fix screen orientation! 
+org.coolreader#123729:	   Last update was completely worthless. The book does not save the location and always starts from the first page. Cannot add online catalogs. 
+org.coolreader#123732:	   One of the best. The only problem I found until now is that covers do not show on some ebooks but are shown on other reader apps. Also there is no book info field. I guess nothing is perfect...Please add.. 
+org.coolreader#123747:	   For the last month or two, this app will not bookmark all the time, repeats sentences over & over again, and restarts at the first bookmark again even after I delete that bookmark (it re-bookmarks it on its own). VERY.FRUSTRATING! Please fix before I delete this app. 
+org.coolreader#123758:	   I put several of my e book on my phone to enjoy on the go. Love this app. Only issue I have is with illustrations but that may be from my end. 
+org.coolreader#123759:	   It's very irritative, that you never can get rid of those menu buttons while reading, please fix it! It WS my favorite reader! Ill change the mark back to give stars as soon as ill be able to read in full screen mode. Thank you. 
+org.coolreader#123766:	   Crashes constantly on HTC One X with Android 4.1.2. Great app otherwise. 
+org.coolreader#123770:	   The reader looks great but I was not able to open any of my kindle prc files. I get an unknown format error. I will keep the app installed in hopes of a fix in the future. 
+org.coolreader#123776:	   After update to JB app suddenly crashes and goes back to last bookmark. 
+org.coolreader#123777:	   ... does crash a fair amount on my Nexus 7 
+org.coolreader#123778:	   Love it. Simple, comfortable and never crashed. 
+org.coolreader#123783:	   Was really cool reader before, but last months always crashes after few minutes of reading. Uninstall. 
+org.coolreader#123805:	   Its not a good application as it Crashes intermitantly. Handling of Contents is also difficult. UP buttons Stops functioning Suddenly while U need it the most.l have Uninstalled it. 
+org.coolreader#123806:	   First I had downloaded moon reader for an epub file and it wouldn't read it and this one read it without a problem. Thanks! :D 
+org.coolreader#123807:	   Thus has been a very good app through and through. Always works correctly. My only issue is as of late it forgets the page I left off at. Used to be fine. 
+org.coolreader#123810:	   Updated verson is crap. Could not run. 
+org.coolreader#123817:	  Crashes on a 93 mb chm file 
+org.coolreader#123821:	   Keeps randomly closing and sometimes won't open my recent books. S3 
+org.coolreader#123824:	   Crashes inn spesific places inn spesific books. 
+org.coolreader#123825:	   Great reader. Have a few issues concerning the gui but it's the best free app ever 
+org.coolreader#123833:	   It's good. But, why this application can't open arabic text? 
+org.coolreader#123864:	   Cant open, completely crashes with my kobo arc 
+org.coolreader#123865:	   The best e-reader I've used.Though after the last update, Fleeboosta electronic catalogue has gone. Please fix this problem.Thank you for a good application. 
+org.coolreader#123866:	   Med books won't open and won't load once opened 
+org.coolreader#123874:	   Crashes while loading books. 
+org.coolreader#123876:	   crashed several times in 20 minutes of reading. using samsung s3 mini fone 
+org.coolreader#123878:	   My phone and OS are brand new. I was using it for a couple minutes and the screen just went blank. And when i would try and relaunch the app it would still go black immediately. I even uninstalled this app and reinstalled it and it STILL did the same thing!!! Crap! Don't download this!!! 
+org.coolreader#123889:	   Loved this app until it updated & stopped loading my book I was reading on my note 2!! 
+org.coolreader#123894:	   Was serviceable until latest update broke it completely. Won't open the same file that it opened no problem before. 
+org.coolreader#123903:	   I use this on my HTC Sensation and I love it. The only complaint is that it has too many features that I don't use. 
+org.coolreader#123929:	   ...why does it respond with "Error 404" so often when trying to download a title? Only fair because of this problem. 
+org.coolreader#123930:	   App works great, better than any other reader I've tried. One small quirk with the latest update: I had to move the app from the SD card back to the phone to get the update to install. App can't be moved to the SD again after the update, but not a big issue. Update: I'm dropping this to three stars because it keeps deleting my bookmarks. 
+org.coolreader#123938:	   I got this thing for just one reason: I needed an app which could read text files aloud. This thing came highly recommended, but the text-to-speech feature is just awful; after a while it will jump backward and read the same piece of text endlessly for no apparent reason. I've encountered this problem with multiple files and have run the app on several different Droid devices... and the problem occurs with annoying regularity. 
+org.coolreader#123941:	   some epub only open for first page. Waste of time. TTS not working most of the time, ui laggy, not abke to use phone setting for sensor rotation.... 
+org.coolreader#123945:	   Crashes, does not display some of tha pictures. Hangs. I hate it. Cannot handle files bigger than 100mb. Bolloks. I uninstalled within 10mins of installing it. 
+org.coolreader#123949:	   Was a great reader now crashes my tablet every time I open it. 
+org.coolreader#123957:	   Crashes sometimes. Other than that it is brilliant 
+org.coolreader#123958:	   Using Samsung galaxy tab gt-p3100 android 4.1.1. Reader now crashes when i try to read a uncompleted book. It has become so unreliable after update that when default music player is player is playing and i turn on the reader, reader crashes and music player hangs. Poor app after update. Rating 1 point. 
+org.coolreader#123959:	   When there are references in the file or some footnotes, clicking on them doesn't take me to the corresponding page. Same problem for table of contents also. Otherwise good. 
+org.coolreader#123968:	   It won't open files stored in Google Drive without erroring. Also pretty ugly by default. 
+org.coolreader#123973:	   Plz fix this problem then back to 5* 
+org.coolreader#123974:	   Constantly crashes when opened recently read book. Interface not intuitive for leaving book in landscape or portrait mode. Dimmer works poorly when in night mode. 
+org.coolreader#123985:	  Read Aloud is not working in CHM files... 
+org.coolreader#123988:	   I have the free Kindle app but have had problems pushing books on my phone into the Kindle unless I get them from Amazon. This where Cool Reader shines. It's for free and will seek out all the books on your phone and then all you have to do is customize it the way you like and read them. This app will also read your books to you. Very simple, a great app to get if you're a serious reader. 
+org.coolreader#123994:	   Can't find any books so either this app is stupid or I'm just retarded. Even searched just the author and still "No books found" 
+org.coolreader#123996:	  Keeps on saying its not working and I then have to foreclose 
+org.coolreader#124001:	   Nice... but won't open any of my .pdb files :( Any suggestions on how to make it work gratefully received! 
+org.coolreader#124002:	    feature does not work on my phone. the highlight just goes through the words and no sound at all. please fix 
+org.coolreader#124007:	  Amazin one! I was so upset cuz i couldn't use java for readin books, but this is way better! :) 
+org.coolreader#124012:	   Very customizable which I love but without pdf support I have no use at all... uninstalled for now.. will be watching updates, but if it takes to long I will fine something that better fits my needs 
+org.coolreader#124013:	   Since last update 11 dec, it crashes after a few minutes. Frustrating because it forgets your place. How many times do i have to search through many pages to find my place? 
+org.coolreader#124014:	   cannot find it in the options BUT how do you change the font color on chapters ie chapter five !! 
+org.coolreader#124016:	   Horrible. Crashes everytime i try to download a book. 
+org.coolreader#124027:	   Installed Cool Reader on my Nexus 7. Everytime I try to read a book, Cool Reader instantly crashes. I've uninstalled and reinstalled and always get the same result. Constant crashing and no reading. Please fix!! 
+org.coolreader#124030:	   This app is a great alternative to my free Aldiko. It has a nice book flip animation and plenty of customization. I like the page background selection and the texts format doesn't get messy. I wished there are more font choices but free users can't be choosers. Thanks developers. 
+org.coolreader#124032:	   I used to love cool reader and was glad to have it on my Galaxy Tab 10.1, but after last update app is crashing constantly without even remember the page program stopped to work on. Vadim , please do something about it, generally your app is the best what Google play has. 
+org.coolreader#124033:	   crash workaround: recently this started crashing on open of 1 book. To fix, i opened a different book, then went to settings, changed texture to default, and set to night mode, before reopening the 1st book i also set the book 1 status to (to read) and exited app. I restarted app and book 1 worked again. I love this app, most reliable brightness swipe and opens all i need except pdf (so i just convert pdf to epub instead) 
+org.coolreader#124035:	   for me when screen rotation is on, it displays the screen upside down. Turn off screen rotation and it goes back to normal. Have tried clearing data, cache, and uninstalling and reinstalling the app. No change. Not a huge problem for me, but sad I cant give this app ten stars because of that issue. 
+org.coolreader#124039:	   Very good e reader plenty of good features..keeps crashing half way through a book though and I have to uninstall app and reload again..apart from that its all good.. 
+org.coolreader#124042:	   The app works great with every formats except prc, especially when the prc file is in non-English languages like Vietnamese. Please fix this for the next upgrade. Thanks. 
+org.coolreader#124043:	   I use to love this reader but now it just closes every few minutes, please fix or I'll need to use another reader. 
+org.coolreader#124051:	   Used to be good reader, now keep crashing every couple of minutes,so it is not possible to use anymore. Not uninstalling in a hope that this will be fixed. 
+org.coolreader#124060:	   It used to be a very good app, but now it keeps on closing after some minutes. Can you fix it please? 
+org.coolreader#124065:	   Great app! I love it, but since Tuesday it crashes every time I open my book :( 
+org.coolreader#124069:	   It is constantly crashing ! 
+org.coolreader#124071:	   Excellent range of formats, easy to use. Sadly no control over encoding. Crashes when does not like file encoding, though same file works perfectly in FBreader. 
+org.coolreader#124077:	   Bought moon reader but text to speech for my dyslexic son didn't work right, I found this app and its much better and free. 
+org.coolreader#124078:	   This program works well with epub books. It has a weird voice though and it is hard to get her voice to a setting close to sounding non-computerized. Should have different voice options. Also repeats paragraphs since last update. Can not complain too much since it was a free ap! Right now it just stopped working. First time that has happened...hope it will start back up soon! 
+org.coolreader#124080:	   I think I could'nt find something more better than this app. Totally worth downloading. Never hang, stuck, crash or any stupid things that other apps do. Keep up the good work! 
+org.coolreader#124089:	   When I try to open a book, error 404 comes up. Do not download 
+org.coolreader#124095:	   Desire X. It crashed while reading one of the books (.mobi) and continues crashing every attempt of opening that file. 
+org.coolreader#124100:	    is not loading and I can't go to pages I want through contents. Fix it please else a good reader. 
+org.coolreader#124108:	   You can add some more page transition effects , and cure the" force close" in my neo v. Also, pdf viewing can do. And pls fix the image bug!! 
+org.coolreader#124111:	   But with the latest update it is constantly crashing and I can't get rid of the freaking toolbar at the top. Will probably have to switch which is unfortunate as this reads so many kinds of books. 
+org.coolreader#124114:	   Crashes frequently. Often pages dozens of pages forward or backward. Uninstall. [Galaxy Note 2] 
+org.coolreader#124116:	   It was good. But crashing a lot after update. 
+org.coolreader#124118:	   Very good, stable app but most recent update has added a slightly intrusive toolbar that I can't get rid of 
+org.coolreader#124132:	   One of the best readers before upgrade 2 reader, now it crashes and lost 1/4 of the screen to a tool bar i don't want... 
+org.coolreader#124133:	   I can not open  files. Plz fix it! 
+org.coolreader#124139:	   Never had a problem. Flawless 
+org.coolreader#124141:	   I read comics with this reader as well as regular books. Haven't had problems with books, but comics typically have bugs associated with reading them. Many times, turning a page results in a black empty page or an incorrectly formatted page where the comic is smaller than the screen like the reader zoomed out. Many times, to fix, I have top flip back and forth between pages or restart my device to get it to work. Please fix this! 
+org.coolreader#124149:	   Last update has added a tool bar, which I couldn't remove. That irritates 
+org.coolreader#124164:	   It was a 10 star app before this update. What in the name of all things holy you did to it? An example: I'm reading a series of books, as usual. To my surprise, when I've finished book 8 of series L, instead of getting me right where I was when I hit back, there I was facing the whole index to go find the next book of that particular series. When you have over 5 K titles it's a humongous PITA. And the never seen before force-close. It was by far the best reader app ever. Please fix it!!! 
+org.coolreader#124166:	   Best reader ever. Used for some time now and won't use another. Thank you for a great app. 
+org.coolreader#124170:	  The new update fixed my issues with the old one. Back to five stars for the prompt fix. :) 
+org.coolreader#124171:	   Thanks for fast fixing the position saving issue! 
+org.coolreader#124172:	   Is anyone else getting a FC when attempting to switch from night to day mode with the latest release (3.1.2-20)? Other that small bug in the latest release, I love this app for reading my .epub books!!!! thanks 
+org.coolreader#124176:	   Hi i like this reader after the update but  is not working please fix. 
+org.coolreader#124177:	   I have a Samsung galaxy s3 and I use the read aloud frequently but when ever there is a "..." it pauses and doesn't start up again can you fix this please I am reading the game of throne series and there is a lot of... 
+org.coolreader#124179:	   Upgraded to the latest version today. Now I wish I hadn't. The upgrades to the UI and all are fine. But the number of times this damn app crashes is the pits. The older version was better. Piece of crap now. On Sony xperia sola android 2.3 
+org.coolreader#124183:	   I stop used it cos this update. Do not instal it!!!!! I want fu nd old version of Reeder witch was Cool... now it is Poor Reeder 
+org.coolreader#124189:	   Excellent. But when in scroll mode when you turn the page to the next one, it gives so many lines of previous page. That's why I am using turn page even though I like beter scroll mode. If you can fix this thanx very much. Otherwise this is the best app reader by far among all the others. 
+org.coolreader#124201:	  Like the new updates so far. Biggest issue is the tag sorting tends to be a bit too granular. Can get 8+ pages in before hitting any actual books. 
+org.coolreader#124210:	   Would be nice if you could use real page numbers. Instead, it ignores the page number and instead calculates the current page by the number of screen flips. This number varies as you change the font, though. I understand the reasoning for doing it this way, but it would be nice if there was an option to also show real page numbers. Also, there is a delay of up to 5 seconds when you change orientation or make any other change that affects the rendering of the page (font type/size, alignment, margins, etc.). Not a huge deal but it is something that can be improved. Also, the localization needs a little bit of work. All in all though, these issues are easy to overlook because this is the most configurable reader you are going to find. I recommend it. 
+org.coolreader#124215:	   I really like the versatility of this reader,but every book I have read using it(6 so far) contain spelling errors. It seems to change the first or last letter of some words. Example 'fight' instead of 'right' and things of that nature. It seems to get worse as the page number increases,even replacing the letter 'b' with '6'. Strange and very annoying. 
+org.coolreader#124222:	  Crashes repeatedly 
+org.coolreader#124225:	  Doesn't support PDF pls fix it 
+org.coolreader#124228:	   The Cool Reader app is a fundamentally good concept, but is lacking in actual performance. While reading a document, this app will suddenly jump back to a previous point instead of continuing to the end of the document. 2 stars. Pls fix! 
+org.coolreader#124232:	   Works fine til im halfway thru a book then keeps crashing when trying to open. Way too frustrating, and hasnt been fixed. DELETE! 
+org.coolreader#124234:	   Pretty good reader but doesnt work with ivona tts engine on the galaxy tab 2 P3100. When I tapped read, it just kept on scanning the text continuously but did not read it. Please fix this. 
+org.coolreader#124235:	   When this program was working it was the best thing ever!!! But now it's wasting my time like crazy. I can't get it to work properly and I can't find any technical support!! The "read outloud" function never works. It speeds through the lines without reaading out loud Please contact me if you can help simonlisa@videotron.ca 
+org.coolreader#124239:	   This app seemed like a great way to read titles from these two sites, but it can't load the indices. I reported the error to the apps author with screenshots from my Nexus 7 Jellybean 4.2 tablet. No response. 
+org.coolreader#124243:	   Can't find any of my books and only opens its own manual. Don't waste your time on this 
+org.coolreader#124245:	   Worked fine on my Galaxy Tab 2 7.0 GT-P3113 until update, then screen darkens when I turn the page or take too long reading the page (which is funny, because I'm a really fast reader...) It's not enough to give up the app, just hoping you'll fix this soon. It's kinda annoying... 

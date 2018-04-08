@@ -1,0 +1,980 @@
+com.kmagic.solitaire#110000:	  Does not fit screen, clicks are off. Samsung galaxy note 5. No option to get to menu. Please fix, still having problems. 
+com.kmagic.solitaire#110002:	  Been using this app for 10 year or more and love it, but.....reset my mobile to factory defaults on my OnePlus 3 Android 7 and Oxygen OS last night and now the settings do not work. All I can do is open and close the app and play. Pity. 
+com.kmagic.solitaire#110007:	  Used to be great but can't access menu now on new phones. Shame 
+com.kmagic.solitaire#110013:	  Loved the game, then my phone updated from Android 5 to Android 6 about a year ago. Hasn't worked since then. Tried uninstalling and reinstalling it but it just won't work. Liked it so much I kept it on here in hopes it would get fixed but uninstalled it today since it just doesn't work any longer. Wish it did. 
+com.kmagic.solitaire#110015:	  Doesn't work for S7. This was the only solitaire game I liked on here. Bummer 
+com.kmagic.solitaire#110016:	  Game can't be played on Edge 7. Doesn't fill the screen up like it used to. Please fix this. 
+com.kmagic.solitaire#110020:	    for Samsung se7. Will only work once you download it but when you close the app it does not work right again 
+com.kmagic.solitaire#110023:	   I have loved this app for years and have had no problems even with upgraded phones and tablets, but now with my new Asus tablet Android 6.0.1, it didn't work. The graphics were blurry and the menu was missing so I was unable to do anything including being able to exit. I had to uninstall it. I will give 5 stars again if this issue is fixed. I miss this app. 
+com.kmagic.solitaire#110024:	  In my redmi 3s prime, i didnot have toolbar from where i can change my game or undo my moves.resolve the issue, 
+com.kmagic.solitaire#110025:	   I played this game all the time. Best out there. I had to upgrade my phone to a Galaxy S7 edge. Now the app is useless. It runs small, 1/2 screen, no controls as before, unable to change games. Until they fix this app STAY AWAY it doesn't work. 
+com.kmagic.solitaire#110028:	  Couldn't access a new game 
+com.kmagic.solitaire#110030:	   Screen keeps shrinking with no way to pull up the menu or fix it. 
+com.kmagic.solitaire#110032:	   I relaxed by playing this...often. now I can't. Phone updated OS and now no longer works. Screen about 1/2 size. No longer can move cards. No access to menu screen. Non responsive to movement. Needs an update. SUCKS 
+com.kmagic.solitaire#110034:	   This app has not been updated since December 2010. Since it was designed for older versions of Android, the menu might not work on your phone. The graphics were designed for the lower resolution screens of older phones and will not look as good on the newer, higher resolution phones. 
+com.kmagic.solitaire#110046:	  Great solitaire app but doesn't work on Nexus 
+com.kmagic.solitaire#110055:	   I loved this on my old ZTE phone. In my new Samsung phone you can't get to the menu to select a different game, the options, or stats. Uninstalled. 
+com.kmagic.solitaire#110056:	   Great game have played more than 5000 hands over the years. but now that I got the galaxy s7 I'm having the same problem as an earlier comment. it's not filling the screen and no menu what so ever. Please fix it would love to continue using this game. 
+com.kmagic.solitaire#110057:	   You cannot get the whole screen or the options to change or start a new game. Extremely sad, as this is my favorite game, my stress relief. 
+com.kmagic.solitaire#110059:	   NOT ANY MORE!! IT DOES NOT WORK WITH THE GALAXY S6.. I've tried many ways to get it to work right & it only shows 1/2 the screen, can't move cards, no menu to even start games - let a lone customize:( 
+com.kmagic.solitaire#110064:	   As the title says, the app GUI has serious problems on this phone. The size and coordinate system are not set up right, probability a pixel density problem. There's also no way to get to the menu. Worked great on my S5 though! 
+com.kmagic.solitaire#110065:	   Takes up virtually no space, no ads, never had a problem 
+com.kmagic.solitaire#110067:	   I played this for years on an old phone with a menu button and loved it, but my new phone doesn't have a menu button so this doesn't work. Besides, it gets confused with higher resolution so that touch areas don't correspond with card images. DESPERATELY needs updating! Three games, no ads this app was great, now it's lame! 
+com.kmagic.solitaire#110068:	  I love this game. But it needs to be updated to keep with newer phones. The screen size shrunk and i cant read whats in the bottom corner because its all black. There is no way to access the menu screen. Please fix this otherwise your game will become unplayable. 
+com.kmagic.solitaire#110071:	  I can't get to the menu at all, super bummed I used to love this app 
+com.kmagic.solitaire#110072:	   I thought it wouldn't work with the Galaxy S7, but the only change was having to use the "Back" key rather than the "Stack" key on the home screen. You still tap it to go back one card. Just lay your finger on the key. 
+com.kmagic.solitaire#110074:	  This used to be a great solitaire app, it didn't require permissions, wasn't a battery drain, and didn't have ads. And it still has all those benefits, but a lot of new phones don't have the "menu" button this app needs to access the menu/settings so it is unfortunately unusable now. Would love to see an update to fix this. 
+com.kmagic.solitaire#110075:	   I've been playing this game literally since I got my first smartphone back in 2011. Now it's blurry and there is no menu!! What gives?? I want my Solitaire back! Uninstalled until FIXED... and it's not like tons of other Note 5 users haven't already told you about the issue. SMFH 
+com.kmagic.solitaire#110078:	   Will not work on my gal 7. I loaded it 2 times. Still the same. Only part screen and no controlling 
+com.kmagic.solitaire#110079:	   Before the firmware update this was my favorite. But now it doesn't fill the screen, the touch and screen are not matched, and I can't access the menu. I hope this gets updated. 
+com.kmagic.solitaire#110080:	   Just switched from Samsung Grand Prime to a Samsung J7. Had an in game menu button on old phone but not on my new one. If fixed 5 star rating. Have had this app on all of my phone's. 
+com.kmagic.solitaire#110081:	   It worked great on my old Samsung Galaxy 5 but stalls, has a shrunk screen and cannot open menu on my 7. 
+com.kmagic.solitaire#110082:	   Changed phone from Galaxy S3 to S7. Graphics don't fit any more, menu items don't appear and freecell no longer available. Was told it was fixed. Still no freecell (which is the only game I played) and graphics don't fit screen. 
+com.kmagic.solitaire#110087:	    in a game and couldn't get out. 
+com.kmagic.solitaire#110090:	   Using this app for over 4 years. Works great. Update: My LG G5 does not have a menu button and I can't access other games. I can't even start a new game. Please update. 
+com.kmagic.solitaire#110094:	   Great app! Only issue is that after I upgraded to galaxy 7 I don't have a menu button to access other games. And the only one I played was forty thieves.  and now I can't get to it. 
+com.kmagic.solitaire#110100:	  Don't work tried to Uninstall and reinstall but does nothing won't work. I give it negative stars if I could. 
+com.kmagic.solitaire#110105:	   It malfunctioning can't get it to play full screen 
+com.kmagic.solitaire#110109:	  After last update on Samsung Galaxy S6, app stopped working all together. Uninstalling then installing again will only let me play 1 or 2 games before it quits again. Used to be my favorite game, but not anymore. Don't seems like the KM folks want to fix it. 
+com.kmagic.solitaire#110110:	   To fix the 1/2 screen, in phone settings, "display", "display scaling" change to "condensed" restart phone, then change back to "standard" and restart. I don't know why, but it worked for me please "thumbs up" if it worked for you. To get the "game menu" hold the "back" button for 3-5 seconds. It worked yesterday, but not today :( 
+com.kmagic.solitaire#110111:	   I used to really love to play this game but every since I got my Samsung Galaxy S7 this app does not work right on it!! Please fix this issue!! 
+com.kmagic.solitaire#110113:	   Ive had this app on a number of phones now & it was always the first thing i installed. Unfortunately my current phone (an LG) doesn't have anyway for me to access the app menu, so i cant save, cant access settings, cant even deal a new game. Needs fixing asap. 
+com.kmagic.solitaire#110114:	   Great time killing game. Easy to use & never experienced bugs during gameplay in the years & 10000+ games I have played on various devices. Two things to fix: 1st, spider game, needs an on screen way to deal the deck. Can't without trackball or search key. Maybe make it so swiping across the top of the screen? 2nd, I haven't surrendered a freecell game in thousands of games, I'm careful to not leave it open or other ways it falsely registers a loss, but stats keep showing losses I haven't incurred. 
+com.kmagic.solitaire#110116:	   Pure simple app, great....... free game with no ads.... Just a shame it doesn't run on marshmallow. 
+com.kmagic.solitaire#110118:	   I'll update this to 5 stars if they fix this to work with the Android 6.0 update. Right now it doesn't fit the screen and the cards are off kilter because of it. 
+com.kmagic.solitaire#110124:	   I love this app but won't work on new phones please fix it 
+com.kmagic.solitaire#110127:	   I like this app good game. But up graded from note 2 to note 4, now it doesn't work. No in game menu. 
+com.kmagic.solitaire#110128:	   Got new s2 tablet and not working correctly like it did on my old one. Half screen, can't access the menu, and can't exit. 
+com.kmagic.solitaire#110133:	  Can't access menu on ASUS ZenFone 
+com.kmagic.solitaire#110138:	  Does not work properly, cannot access any menus, and cannot start a new game. 
+com.kmagic.solitaire#110140:	  Does not work with s7 
+com.kmagic.solitaire#110141:	  It stopped working :( 
+com.kmagic.solitaire#110145:	   Tried to use track button to deal Spider but doesn't work 
+com.kmagic.solitaire#110151:	   Please fix so I can use on my new phone 
+com.kmagic.solitaire#110152:	   Works great on S2 - S5 but can't access the menu on the S6 and newer Samsung phones :-( Still no update!!!! 
+com.kmagic.solitaire#110154:	   Spider doesn't have any way of dealing cards. What phones have trackballs anymore? Contacted developer and never heard anything. I don't think there's been any updates on this app for quote some time. I wish the developer would fox the spider issue. It says you can tap the deck, but there is no deck to tap. 
+com.kmagic.solitaire#110158:	   No ads! But stopped working right with marshmallow update 
+com.kmagic.solitaire#110159:	   It shrinks down to a small size and won't move. I've tried uninstalling it and reinstalling it and it just doesn't work. It might work for one or two games, then it locks up. 
+com.kmagic.solitaire#110160:	   Used to work. Now it don't work for crap on the Galaxy S7 Edge! 
+com.kmagic.solitaire#110161:	   I had this app on my Samsung Tab 3 & Galaxy Note 4. Absolutely loved it! It's simple, very entertaining, and not loaded with adware! It was wonderful. I say"was" for after my Galaxy Note 4 updated the operating system, it would no longer operate at full screen and the menu bar would not appear. PLEASE fix this issue! 
+com.kmagic.solitaire#110168:	   My menu button didn't work 
+com.kmagic.solitaire#110171:	   I love this app on my tablet, however on my old note5 and now on my S7, it's not full screen and the touch calibration is off. Please fix...Update: now I have a note 7, it's full screen again yea! But when I try to access the menu, I have to click and hold on the recent apps button. That button also accesses the split screen view. It won't open the menu. Therefore I've only played one game and cannot start another! 
+com.kmagic.solitaire#110173:	  It works fine on my ZTE ZMAX, button the ZMAX Pro I can't get a new game, make options. Just fix it. 
+com.kmagic.solitaire#110176:	   Pls fix. My favorite app for solitaire. Was working fine until last week. 
+com.kmagic.solitaire#110177:	   I really liked this solitaire game, but it stopped working on my Note 4 recently. The screen is smaller than usual and games can't be restarted or anything so it is stuck and no longer playable. I will uninstall it now. 
+com.kmagic.solitaire#110179:	   I got a new Samsung Galaxy s7 and this app doesn't work anymore. Really hoping they update it soon. Miss my forty thieves! 
+com.kmagic.solitaire#110184:	   Turns out recent issues were due to Android 6.0.1 not to solitaire app. Google has now rectified. Play on. 
+com.kmagic.solitaire#110186:	  Loved this game. Only game I kept moving from phone to phone. I now have the Samsung S7 edge and it won't adjust to screen size and can't get tool bar. 
+com.kmagic.solitaire#110190:	   Used to LOVE this app with it's many versions of Solitaire. Now only fills a portion of the screen; selecting items difficult; no menu options, and only the standard Solitaire is available. PLEASE FIX! 
+com.kmagic.solitaire#110195:	   I just got a new Samsung 7 phone and the, app won't load correctly. The app does not open a full screen and, you cannot move the cards. 
+com.kmagic.solitaire#110198:	  I really liked this one until the upgrade now it will not load right. Tried to uninstall and reinstall but it's still messed up! HELP 
+com.kmagic.solitaire#110199:	   It randomly shrinks the screen. Then i have to uninstall and restart my phone to fix it. Then reinstall. 
+com.kmagic.solitaire#110201:	   Time to find an app that works and delete this one. Its faulty and it seems from all the comments that its not about to be fixed. 
+com.kmagic.solitaire#110203:	   Bummed. This was the best solitaire out there. Hanging in there, hoping they will fix it. 
+com.kmagic.solitaire#110208:	   My galaxy 4 died so I upgraded to the galaxy 7 edge...can no longer play this game. I played this every night and now am uninstalling since I can't access the other games or the menu. 
+com.kmagic.solitaire#110210:	   I've used this for years and I'm down right upset that since my phone was updated to marshmallow it won't work, just half a blurry screen and menu doesn't work anymore and I've uninstalled and installed several times. 
+com.kmagic.solitaire#110211:	   Half screen, i can't change to another game. Please fix. Thanks 
+com.kmagic.solitaire#110213:	   Long time player, but in the last several days the app is fuzzy, shrunk and is non responsive. Same device and provider. Resetting hasn't worked. Tried many other apps over the years, and they just haven't been as simple to play or challenging. Please fix!!! 
+com.kmagic.solitaire#110214:	  For some reason when my phone updated the app stopped working and shrunk on the screen I don't know used to be my favorite if you could get it to work it's great. 
+com.kmagic.solitaire#110217:	   This was the best solitaire out there and I've had it on every phone I owned, but it no longer works. PLEASE fix or update! 
+com.kmagic.solitaire#110219:	  Will not work on galaxy note 4 
+com.kmagic.solitaire#110223:	  It seems it won't work on some lg phones. it does not display the menu line I have no access to the new game button useless. it's a shame as this was my favorite. 
+com.kmagic.solitaire#110224:	  Please fix spider for Lollipop. I can't access the menu buttons. I cant switch games. This game needs an update for the newer operating systems. 
+com.kmagic.solitaire#110225:	   This game is the only advertising free version of solitaire that I have been able to find on the Android market. It always ran perfectly on my HTC Evo & HTC One, but on my Samsung Galaxy S7 Edge, the application opens up in only 2/3 of the screen, and really doesn't work. Sadly, I have to uninstall. 
+com.kmagic.solitaire#110227:	   , dosent work. Fix it! It used to be great until yesterday. 
+com.kmagic.solitaire#110228:	   Loved this app. Was the best solitaire game around. Just recently updated my phone to a S7 and the app has stopped working. Please update app Ken Magic. 
+com.kmagic.solitaire#110229:	   I currently enjoy this app on my Samsung S5, and S5 Active... But I just got the S7 Edge and it doesn't allow to select the menu settings to choose another game, restart, or end game. I tried this also my brothers S7 with the same issues... I hope this is fixed soon, Really liked playing this specific app.. 
+com.kmagic.solitaire#110239:	   I used to play this constantly on my previous phone. Now I've upgraded to the HTC 10 I can't access the menu at all even after I finish a game of solitaire please fix it 
+com.kmagic.solitaire#110240:	  Please fix it so that it works on my Verizon Note Edge. I've used this app for probably 6 years, since I had the original Droid, and it no longer works on the Marshmallow 6.0 update. Otherwise, I totally love this app! 
+com.kmagic.solitaire#110241:	   Doesn't work on Galaxy Note 4. Problem with hi-res screens? 
+com.kmagic.solitaire#110248:	   But I cannot get it to play on my new Galaxy 7 - please come up with a fix. 
+com.kmagic.solitaire#110249:	   For some reason the size view of the screen was shorten, now it's almost impossible to see. I tried Uninstalling/reinstalling to fix but it didn't work. Please fix, really enjoyed and don't want another app 
+com.kmagic.solitaire#110253:	   I used to have it on my galaxy s4 but on my new s7 edge , the cards won't move properly and there is no way to change games or even start a new one. 
+com.kmagic.solitaire#110259:	   I love playing Forty Thieves! However, since Android's recent update this game is no longer compatible. Please fix it so I can keep playing! 
+com.kmagic.solitaire#110260:	   This is my favorite game and I was sure I wouldn't be able to use it after I upgraded to an s5 because I couldn't find the menu button. But I was ecstatic to find out if I hold my multi window button down the menu pops up! 
+com.kmagic.solitaire#110262:	  Can't get this app to work within my new LG Tribute 5 phone like it did on my Samsung Galaxy 
+com.kmagic.solitaire#110263:	   Ever since my Samsung galaxy s6 active updated its operating program, the game is no longer compatible. Please fix! 
+com.kmagic.solitaire#110264:	   Great app but, that was on my EVO. Now that I have the new DNA by HTC it seems to chug just a bit. I think it needs to be optimized for a hi def (true 1080 - 441ppi (totally awsome)) screen. Now, 2 years later I have a galaxy note 4. Looks and responds great. Update 07/18/16: Got the marshmallow update and the game wants to open at 1/4 screen size but drags cards as though it were full screen. Basically it doesn't work anymore. Needs to be updated. 
+com.kmagic.solitaire#110272:	  Not working on Marshmallow. 
+com.kmagic.solitaire#110273:	   I've played this game for years and love it. Now the menu button has disappeared and can't play anymore, sadly. I'll keep checking back and modify my rating when fixed. 
+com.kmagic.solitaire#110275:	   On my note 4 . The game comes on very small part of the screen .. you can't touch the right card .. you have to restart the phone to restart new game . . Fix that please 
+com.kmagic.solitaire#110281:	  Doesn't work on Galaxy 6+ edge 
+com.kmagic.solitaire#110283:	   Please fix, unusable. 
+com.kmagic.solitaire#110284:	   I have to uninstall and reinstall every time I want to play a game of spider, I upgraded my phone to galaxy 6, doesn't work right, please fix 
+com.kmagic.solitaire#110285:	   Absolutely the best solitaire application until Google upgraded marshmallow. Now doesn't work right. Google, please fix this 
+com.kmagic.solitaire#110287:	  Used to love this app, but it doesnt work on my galaxy s7 please fix so I can download again 
+com.kmagic.solitaire#110293:	   After years of unencumbered smooth play I suddenly experienced the game changing it's full size orientation from normal to reduced size, top left positioning on my screen. What's the problem? A quick answer and fix will rate a 5 
+com.kmagic.solitaire#110294:	   Stopped working with new Samsung note 4 marshmallow update. Works correctly for a few games then malfunctions. Please fix. I've been playing for years. 
+com.kmagic.solitaire#110296:	   Wow! Cannot play Spider because I can't get a new deal! New Droid has no search icon while I play" bummer! Please fix!! 
+com.kmagic.solitaire#110297:	   By far the best Solitaire game until the Android 6 update. Now it crashes and the only way to use it is uninstal and reinstall. Then it works for a day or two and or crashes again. Please fix this so I can change to 5 stars. 
+com.kmagic.solitaire#110301:	   1st Review - I've been playing your games for many YEARS now. This was my FAVORITE set of solitaire games until last week when my Samsung Galaxy S 6 was updated from Lollipop to Marshmallow. Now I can't play any of the games at all! The screen has shrunk by half, the direction/new game button has disappeared and nothing responds. Please, please fix this, I'm really missing playing. No other Solitaire even comes close. I would rate it 5 STARS if this problem is corrected! 
+com.kmagic.solitaire#110302:	  Same problem on 3d EVO,no full screen 
+com.kmagic.solitaire#110303:	   This was my favorite solitaire game until my phone updated to Android marshmallow. Now it won't work at all. Had to delete it in favor of other solitaire game which I don't like half as much. Please fix it!!! 
+com.kmagic.solitaire#110307:	   This was my go to game, thousands of them. It quit working after the Android 6.0 upgrade. This app needs to be fixed to work with it, please. 
+com.kmagic.solitaire#110313:	   Been playing this for a couple yrs now, all of a sudden it doesn't work right anymore. 
+com.kmagic.solitaire#110314:	   Changing rating AGAIN!! Doesn't work on the latest Android update (marshmallow) 
+com.kmagic.solitaire#110315:	   This was awesome on my old Verizon tablet but not on my new Samsung Galaxy Tab E. There's no menu bar so I cannot play anymore after the first game! Needs fixing... 
+com.kmagic.solitaire#110316:	   Best free solitaire ever but had to uninstall because it doesn't work on Galaxy S7 
+com.kmagic.solitaire#110320:	   This is my fave solitaire but it's not working properly 
+com.kmagic.solitaire#110322:	   ... now crap. Doesn't work on my new S7; I only get a half screen, no menu, no Options and no Quit button. 
+com.kmagic.solitaire#110326:	  Does not work on Samsung s7 at all. Opens to half a screen for solitaire and no way to close or start any other game. Had this app on s3 and never had any problems. What is the problem? 
+com.kmagic.solitaire#110329:	  Loved this app on my old phones but it doesn't work right on this new S7 Edge. 
+com.kmagic.solitaire#110331:	   I have problem when I want to deal new set of cards in spider game. I don't have search button and I don't have a way for dealing in that game. I have an HTC cellphone with no buttom. 
+com.kmagic.solitaire#110333:	  The best solitaire app. But does not work well on Android v6. 
+com.kmagic.solitaire#110336:	   Just got the Galaxy s7 and now the game no longer works.. Won't go to full screen, cards don't move and there is no option bar.. 
+com.kmagic.solitaire#110337:	  Wonderful app, I have enjoyed it for years my only complaint is that it won't work on my new Galaxy S7. Please fix it. 
+com.kmagic.solitaire#110338:	   Since the latest android os update it doesn't work properly. 
+com.kmagic.solitaire#110339:	   I like this game, but it does not work on my new phone( Galaxy S7 edge ). 
+com.kmagic.solitaire#110340:	  Doesn't work on s7 edge! 
+com.kmagic.solitaire#110343:	   If you don't mind not being able to play Spider, this app is fun. I play Forty Thieves for at least an hour every day. Still frustrated about the Spider deal problems though. I don't have a search button or any other buttons on my phone (galaxy note), so the entire game is useless, which sucks because I like spider solitaire. 
+com.kmagic.solitaire#110345:	  Loved it until about 1hr ago I did the phone update. It screwed up my game. I will uninstall this and reinstall. Hopefully that will fix it. Can no longer play Forty Thieves 
+com.kmagic.solitaire#110350:	  Not working with Samsung Note 4 after latest update. 
+com.kmagic.solitaire#110353:	   Update for Note 5: I've had multiple phones over the past few years and always come back to this app. I love it. Unfortunately, there has been no support for this app in some time, and when I was forced to upgrade because my old phone died, I realized that the app doesn't work on the new phone. I haven't bothered to install another program, because I don't enjoy any other app like I do this one. PLEASE UPDATE FOR NEWER ANDROID MARKET! 
+com.kmagic.solitaire#110355:	   I used this app, and really enjoyed it for several years, but when I installed it on my new Samsung Galaxy 7, the cards are tiny. I can't even read the numbers and have found no options to fix it. Very weird. 
+com.kmagic.solitaire#110356:	  Does not work with Android 6 Marshmallow as app only uses part of the screen & locks up after 1 or 2 screen presses 
+com.kmagic.solitaire#110358:	   Do not work with S7 no menu options does not fill the screan 
+com.kmagic.solitaire#110359:	   Was my favorite solitaire app but it doesn't work the marshmallow. For whatever reason, the game board shrunk and the menu button is no longer visible. 
+com.kmagic.solitaire#110361:	   Doesn't work anymore 
+com.kmagic.solitaire#110363:	   You guys must have fixed whatever was causing the issues I was experiencing, so everything works now. I'm back to enjoying playing free cell while taking my break upon the porcelain throne. 
+com.kmagic.solitaire#110364:	  Can't get to the menu on my HTC10. loved the game on my last two phones. 
+com.kmagic.solitaire#110366:	   Half screen.... no longer has a menu.... was one of my most used apps.... please fix. GS6 
+com.kmagic.solitaire#110367:	  What happened to this app? Was great now after system update its crap. Fix please!!! 
+com.kmagic.solitaire#110370:	   Love this app. I've been playing Forty Thieves and the other games, for years. I just got the Galaxy S7 and it won't fill the screen and there is no menu! Ugh...PLEASE FIX! 
+com.kmagic.solitaire#110371:	   Was my favorite app, used it for 40 thieves. But since the new update, it only fills 3/4 of the screen and doesn't work correctly. Please fix! I miss it! 
+com.kmagic.solitaire#110372:	   Used to work great until the update took place. Now, not working at all. 
+com.kmagic.solitaire#110377:	   Was a great app until android updated now it doesn't work 
+com.kmagic.solitaire#110380:	   You totally screwed up the whole app! Had it for years,thanks! Fix it! 
+com.kmagic.solitaire#110381:	   Game does not function correct on Galaxy S7 android 6.0.1. Can open it once but have no menu after that it is just using 70% of the screen and I still cannot access the menu. 
+com.kmagic.solitaire#110389:	   I only get 3 of the solitaire games for choices. I can't deal next card row for spider solitaire -no options are present. I can bet that nobody is going to fix this. You just take our money and run. So f?ck you and your game. Assholes. 
+com.kmagic.solitaire#110390:	  Works on my phone. Does not work on my tablet, as accessing options requires a menu button. Many tabs do not have this. 
+com.kmagic.solitaire#110392:	   Works on the Turbo2 phone we have, only partially works on a Samsung S6. It doesn't fill the screen and has no access to the menu. Played it hundreds of times on all other phones we've had with no problem. 
+com.kmagic.solitaire#110395:	   This app has been terrific and has worked trouble free for years on several different phones. I got a new Samsung Galaxy S7 and i can't get it to work. It appears to be an issue with the display resolution. I can't access the menu and the display only appears on 2/3 of the screen. Can you please fix. 
+com.kmagic.solitaire#110397:	   I have been using this version for many years, but it doesn't work with my new phone. I've tried 10 other solitaire game with the new phone and don't like any of them. 
+com.kmagic.solitaire#110400:	   Can't go full screen and can't access the menu with any of the buttons on the S6 
+com.kmagic.solitaire#110402:	   Used to be so much fun, but now it doesn't work. Please fix it, and I will rate it 5 stars again. 
+com.kmagic.solitaire#110403:	   The app does work well with os 6.0.1. Please fix so I can re-install it. 
+com.kmagic.solitaire#110405:	  It doesn't work with latest samsung update. Makes me very sad. This was the best one available. 
+com.kmagic.solitaire#110409:	   Worked fine on all previous phones (Moto x, nexus 4) but there is no menu button on the LG G3 - can't deal new hands or switch game types! Edit: 8 months later and same issue, no menu button for dealing a new game anywhere. 
+com.kmagic.solitaire#110412:	   I have used this for years and rated it a five but, since an an update it does not work properly. Partial screen, cannot access menu and calibration is off. Please fix and I will change my rating back to five.... I'm guessing with no update since Dec 2010 there will not be one for this. :-( 
+com.kmagic.solitaire#110414:	   I love playing forty thieves but with the new OS it doesn't work. . 
+com.kmagic.solitaire#110417:	  The game worked very well until a recent OS update for the Samsung Note4 caused the game to "minimize" on screen and essentially become unplayable. If it could be fixed, then I can rate it higher. 
+com.kmagic.solitaire#110419:	  Please fix ASAP, my phones software was updated and this app does not work as it did before!! 
+com.kmagic.solitaire#110422:	   Since the android update 2 months ago it only fits 25% of the screen. It has been reported and has been long enough to fix the bugs. 
+com.kmagic.solitaire#110424:	  Doesn't work on s7 (verizon). 
+com.kmagic.solitaire#110427:	   I've loved this app for years but it doesn't work on my new S7. 
+com.kmagic.solitaire#110430:	   now it doesn't work right with the latest android update. 6.0 
+com.kmagic.solitaire#110435:	   Love this game because no ads. However, just did update to Android marshmallow and it doesn't work. 
+com.kmagic.solitaire#110436:	   I loved playing this, but, since my phone did an update and upgraded the OS it no longer works! I'm hoping that this will be fixed at some point! 
+com.kmagic.solitaire#110437:	   Just upgraded my phone from Samsung Galaxy s5 to s7 and installed app as I love it but unplayable on s7. Only fills 3/4 of screen and menu button doesn't work as Samsung have done something. A great shame. 
+com.kmagic.solitaire#110443:	   I got a recent android update to my s6 and now the game is messed up. It has horrible resolution and cuts off the screen on the bottom and right side. Can't press the options button because it was in the missing corner. Please fix! I like this solitaire app the best 
+com.kmagic.solitaire#110447:	   Will not work on Samsung S7. At first it did, then on the second day in was much smaller and the menu was gone 
+com.kmagic.solitaire#110449:	  Gam doesn't work anymore. Should be 0 uninstall! 
+com.kmagic.solitaire#110450:	  Doesn't work anymore. 
+com.kmagic.solitaire#110451:	  It worked perfect but now it stays on half screen and it's not possible to play. Please fix it 
+com.kmagic.solitaire#110453:	   Played this game every day, but got a new phone and it does not work at all. Any chance for an update? 
+com.kmagic.solitaire#110456:	   Hooked on forty thieves. Having some issues on my s7 though, not filling the screen and have no way to access the menu. I uninstalled and reinstalled and it worked the first time. Now its not right again. Wish it would work! 
+com.kmagic.solitaire#110459:	  Since latest update app does not work at all 
+com.kmagic.solitaire#110466:	   This is the only solitaire app I use but, new phone so the only keys I have (power,volume, back, home and app windows) and now cannot get to the menu tool bar. Please advise if know how to fix my problem. 
+com.kmagic.solitaire#110467:	   I had it on my Galaxy S4 but now I have the S7 edge and my icon to start a new game is gone. Fix it and it goes to 5 stars. 
+com.kmagic.solitaire#110468:	   I used to like this game, it was one of the best, but now after I upgraded to 5.0.1 on my android it won't run anymore the screen goes down to a1/3 size and won't operate at all. Please fix it and my rating will go back to a 5. It won't run on anything past the 5.0.1. 
+com.kmagic.solitaire#110469:	   Fix it!!!!!!! 
+com.kmagic.solitaire#110472:	   This app isn't working properly on Samsung s7 edge 
+com.kmagic.solitaire#110473:	   With the new marshmallow update on April 6, 2016 the menu button disappeared. Please fix. 
+com.kmagic.solitaire#110474:	  Doesn't work correctly on s7 edge 
+com.kmagic.solitaire#110476:	   I've used this app for several years on my Samsung Galaxy S5 and S6 and absolutely loved it. Does not work with my S7. 
+com.kmagic.solitaire#110477:	   App has began to not run properly. Partial screen. It will not allow me to change the game. Don't know why it's doing this now. Very sudden. 
+com.kmagic.solitaire#110478:	   Worked great until last Android upgrade. Now half screen and broken. Please fix soon. My phone is Samsung Note 4 
+com.kmagic.solitaire#110479:	    but has no menu bar i like to play with one card at a time fix it 
+com.kmagic.solitaire#110481:	   I loved this app but it doesn't work on my new phone 
+com.kmagic.solitaire#110485:	   Sadly not working with android version marshmallow :-( i pretty much love this simple solitaire app. 
+com.kmagic.solitaire#110488:	  I've had and loved this app for years but it won't work properly on my s7 edge please help. 
+com.kmagic.solitaire#110489:	   No ads, simple no thrills the best...edit, got new Galaxy S7, unfortunately app is not working well. Actually working terrible, needs update from Ken Magic. Otherwise, it was hands down the best solitare game out there 
+com.kmagic.solitaire#110493:	   It does not work properly anymore. I had to do the android update and it is no longer compatible. The button the start a new game is missing and it only takes up 1/2 of my screen. I will keep trying to install the app and hope it works soon. This one was the best 
+com.kmagic.solitaire#110494:	   So I have loved this app for years and am addicted to playing solitaire. It helps my anxiety. I have never had an issue with the app until tonight. I downloaded the new android update to my Galaxy Note 4 and now I am having an issue. When I open the app it is not full screen and I have no idea how to access my options or start a new game. Im so confused. 
+com.kmagic.solitaire#110496:	   I love this game. But, when my phone updated to the newest Android the game stopped working. I've reinstalled it and nothing. Game wont fit to screen or show options to play a new game. Can't move cards. Please fix this and I'll change my rating to 5 stars. 
+com.kmagic.solitaire#110498:	   No longer works under 6.0.1. Screen messed up and menu bottom does not work for Samsung Note 4. 
+com.kmagic.solitaire#110501:	   Samsung tab s2. Didn't fit the screen and was out of focus. ???? Reinstalled and tried again several weeks later still didn't work. Really crappie. Worked well on my old Asus tablet. Uninstalled. 
+com.kmagic.solitaire#110502:	   I simply love the app good job. The only problem is on your spider solitaire, I gues it needs some revision 
+com.kmagic.solitaire#110503:	   I loved this on my s5. but on the new s7 the screen is dysfunctional. Completely unplayable until fixed. 
+com.kmagic.solitaire#110504:	   I love this game, but since upgrading from an S4 to an S5 it doesn't work due to different button configuration. Would be great if you could find a way to fix. 
+com.kmagic.solitaire#110507:	   With the new Android update, I can't get to the menu, the card surface is shrunk with black going along the left side and bottom. This has been my favorite 40 thieves until this came along. 
+com.kmagic.solitaire#110511:	   Won't work anymore with system update. 
+com.kmagic.solitaire#110515:	  I've had this app a long time and love it! I am unable to use it at all right now tho, glitch? Appears small and no menu button, can't use the phones. Please help!! 
+com.kmagic.solitaire#110516:	   Have played for years, got a new phone and it doesn't work, like other users have said. Now, why won't they get back to anyone or even look onto the issue? 
+com.kmagic.solitaire#110517:	   Will not work on my Galaxy S7. No menus and screen is small and fuzzy. Locks up often. Hope it gets fixed, so I can keep using it. 
+com.kmagic.solitaire#110519:	  Don't work on my galaxy s7 :-( 
+com.kmagic.solitaire#110525:	   The game work fine on anything below Android 5.1. The menus are no longer accessible via the soft key so you can't access new games or settings. It's a shame since this is the only free solitaire app I can find without ads. And I like the way it operates better than any others out there. 
+com.kmagic.solitaire#110536:	   Have been playing this for years but disappointed to find it doesn't work properly on S7...only half screen and no menu button 
+com.kmagic.solitaire#110540:	   I have had this app for many years on all my smartphones, but it seems to be having issues on the Galaxy s7. Hope there is an update soon. 
+com.kmagic.solitaire#110541:	   I have enjoyed using this solitaire app for many years now - it's one of the best! Unfortunately, it doesn't work on my Galaxy S7. Please update the software!! 
+com.kmagic.solitaire#110543:	   Cannot access menu to restart or change games on galaxy s7. Loved this game until it didn't work on new phone. 
+com.kmagic.solitaire#110547:	  Man this was the best app ever but does not work on my galaxy 6 edge plus. Any suggestions? 
+com.kmagic.solitaire#110548:	   Played this game for forty thieves only. Loved it on my nexus, but upgraded to Samsung phone. Now game is only half screen, no menu, stuck on regular solitaire. Bad graphics too. Since I can't use the app, will have to remove game unless fixed. 
+com.kmagic.solitaire#110550:	   Doesn't work correctly on Galaxy S7 Edge running Android 6.0.1. 
+com.kmagic.solitaire#110551:	  Used to be 5 star. Now I can't use it at all. Just got S7 Edge. Board is tiny, but the really bad thing is that the "Recent" button no longer gets you into Settings. Holding it down just gets a message about split screen not being available for this app. 
+com.kmagic.solitaire#110556:	  I loved this app but it's is unplayable on Galaxy 6 unless you uninstall and reinstall every time. I wasnt going to comment here and I emailed directly: but on the website there are many similar issues logged. All medium priorty and going back to much older model phones. It seems 'medium' priority is no priority at all :( 
+com.kmagic.solitaire#110559:	  Sir not working on Samsung Note 5 handset. Please do needful & send updates for the same. Thanks. 
+com.kmagic.solitaire#110563:	   Would give 5 stars, but it completely crashes on my galaxy s6. 
+com.kmagic.solitaire#110564:	   Love this game and app, but ever since my phone updated it hasn't worked for me. So frustrating. Please update the app to work for me and others who are experiencing the same issue. 
+com.kmagic.solitaire#110566:	   It's not in HD, it comes frozen, the menus don't work, locked in landscape, can't do anything to play, and the art stinks. A fail at every level. 
+com.kmagic.solitaire#110570:	   Now it won't work correctly on my s6. Please please please fix. 
+com.kmagic.solitaire#110572:	  Can't find the way to change games. I had this for a few yrs then I got a new phone and can't find the way to switch it to freecell 
+com.kmagic.solitaire#110574:	   I've used this app on 4 phones but my galaxy s6 can't play it. The menu won't open 
+com.kmagic.solitaire#110575:	   I loved this game - no obtrusive ads and simple screen - but I just upgraded phones and now have no search button or trackpad. (Only back, home, and menu - Moto X Pure.) Now there is no way to deal cards. Please fix, and I will bump up my recommendation to the best on the market! 
+com.kmagic.solitaire#110576:	   I had this on a Samsung phone and loved it. Changed to an ASUS ZenFone and now I can't access any of the controls. I can't change games or even reset solitude. No info anywhere. 
+com.kmagic.solitaire#110584:	   The app is freezing up and it will not move at all. Started today. Please fix asap. Thanks! 
+com.kmagic.solitaire#110587:	   But I can't access a menu from my new android phone (Samsung S5). I've tried other solitaire games & this is the only one I like. Please put on a menu option for me 
+com.kmagic.solitaire#110590:	   Does not work on my galaxy s6 anymore. I've played several thousand games on this app, but an update on my phone broke the game. Still no fix after two months... 
+com.kmagic.solitaire#110591:	   I used to only use this game, but I can't find the menu on this phone??? 
+com.kmagic.solitaire#110593:	   I have the same issues as others I think. I went from an S4 to a note 5. The layer doesn't have a menu key as my previous phone did. Most of the spots I reloaded have move the menu from the button to the actual screen input. Please update add I play forty thrives all the time and this app is the only one that gets out right. 
+com.kmagic.solitaire#110594:	   Nothing to complain about. Simple, clean, solitaire game. Kudos for no ads, no p2w, and no network access or other excessive permissions that plague mobile gaming. 
+com.kmagic.solitaire#110597:	   Loved this on my last Samsung Galaxy S4, now only fills part screen on G6 edge. Please fix, best available. Giving 5 stars in anticipation! 
+com.kmagic.solitaire#110598:	   It used to work on my Galaxy S2 but since upgrading phones, it will not work my new Galaxy S6 and Galaxy Tab 2 because they do not have search buttons, so you cannot deal the next hand in spider solitaire. 
+com.kmagic.solitaire#110601:	   BECAUSE HE WON'T RESPOND. I HAD THE APP FOR YEARS AND THEN IT STOPPED WORKING. 
+com.kmagic.solitaire#110603:	   I played this game every day on my Galaxy Note 3. I just got the Note 5 and it doesn't work! There is no way to pick a game as there is no menu button, the display is messed up, not even the default game works. 
+com.kmagic.solitaire#110609:	   Been using app for year's but will not work on new Samsung edge..bummer 
+com.kmagic.solitaire#110611:	   Have used this great app for years. Can't move cards on new Note 5. Small low res graphics. Hope a new version will fix the problem. 
+com.kmagic.solitaire#110612:	   Missing controls, no access on screen. Old version worked on HTC now it don't. Sorry 
+com.kmagic.solitaire#110616:	  I really loved this game but... now my Galaxy S6 has had an update it won't work properly. It won't go full screen on my mobile and the cards won't move so not happy now. I can't find a way to contact the developer either so don't know what to do. 
+com.kmagic.solitaire#110625:	  Great game, no ads. Doesn't work right after S6 updated, though. 
+com.kmagic.solitaire#110626:	   Won't work on note 5 
+com.kmagic.solitaire#110629:	   I've used the app for a while and loved it, but my Samsung galaxy 6s just did an update and the app is now messed up. No other apps are having an issue. 
+com.kmagic.solitaire#110630:	   It was a fantastic app until a recent software update has rendered this app useless. The same low resolution, half screen problem that everyone else is experiencing. 
+com.kmagic.solitaire#110635:	   This app has worked perfectly for me on 4 different phones over the last 6 years. Now it is too small for the screen ever since the latest update. I hope this issue is resolved soon. 
+com.kmagic.solitaire#110638:	  What the heck! Game used to be fantastic but in late 2015 the game only opens halfscreen and is greatly flawed. Please fix this issue. 
+com.kmagic.solitaire#110640:	   Used this game on my note 4 and really enjoyed it but won't work at all on my note 5. 
+com.kmagic.solitaire#110642:	  Doesn't work for Samsung Galaxy s6 plus 
+com.kmagic.solitaire#110645:	   I have had this app through 4 different phones and never had an issue. But recently on my edge it only displays in part of the screen, low resolution, card selection boxes are all misaligned, and the game is basically unplayable. Uninstalling for space but hopefully I'll be able to get it back 
+com.kmagic.solitaire#110647:	   Will not work on my note 5. Loved it on my note 3. 
+com.kmagic.solitaire#110649:	   I have played this version of the game for years and love the simplicity of the setup and the way the stats are calculated, however after an update the game now only shows up in one corner of my screen. I began by restarting my S6, which reset the picture to full screen for awhile but this does not work anymore. I tried to uninstall and reinstall the game but had the same problem. Unistalling. 
+com.kmagic.solitaire#110650:	   Great app, simple, have used it for years. (update: This app has stopped working since last Verizon update. Opens in smaller window and unresponsive. Have to use "close all" to close it. Samsung Galaxy S6. Two emails to Ken Magic unanswered. Fix to get 5 stars back) 
+com.kmagic.solitaire#110654:	  I used to love this app. But it's not working on my edge. 
+com.kmagic.solitaire#110655:	   Had on my old phone. Won't work on my Note5 
+com.kmagic.solitaire#110656:	   I can't deal in the spider solitaire game on note 4.... Says I have 5 deals but won't let me deal anything. All the other games work, just can't deal in spider game... Will give 5 stars once that deal option is fixed for spider. 
+com.kmagic.solitaire#110657:	  Best solitaire app there is. Completely ad free, simple design with good options. However, it crashes on my galaxy s6 since the last droid update. Ken magic, please come up with a bug fix! 
+com.kmagic.solitaire#110659:	   It used to be a good solitaire app but recently the menu doesn't work correctly and I can't open the game that I want or change the settings 
+com.kmagic.solitaire#110662:	   Have always used this... However, my new phone, LG Sunset Lollipop 5... I can't get to the menu! So, I can't change options, save, etc... Please help! Then I have no problem giving 5 stars! UPDATE! Menu button on phone does exist... Hidden with "recent apps" button! Back to loving this solitaire app! Thank you! 
+com.kmagic.solitaire#110667:	  I've used this app for years on every phone I've had, recently it hasn't worked properly. The screen is small and the menu button isn't working. My heart is broken. I wish it would get fixed. 
+com.kmagic.solitaire#110669:	  Doesn't work with new Google Android update... have to uninstall and install to get it to work. Every time 
+com.kmagic.solitaire#110670:	   Every time I Uninstall and reinstall this app it works perfect. The problem is every time I try to open the app after that it doesn't fit my screen it shrinks to about 23 the size of my screen and the menu won't appear when I press and hold my back button like it should and it is impossible to play. I have had this app on my last 3 phones and never had an issue until I got the Note 5. Please fix this glitch. 
+com.kmagic.solitaire#110672:	   This has been my favorite app for years. Got a new S6 and no joy.....Emailed Ken Magic requesting a fix and nothing, not even a response... 
+com.kmagic.solitaire#110674:	  Please fix for the galaxy s6 I love this game can't play now 
+com.kmagic.solitaire#110676:	   App has stopped working on my Samsung S6. Uninstalled reinstalled no help 
+com.kmagic.solitaire#110677:	   Loved this app when I had a Droid X. Couldn't play Spider Solitaire on the Note II. Now I have a Note 5 and it doesn't work at all. I wrote to Ken. He hasn't responded. Can someone else go in and improve this game for newer phones please? 
+com.kmagic.solitaire#110678:	   Fun app with several games to choose from. Ad-free and fun to play. The only issue is with spider solitaire, which does not have a good way to deal cards, for those without a track ball or search button on their phones (mine is a Samsung phone; also didn't work on my last phone) 
+com.kmagic.solitaire#110679:	   This is my FAV APP EVER!! But since S6 upgrade the screen is now tiny and I can't access the menu. Please fix this. I miss my game. Been searching but nothing comes close. Giving it 5 stars because it is the best app I have had. I want it back... 
+com.kmagic.solitaire#110688:	   This is a great app if it works. Ad-free and with 4 good solitaire games. However, since my latest software update (gs6, 12/23/15), I cannot play anymore. The resolution is all messed up, I can't use the menu. Unfortunately I'm going to have to uninstall what has been my favourite app. 
+com.kmagic.solitaire#110692:	   Was my favorite solitaire app until it did an update, a while ago, and cannot access the menu bar due to my phones (LG something or other) menu bar covering it. Bummed out, because it really is my favorite solitaire app. No annoying ads, and the fling works just how I like. Needs a menu bottom at the bottom of the screen or something. 
+com.kmagic.solitaire#110695:	   Please fix the screen problem for the S6. 
+com.kmagic.solitaire#110696:	   New glitch makes screen small and can't play. Also won't be fixed on restart. 
+com.kmagic.solitaire#110697:	   Best Eva solitaire game on older phones. Doesn't work properly on the s6 at all. Such a shame 
+com.kmagic.solitaire#110698:	   It was my favorite app. Now the screen is 1/2 size, I can't get the menu to stay open, it's stuck on solitaire and I want free cell. I've tried uninstalling and reinstalling. Ugh! Please fix. I'm having free cell withdrawal 
+com.kmagic.solitaire#110699:	   Please fix! My phone (Verizon, Samsung S6) updated about 2 weeks ago and now this doesn't work. It's shrunk to a half screen and doesn't work. I'm going thru withdrawal! 
+com.kmagic.solitaire#110700:	  Stopped working with new Android OS 
+com.kmagic.solitaire#110701:	   Please fix! Love this app when it used to work 
+com.kmagic.solitaire#110702:	  I like many others loved this app but since my upgrade on galaxy 6 the game is small and dealing cards is almost impossible please fix 
+com.kmagic.solitaire#110703:	   Love this game but it won't work with my Note 5 :( would be 5 stars if it did 
+com.kmagic.solitaire#110704:	   Previous versions worked great on android Samsung Galaxy S6. Version1.12 initially works just like before. By after closing and reopening, this version shrinks screen and freezes. Menu also flickers and is not accessible. Very disappointing! 
+com.kmagic.solitaire#110706:	   Update: Still not fixed.....so disappointed that I can't play one of my favorite games....uninstalling...My Galaxy 6s Edge did an upgrade and now my solitaire game is only half my screen plus my menu button doesn't stay open to choose a new game or start over a game. Loved it til the upgrade but now can't play it. PLEASE FIX!!!!! 
+com.kmagic.solitaire#110707:	  Please fix!!!!! This has been my favorite app for years! In the middle of a game it changed from full screen to 1/2 screen on my Samsung G6 and now the menu bar won't even work. I've tried everything, uninstalled it, reinstalled it. The screen is no longer full screen and the menu bar just flashes on the screen and then disappears when you try to select it. You can't open a new game or even quit a game. The app is no longer functional. 
+com.kmagic.solitaire#110710:	   Doesn't work on note5: doesn't fit the screen, I don't like the print on cards (use to be better with my Galaxy S3), & no menu button!! I tried the back button as someone suggeted but it only undoes the recent move which is fine but the other issues prevents me from installing my all time favorite solitare game - I truly miss it!! Hurry & fix please!! 
+com.kmagic.solitaire#110712:	   Not all phones come with a menu button. I love this version of solitare, but I can't play it without having a menu button. Same with playing spider solitaire. It'd be so much better and easier to use too. Can you Please fix this? Thanks 
+com.kmagic.solitaire#110713:	   Loved this app until Android 5.1.1 Verizon update on Samsung S6. Menu does not work and play area is not full screen. Please Fix! 
+com.kmagic.solitaire#110715:	  After update on my s6 screen size isn't working correctly. Once it gets fixed I will update score. Great app before 
+com.kmagic.solitaire#110717:	   Been using this app for years and loved it. Now it is small and I can't play it. Not sure what is wrong, but I wish they would fix it. 
+com.kmagic.solitaire#110718:	   My favorite solitare game. Sadly, after android update, game no longer works on my gs6. I'm so disappointed. Can it be fixed? 
+com.kmagic.solitaire#110721:	   Since the latest Android update, this app has completely stopped working. :( It is the only game I have loaded on my phone. I was already dealing with the fact that Galaxy devices don't have a search button or track ball, so cannot play Spider. Been this way for a long time...seems like you'd fix this! Guess it's time to find a new game 
+com.kmagic.solitaire#110722:	   This USED to be the only game I played.... PLEASE FIX! 
+com.kmagic.solitaire#110723:	   I love playing this game...only problem I had was it would freeze up once in awhile, other than that it's awesome. 
+com.kmagic.solitaire#110724:	   Verizon just updated my S6, now this app won't work. It displays smaller up in lefthand corner, and the controls wont stay up nor work. I have played this game for many years and have enjoyed it tremendously. If you can fix this, I would be very grateful, thank you! 
+com.kmagic.solitaire#110725:	  Not working 
+com.kmagic.solitaire#110726:	   I loved this on my S3 but it won't display correctly on my S6 and I can't access the menu at all. Sad. 
+com.kmagic.solitaire#110727:	   But recently it doesn't open correctly- and I can't do anything with it. Up to date- still has issues after uninstalling and reinstalling. Makes me sad, since I've used it forever! 
+com.kmagic.solitaire#110728:	   Software updated now only 1/2 screen and menu not working. LOVE this app for years, don't want to have to find a new game. Please fix ASAP. 
+com.kmagic.solitaire#110730:	   Help! Galaxy S6 user. Recent updates causing app screen size to shrink and stop functioning properly. I keep installing and un-installing but...it will not run consistently. I want my favorite time-killer back up and running! No other solitaire games are as good. 
+com.kmagic.solitaire#110733:	   Just did big android update to my Samsung S6. Image has shrunk and menu does not work -- flashes on but won't stay on. Does work after I uninstall and reinstall, but I have to do this every time I open it. Would have given 5 stars in past -- best solitaire screen I've seen -- but not worth the effort of always uninstalling and reinstalling. Anybody have a fix? 
+com.kmagic.solitaire#110736:	   I have played this game, but after I updated my phone it doesn't work right anymore. I hope it gets fixed soon. 
+com.kmagic.solitaire#110738:	   Need of my favorite apps. Since galaxy s6 update only half screen and menus does not work. Have to uninstall and reinstall every time I want to play. 
+com.kmagic.solitaire#110740:	   Please fix the half screen. Favorite game but after update does not work. 
+com.kmagic.solitaire#110741:	  Great implementation and no ad junk..pls pls pls fix half size screen size problem and no way to get menu on Note 5. long back press doesnt work for me. Thanks! 
+com.kmagic.solitaire#110742:	   App hasn't work since phone updated earlier this past week! My only app not to work after update! 
+com.kmagic.solitaire#110745:	   Been playing this game for years on few different devices but with latest software upgrade, it shrunken the game to 1/3 it's size & menu buttons appear for a millisecond. Please fix! 
+com.kmagic.solitaire#110746:	   Does not work with latest update for S6!!!!! 
+com.kmagic.solitaire#110747:	   S6 did a software update, and now it doesn't work properly. The game play area isn't even half the screen and the menu buttons do not work at all. Loved this game until my phone updated and can't even play this anymore. Whats the problem? Anyone know? 
+com.kmagic.solitaire#110748:	   Since the most recent Android upgrade this app is not working properly. Too bad I've used it for years now is unusable 
+com.kmagic.solitaire#110749:	   Since my phone updated(Samsung Galaxy 6), the game is all messed up. Half screen and I can't play. I have to uninstall and the install to play. I've played this version for yrs on several phones and never had this issue. Plz fix it 
+com.kmagic.solitaire#110750:	   All of a sudden it's shrunk down to about 1/3 of the screen and can't play the game. I even reinstalled it. I've been using this app for years and love it. Please fix it. It was 4 stars before this 
+com.kmagic.solitaire#110753:	   My husband and I love this app but since our phones upgraded (Samsung Galaxy S6), we can't play it now. :( It is only half screen and the menu bar for New Game, Restart, Options, etc will only flash for a second and disappear before you can tap one. Turning the phone's power completely off & then rebooting brings it back but once you quit, it is all messed up again. Hopefully you can fix it fast so we can get back to one of our favorites. Then I'll come back and give it 5 stars. 
+com.kmagic.solitaire#110755:	   I play constantly. However yesterday it went to half screen and won't play right. I've uninstalled and reinstalled a few times with the same problem each time. 
+com.kmagic.solitaire#110757:	   My Galaxy s6 automatically updated and now game won't fit to screen. Can't play it at all. Can't get to options or quit game either. Used to be my "go to" game but took it off after upgrade. 
+com.kmagic.solitaire#110760:	  Was the best free cell ever but with new 6S upgrade it is not formated correctly to the screen. Please fix.... 
+com.kmagic.solitaire#110762:	   Please fix it. It does not fit the whole screen I am not  
+com.kmagic.solitaire#110766:	  My phone did a software update and now the game is at half screen and the menu won't come up. Please fix! 
+com.kmagic.solitaire#110767:	   How to deal the card in spider game? I can't find how to do it.. 
+com.kmagic.solitaire#110769:	   Doesn't work after phone update. GalaxyS6. 
+com.kmagic.solitaire#110770:	   Plz fix after vzn galaxy s6 update on 12-10 displays game all messed up.... 
+com.kmagic.solitaire#110773:	   My GS6 just updated and the app doesn't work anymore. Prior to this it was one of my favorite apps. Please fix! 
+com.kmagic.solitaire#110777:	   I used to love playing this game on my Galaxy S4. But now that I have the S6 Edge Plus, it's terrible. It's not full screen, and it doesn't give me the option to change the game type anymore. Also, the touch screen isn't working correctly, I have to press the off to the side of the card to be able to select it. Does anyone else this problem? 
+com.kmagic.solitaire#110783:	  Does not work well on galaxy s6 edge. 3 /4 screen size n no menu is shown 
+com.kmagic.solitaire#110784:	  Have it on my nexus 7. worked great, Loved playing forty thieves. But tried to play it on my lg g3 and can't start new game - end a game or anything..( phone has no menu button) please help, would be 5 star's... Still waiting...11/30/2015...fix and will give more stars loved this game........... 
+com.kmagic.solitaire#110785:	   I've had this app on several phones and always loved it. Also have this on a tablet and works great there. Got the new galaxy note5 and can't do crap. Doesn't fill the screen so it's hard to see, and can't switch games or do anything else. Please fix, Forty Thieves is a reliable favorite when I can't sleep 
+com.kmagic.solitaire#110786:	   I have used this on my Galaxy note for years worked brilliantly and no advertising. Sadly I have found it does not work with my new S6 hence not 5 stars. Does not fit screen and finger contact has to be to right of the card or function you want 
+com.kmagic.solitaire#110795:	   It has stopped working since I have installed 5.1.1lollipop. Is there a fix for this 
+com.kmagic.solitaire#110796:	   It use to work grate. Now can't play the next game. Can this be fixed? 
+com.kmagic.solitaire#110801:	  Loves this until it no longer plays please sort the problems 
+com.kmagic.solitaire#110806:	   I love to play the when I have no wifi. Only isse is the missing menu button on the new phone so I have to quit to start new game and cannot access the other style games. 
+com.kmagic.solitaire#110807:	   If you can't find the Deal/Options with a new phone. Hold the SQUARE sysyem menu button for a few seconds. Still a great and free program. Well worth installing 
+com.kmagic.solitaire#110809:	   For years now the same issues have been reported again and again. Yet no updates no acknowledgement not even an obvious attempt to adapt to current technology. As we have been abandoned I for one shall no longer even sample products produced by this author. 
+com.kmagic.solitaire#110810:	  Brilliant game until Google updated my S6 today. Same issues as others with screen size and touch in wrong place. Nothing wrong with the app as it was fine until Android update. Will really miss this if I can't play it again. 
+com.kmagic.solitaire#110813:	   My samsung just updated and now the game doesnt work. .hope you can fix it cos i love this game x 
+com.kmagic.solitaire#110814:	  Disappointed. Worked well previously but does not work on Android update 5.1.1 
+com.kmagic.solitaire#110815:	   Did a software update on my phone and now can't play it. Phone is S6 Edge please fix this. Gutted to not be able to play. Just get cards on a very small part of the screen and can't do anything with them :( 
+com.kmagic.solitaire#110816:	  Was good and played it all the time. Since my phone galaxy s6 software upgrade it is impossible to play due to small display, swipe not working, menu not displaying etc etc. 
+com.kmagic.solitaire#110817:	   Cannot play it on my NOTE 5 By Samsung, it worked on all my pass phone except on the new phone. They transfer it to the new phone and you can't move the cards, and the game is blurred on my phone. 
+com.kmagic.solitaire#110818:	  One of my fav apps, but suddenly not working anymore on S6 edge. Please fix it. 
+com.kmagic.solitaire#110824:	   The item is terrible because the solitaire screen is shrunk down and put in the top left corner. It does not allow you to pull up settings or change anything on the game please fix or I will have to uninstall and use a different product this is for the Galaxy Note 5 
+com.kmagic.solitaire#110825:	  Not working after update 
+com.kmagic.solitaire#110826:	   This is a good app, but after my S6 was updated to 5.1.1 the app won't load properly 
+com.kmagic.solitaire#110830:	   Latest update doesn't work on s6. Board only covers half screen but the touch map covers it all. Unplayable now :( 
+com.kmagic.solitaire#110832:	  Please fix. The latest update for Samsung GS6 doesn't like it and I have to restart my phone everytime I want to play. But I have had this game for a while and really enjoy playing it. Will change rating when fixed 
+com.kmagic.solitaire#110834:	   I have tried downloading Ken Magic Solitaire numerous times on my sung Galaxy Tab S 2 but I am unable to play the game because it only fills 3/4 of my screen and no way to start or play a new game because there isn't a menu to go to. I've also noticed the App itself is blurry and I see that on all 3of my devices but I won't Uninstall it on the other 2 devices for fear it won't download correctly on them either. It works great on my Galaxy S6 phone and my sung Tab S. Please advise or tell me what's going on if there is a download issue and when it will be fixed. Thank you! 
+com.kmagic.solitaire#110835:	   Please fix. Have to delete and re install everything I want to play this 
+com.kmagic.solitaire#110837:	  Worked fine on my Samsung s3, but the display is all wrong on my S6. Uninstalled until fixed 
+com.kmagic.solitaire#110838:	   Just upgraded my S6 and app doesn't work anymore. 
+com.kmagic.solitaire#110839:	   Love the game, but where is the menu for a new game? Please fix 
+com.kmagic.solitaire#110840:	   Latest update has screwed this once great app up! Screen only fill about 70% of handset screen and menu keeps vanishing if you try to access it. 1 star until fixed as game is now rubbish! 
+com.kmagic.solitaire#110844:	   Been using this app for years. I have never had any problems with it. 
+com.kmagic.solitaire#110846:	   Since the new marshmallow update it wont work properly  (same issue as below) I play wayyyy too much solitare for it to stop working. Devs, plays fix asap! 
+com.kmagic.solitaire#110847:	   It doesn't work on my new tab : -( 
+com.kmagic.solitaire#110848:	   I've been using this app for years. Just updated the software on my Android and the game no longer works properly. Can't get the menu to stay up and the card positions on the screen do not match the touch points. Please fix. 
+com.kmagic.solitaire#110850:	   Samsung Galaxy S6 Edge user. Loved this game on the whole. Enjoyed each mode. But since an update, the full screen doesn't work. It only covers half the screen with the rest being blacked out. Not sure if my end or the game. Uninstalled and reinstalled numerous times. Will keep trying. 
+com.kmagic.solitaire#110854:	   Issues with screen resolution after installing latest android update? Hope you're able to sort. Ta 
+com.kmagic.solitaire#110855:	   Just upgraded software on Galaxy S6 now game wont work at all. Now takes up half the screen also. Was working perfectly before upgrade. Please fix your end. 
+com.kmagic.solitaire#110857:	   I am having the same problem everyone else seems to have, no menu button so I can't do anything. I love this app but until it is fixed can't use it, please fix it! 
+com.kmagic.solitaire#110868:	  I love this app but now I have the Note 5 and it only opens in about half the screen and I can't get the menu options either. Please advise . 
+com.kmagic.solitaire#110870:	   Works perfectly on my Motorola zoom. Now on my new Samsung Galaxy S2 it won't fill the screen. Very frustrating. Loved the simplicity of this app but won't work the way I am used to it. 
+com.kmagic.solitaire#110877:	   I love the games and graphics but no way to deal on spider. I don't have the buttons listed in help. Great game, except I miss spider. Please fix. I'm looking for a replacement game. Tired of waiting. Would be 5 stars if you would put a deal option on the menu. 
+com.kmagic.solitaire#110878:	   SUCKS. . I'm so upset I love this game and now I can't even play it. Please fix for note 5 
+com.kmagic.solitaire#110890:	  Regular solitaire works fine, but have the same issue as everyone else has with Spider...no way to deal cards. 
+com.kmagic.solitaire#110892:	   Just hold your menu key and the options should appear for the game. My rating is due to having the G4phone my phone the search key function isnt working to deal cards. We also have no track ball. Please fix. Add an deal button in options menu? 
+com.kmagic.solitaire#110893:	  Had this game on last 3 phones and loved it. Now have ZTE Overture 2 and cant deal new game. I dont have a wheel or search simble to deal new game. Please fix. No other solitare game out there is as good as this. 
+com.kmagic.solitaire#110898:	  I've had this app on previous phones but it not working at all now. It will only show me one game and not showing any ggame options or allowing me to go to a new game. 
+com.kmagic.solitaire#110900:	   Running Note4 with latest android build. This is still my favorite solitaire app but it is very slow on my new Note 4. I previously had the Note 2 and it ran beautifully. Will update to 5 stars if a fix is issued. 
+com.kmagic.solitaire#110904:	   Love the game but will not work with the note 5 which doesn't have a menu button. Please upgrade the app. 
+com.kmagic.solitaire#110919:	   It was a problem that you had no way to redeal on Galaxy S4. Just got a Note 5 and everything misformats and even in Klondike, touch regions select cards in completely separate columns, not the ones you think you are touching. Had to replace with a competitor's. 
+com.kmagic.solitaire#110921:	   I played this for several years although spider doesn't work on my galaxy note 4. Noticed a screen burn in starting so switched games. 
+com.kmagic.solitaire#110922:	   Features I could see on Note 3 lost with S6 Edge plus. Please fix. 
+com.kmagic.solitaire#110933:	   Once upon a time this was my favorite Solitaire game but now with my new phone (ZTE 4G) there's no option to switch games available. Please fix cuz I really hate the app that I'm using as an alternative! 
+com.kmagic.solitaire#110934:	    and menu button is gone. Please fix! 
+com.kmagic.solitaire#110937:	   I've been using this app for about 3 yrs now on my Galaxy S2 with no problems , but had to upgrade to Galaxy S5 and there is no way to deal cards. Even following the instructions. Double tapping to deal does not work. Help! Would still love to use this app if this can be fixed. 
+com.kmagic.solitaire#110941:	   I read the reviews b4 redownloading this on my new phone and it took me less than a minute to figure out every1s problem. On my G4 all u have to do is hold down the square and it opens the bar at the bottom to start new game and opions. Hope this helps people that gave it 1 star. 
+com.kmagic.solitaire#110949:	   Fix the dealing issue please. 
+com.kmagic.solitaire#110952:	   Great app until recent updates, I am unable to access menu button to restart, new game, choose a game Hope you are able to fix soon as I enjoyed your app very much Thanks 
+com.kmagic.solitaire#110953:	  Can't move the cards on the spider solitary to make another row. 
+com.kmagic.solitaire#110958:	  Can't find the tool to change game 
+com.kmagic.solitaire#110962:	   This was my favorite game but just got the LG G4 and I cannot get a new game like others. Please fix this! 
+com.kmagic.solitaire#110963:	  Can't get it to deal. I'd give it a 0 if I could. 
+com.kmagic.solitaire#110965:	   I've never had an issue with this app 
+com.kmagic.solitaire#110970:	   I like it because it's simple and doesn't crash. That being said, if it was a bit nicer to look at I'd give it 5 stars. The only real issue is the lack of a GameOver screen, meaning when you have no moves left, it should tell you so and end the game. Overall a solid solitaire app, it just looks like it's from Windows 95 
+com.kmagic.solitaire#110973:	   Don't know what happened to this game, but there is no menu button anymore, and you can't end a game. That means you can't start a new game either. If it's fixed, I'll reinstall. 
+com.kmagic.solitaire#110978:	   The game was great until I upgraded my phone. Now I can't deal. Fix or this app is being uninstalled. 
+com.kmagic.solitaire#110979:	   This game was perfect for me. I've been playing it since 2013. Within the last few days access to the menu has gone away. I can't save, exit, or start a new game unless in win the previous one. If I don't win, all I can do is remove the app and install it again. That still doesn't bring the menu back. 
+com.kmagic.solitaire#110982:	   Looks like this has been a problem for awhile and probably won't be fixed, but I just upgraded from an S3 to a Note 4 and now there is no way to open the menu to start a new game, etc. This is my favorite solitaire game I've found, but without functionality it sucks. I hope this will be fixed one day! --------just figured out how to fix this issue so updating to 5 stars. Holding down the menu button that shows all open apps actually causes the menu for this game to pop up so now i can play once again! Yay! 
+com.kmagic.solitaire#110984:	   I love this game on my s3 cause it had menu button but on my note 4 there isnt one so i cant change the game type or start a new game. Please fix it. 
+com.kmagic.solitaire#110989:	  Never fail, is a great app 
+com.kmagic.solitaire#110995:	   I think i figured it out. Go to settings:display: and something about hide menu, use long press of the task key to see the menu. My operating system updated and now I can't play. Lost ability to start a new game. Continuously in one game. Frankly, this is not the only app that doesn't work right with the android update. 
+com.kmagic.solitaire#110996:	   Only game I ever play! Now a new phone, galaxy s4, has no search key so I can't play. Looks like this has been an issue for a while and still no fix. 
+com.kmagic.solitaire#110998:	   I loved your version of Spider Solitare on my old phone, a Motorola Defy, but on my LG Optima 90 there is no way to deal the cards! Could you please fix this problem. I have tried other versions of Spider, but none are as good and challenging as your version!! Thanks in advance!! 
+com.kmagic.solitaire#111001:	   I used to love playing spider solitaire but on my new phone I don't have a search button so I can't and don't play this app anymore please fix or I will have to find a new app! 
+com.kmagic.solitaire#111003:	   It used to be the only solitaire game in the play store I ever liked. Always wanted the cards to be more customizable, though. Anyway, I recently upgraded from a Galaxy S3 to an LG G4, but unfortunately the G4 doesn't have a menu button among any of its Home buttons. So, now I can't access the other games like Freecell, the settings, save button or even the exit button. I wish there were an 'in-game' menu button, from which I could do all of that. Until that is added, it's mostly useless to me. 
+com.kmagic.solitaire#111006:	   Great game. Never any issues!!! 
+com.kmagic.solitaire#111016:	  Had this app for a couple of years with my new phone doesn't work.so disappointing 
+com.kmagic.solitaire#111019:	   No access to the menu on Samsung s5. Please fix it 
+com.kmagic.solitaire#111026:	  Spider Solitaire is totally useless on my Samsung Galaxy 3- cannot deal a new set of cards - no search button. If you can fix this glitche I will give this game a 5 star rating 
+com.kmagic.solitaire#111030:	   Loved this app until the latest LG G2 update. Now I can't access the menu to end a game and I'm stuck in the last one I played 
+com.kmagic.solitaire#111037:	   You cannot deal the spider solitare.There are no card's to deal. Please fix this. I have reinstalled. Not sure what to do or if I can fix it myself. Thanks. 
+com.kmagic.solitaire#111042:	  Doesn't work on the Samsung S5. Can't deal cards. 
+com.kmagic.solitaire#111045:	   I have had this game for years on smaller smartphones. Now it has missing buttons on my Note 4 & Tab 4 so I can't play. Fix the resolution and buttons so I can play a decent solitaire game. PLEASE. 
+com.kmagic.solitaire#111047:	   I don't get it, my husband just upgraded to the Galaxy S6, which has no menu button on the bottom of the phone, just like my Note 4, but he's got the menu that pops up in the lower right corner of the screen. Could ya maybe fix this so I can keep playing it on my Note4? I had to Uninstall. :( 
+com.kmagic.solitaire#111048:	  Samsung galaxy note4. Menu button press opens task manager and not game menu. No way to open game menu. Had this on many phones, would love to keep it. Please update it. **** been a couple months with no response & no fix. so I am deleting this app**** 
+com.kmagic.solitaire#111050:	  Obviously you are not listening to your reviews. I will be deleting this App, several times you have been asked to fix the problem of dealing in spider, yet now in 2015 still an issue. Will not be downloading any Apps by same designer if this is the responce to any issues 
+com.kmagic.solitaire#111053:	   Have S5 and can't access menu so can't start new game. Doesn't seem like anyone's working to fix it. It's a useless app to me now so I'm uninstalling. 
+com.kmagic.solitaire#111058:	   Can't do anything on S5! No menu options, no track ball (whatever that is), can't change the way the game first comes! No options! Update 5/3/15: claims this was fixed for the S5 are NOT true! Absolutely no way to access any menu to change game options, restart, play new game, NOTHING! 
+com.kmagic.solitaire#111062:	  It's not working on samsung s5. Setting isn't available. 
+com.kmagic.solitaire#111065:	  I can't play spider solitaire because there is no way to deal new cards. Looking back at reviews this has been a known problem for 2+ years and still no fix. I will be finding a new solitaire app 
+com.kmagic.solitaire#111067:	   It's a good game for most solitaire but the spider doesn't work. You can't play it there is no way to deal. 
+com.kmagic.solitaire#111068:	   The three dots on the right side of screen that references the menu to restart a new game have disappeared. Apparently, the new version release has changed access to the menu by selecting the search function key. My problem is my new Motorola Droid Mini does not have a search function key at bottom of phone. The three function keys available are (left to right).... Return key, Main Home Screen key, and List of Previous Tasks key. I can not restart a new game... How about tapping the clock area? 
+com.kmagic.solitaire#111071:	   I have a note 4 how do I suppose to get the menu to change games. Really like this game been playing it for a long time new phone new problem 
+com.kmagic.solitaire#111072:	   In some games dealing is simply impossible one GS2, since dealing is assigned to non-existent keys. Fix this and you get 4 stars. Even after several years this hasn't been fixed! 
+com.kmagic.solitaire#111075:	   Doesn't work on device can't play anything except solitaire and i can't change any settings when I open app it goes straight into solitaire game 
+com.kmagic.solitaire#111076:	   Can you add a menu button,? Got the S5 and my menu button is now a recent apps button and i can't get past first lost game. Help please ! 
+com.kmagic.solitaire#111079:	   This was my favorite solitaire app for Vegas style solitaire until my S5 updated. It hasn't worked in months. It's locked into regular solitaire mode. Boring! All of the features are inaccessible now. 
+com.kmagic.solitaire#111086:	   Excellent app until I upgraded my phone to one with Android Lollipop and I can't get to the app menu to start a new game. 
+com.kmagic.solitaire#111092:	   Where is the deal deck or how do you bring it up in FreeCell? Now you went to zero. Fix your stuff dude 
+com.kmagic.solitaire#111093:	  Did not work to well with my phone 
+com.kmagic.solitaire#111095:	  Do not download this solitare! There is no way to get to a new game or even restart the one you are playing. Worst app I've ever installed. 
+com.kmagic.solitaire#111096:	  Disappointed. Does not work with Samsung s5, which doesn't have a menu button. I'll have to keep playing on my old s3. 
+com.kmagic.solitaire#111099:	   Won't work on Galaxy S5, no menu button! 
+com.kmagic.solitaire#111102:	  Doesn't work on nexus 6 
+com.kmagic.solitaire#111103:	   No search button on lollipop means you can't access menus or deal. Hasn't been updated in 5 years, time to find a new solitaire game 
+com.kmagic.solitaire#111111:	  I had this app on my last phone but this new one doesn't have a button to deal a new set. Really my favorite game. Please fix this problem. My new phone is Galaxy S 5. 
+com.kmagic.solitaire#111112:	   On my old Droid Eris and my old Droid Bionic, this game was incredibly fun. Especially after you won watching it quickly repeat all the moves you did in a game, it was a great time. However, now that I'm using a Samsung Galaxy S5 it just lags so bad that it's kind of unplayable sometimes. I still want to support this game, so could we ask for an update to fix processing and screen resolution issues? Thanks! 
+com.kmagic.solitaire#111115:	   With new phones not having a menu button on them you can't change any settings. Please fix please! 
+com.kmagic.solitaire#111117:	   Cannot pause, cannot change size of card art, cannot save game, NO GAME CONTROLS OR OPTIONS ! 
+com.kmagic.solitaire#111125:	   One of my old favorites now can't even start a new game needs fixed 
+com.kmagic.solitaire#111126:	   Used to love this app but since I got my S4 Active cannot play spider as I don't have a search button or trackball. Will rate 5 after it's fixed. 
+com.kmagic.solitaire#111128:	   I've tried all the Klondikes. This one is lightweight without any frustrations whatsoever. Funfunfun! Years later: phone crashed when opening the game. Must've succumbed to old age. Good bye little game 
+com.kmagic.solitaire#111133:	   I have used this app for many years. I had over 27000 games on my last phone. Samsung S3. However picked up my S5 today and I can't get to work right. Can't find the button to restart or play again. Maybe it's me. Any help? 
+com.kmagic.solitaire#111138:	  I liked this app on previous phones I owned but there is no way to deal on the galaxy S5. A fix for this is long overdue. 
+com.kmagic.solitaire#111146:	   But now I have a Note4 and the game doesn't work. No menu.no way to change games. I installed it three times and uninstalled it three times. Please fix it so it works on the Note4. 
+com.kmagic.solitaire#111148:	  Loved the game on my Note 2...upgraded to Galaxy S5 and there is no menu button. I guess you know this and haven't fixed due to the amount of complaints you have...oh well....off to find another game. 
+com.kmagic.solitaire#111150:	  Can not increase size of cards. Game controls do not even show on my screen. Needs to be updated for Note 4. Had it on Note 2 worked great and I loved it. Does not work on Note 4. Please update it so I can enjoy the game I love. 
+com.kmagic.solitaire#111157:	   Every couple of weeks the first two rows on the left will freeze, and I cannot move the cards in that row. This is my favorite, so please fix! 5 stars when it's fixed! 
+com.kmagic.solitaire#111166:	   I had this on my old phone and loved it. On my new phone , Solitaire and FreeCell work fine, but Spider can't be played because my phone doesn't have a trackball or search button. Please fix this! 
+com.kmagic.solitaire#111169:	   Great simple game. 5 stars if they would fix the deal button in spider, making it unplayable on many handsets. 
+com.kmagic.solitaire#111177:	   Where is the menu button? I can't find it? I'm using LG G3. Thank you. 
+com.kmagic.solitaire#111179:	   This was a great app but after the last update, I no longer an able access the menu so I can't play a new game or change any settings. Fix this and I'll rate 5 stars. 
+com.kmagic.solitaire#111180:	  No update since 2010? No wonder it's so SLOW. Tried several times to fix speed, to no avail. Very relaxing game, just fix the speed issue. 
+com.kmagic.solitaire#111184:	  Great game, not able to play spider, is there a fix coming this has been an issue for 3 years. HTC one does not have a track ball or search option available as the game suggests. 
+com.kmagic.solitaire#111188:	   I first downloaded this game years ago and it is by far the best version of solitaire out there. I have played it on many of my devices but on my recently acquired LG G3 Android phone with Lollipop it won't work! Help please Ken. 
+com.kmagic.solitaire#111193:	   Like others have said, no ads, never crashes. Nothing to complain about! EDIT: Like others have said, no search button means no dealing means no spider solitaire. Could use an update. 
+com.kmagic.solitaire#111197:	   Used to be a great app, but now there is no way to get to the menus or options or choose a game. Needs to be fixed. 
+com.kmagic.solitaire#111202:	   Note 4 does not have menu hard button. Without the menu button I cannot even picka game. Please, fix this asap 
+com.kmagic.solitaire#111204:	   On galaxy s3 worked perfectly but upgraded to s5 and now menu button unable to show so can't choose new game etc plz fix x 
+com.kmagic.solitaire#111205:	   Like everybody else said, can't start a new game... in fact I've tried every possible way to win the game I've been playing since August, and I've wasted 6 months, it can't be won. Please fix yo... 
+com.kmagic.solitaire#111209:	   I loved this game but for some reason I can't find the little menu button... Can't start a new game or change the settings... Pretty much pointless to have on my phone because it stays on the same first have it started with and I can't change it 
+com.kmagic.solitaire#111215:	   I use to play this all the time but i switched phones so there's no way to deal please find a way to fix that and then defently 5* 
+com.kmagic.solitaire#111218:	   Please,please,please fix my favorite game . If it ain't broke don't fix it as we say in maintenance! It wasn't broke why o why did you mess with it?? Can't play without buttons 4 new game undo &all other great features it had. Did u make so much money you don't care about us peonies who loved the game? Bring back original Please!!! 
+com.kmagic.solitaire#111223:	  Worked on my razr maxx hd but not on my S5. Please fix. Thank you. 
+com.kmagic.solitaire#111228:	   Thanks for fixing! 
+com.kmagic.solitaire#111232:	   Updated review: Obviously this game developer has no interest in making this game compatible with Samsung phones. To bad it was a good app. Can't play this game anymore. Loved Forty Thrives. Now the only game that shows up is Klondike. No buttons or options for other games. Worked great on my Motorola Razor max. Please fix this game so we can all enjoy it. 
+com.kmagic.solitaire#111236:	  I just got a Samsung Note 4 and when I finished my first game I can't get a new deal. It worked fine on my Samsung S4. 
+com.kmagic.solitaire#111243:	   Upgraded to lg and cant play forty thieves nor start a new solitaire game...going to uninstall until it gets fixed. It worked on my old phone and i loved it 
+com.kmagic.solitaire#111244:	   Simple, easy to use, can 'fling' cards, right size on my S3 & now S5. Tried 3 other Solitaires first & hated them. Eta I don't play Spider Solitaire so don't know about those issues. 
+com.kmagic.solitaire#111247:	   Loved the 40 thieves style and was able to play just fine on my HTC Evo models, but i switched to a LG G3. I am unable to bring up the menu for the different types of game. Please fix this! 
+com.kmagic.solitaire#111248:	   I love this game it is so addicting once you start you can't get enough of it so you should download this app 
+com.kmagic.solitaire#111250:	  Have had this on many phones and has worked great, but I can not find the menu on my new galaxy not 4. 
+com.kmagic.solitaire#111251:	   Great game but why doesn't my newer lg g3 have the menu button while my older htcg2 did? Can't use options nor do anything else other than just play? 
+com.kmagic.solitaire#111252:	   I used this app for years until I purchased Verizon's Samsung Galaxy note3 smartphone. The Spider Solitaire doesn't have all it's buttons to play the game there for no cards can be dealt after starting the game. I changed my rating to 1 star because over a year after notifying you that the option to flip is not there, IT IS STILL NOT FIXED! IF YOU REALLY VALUED US IT WOULD BE FIXED before it's been a year!!!!! Makes me mad to lose my favorite app. FIX IT!!!! 
+com.kmagic.solitaire#111259:	   I loved this on my Droid Razr, but now I've got an S4, and the app runs very slowly. Dragging a card looks choppy and unresponsive. The images are stretched and look very low res. This is the best solitaire app out there, but my phone just doesn't like it. Maybe there's a fix? If it ran well, it's a 5 star app. 
+com.kmagic.solitaire#111263:	  Needs a few fixes for android Samsung S4. 
+com.kmagic.solitaire#111264:	    to pass the time but I have a note 4. I have no menu button. I can't change games or get to the settings. Please do something about this issue. 
+com.kmagic.solitaire#111266:	   Worked fine on my gs3. Now with gs5's new no menu button I can't start a new game. There is no on screen menu button. Fix plz! 
+com.kmagic.solitaire#111267:	   Love this game on my razor. Can not play on my Galaxy s5. It is not compatable. Wish they would fix this. 
+com.kmagic.solitaire#111269:	   It does not work. It has no menu bar 
+com.kmagic.solitaire#111270:	  Used to be great until I got a new G5 no search button no deal fix it and 5 stars 
+com.kmagic.solitaire#111273:	   Won't even deal cards anymore. That's a basic concept of Solitaire! Fail.... 
+com.kmagic.solitaire#111275:	   Does not work well with note 4. Can't access options to change settings 
+com.kmagic.solitaire#111277:	   Worked great on previous phone razor maxx. New note 4 and it's not working very well. Can't start a new game. Please fix. 
+com.kmagic.solitaire#111280:	   Had this on my galaxy s4 and it worked perfect! On my galaxy s5 I can't get the menu to work to select new game. Please fix. Thx. 
+com.kmagic.solitaire#111285:	   Someone didn't think this through. Can't get to the menu on my new phone. Samsung Galaxy 5S. It gets a 1 until fixed. 
+com.kmagic.solitaire#111290:	   Used this app on my first Droid and on my Droid Maxx had to replace phone due to a broken screen. Menu is gone. Cannot start new game or anything. Please fix, loved this app for years. 
+com.kmagic.solitaire#111293:	  Never had any problems with it 
+com.kmagic.solitaire#111295:	   Please add new version I can't use options to play other cards game in my Samsung galaxy 5 please do something 
+com.kmagic.solitaire#111296:	   There is no way to deal cards in spider sol. Fix it 
+com.kmagic.solitaire#111310:	   Had is quirks and spider doesn't work but it's the best otherwise 
+com.kmagic.solitaire#111313:	   Must have updated something, this app works on my Samsung Galaxy 10.1 but not on my new Samsung phone. No menu bar can't change games. Want to play 40 thieves and can't find it 
+com.kmagic.solitaire#111314:	  Does not work on my Samsung. Is there a fix? Loved it on my Motorola 
+com.kmagic.solitaire#111320:	   Simple and fun, but sadly does not work with modern phones that lack a dedicated search button, trackball, etc. At the bare minimum, for dealing in Spider, there really now needs to be a dedicated "deal" button in the corner of the game screen. I'm running an Xperia Z3v. 
+com.kmagic.solitaire#111321:	   I used to love this game on my Samsung galaxy s3 but now that I upgraded to an s5 there's no longer any way to get into the settings to change things like the number of cards dealt. Fix this, you'll get a 5star rating! 
+com.kmagic.solitaire#111330:	   was 5 stars but upgraded to the Note 4 And No longer have the menu button to start new games. Can you fix this so I Can Continue with my solitaire Addiction? Thank You! 
+com.kmagic.solitaire#111333:	   Love the game but can't play spider on my android please fix 
+com.kmagic.solitaire#111335:	   This application doesn't close when you press the bank arrow on my phone. .. The back button reverses you're plays..I must force close, in order to get out... PLEASE FIX... New Note 4.... 
+com.kmagic.solitaire#111336:	   ...can't play it on my Samsung Galaxy Ace as it has no search button like my htc had. Please, please fix it! 
+com.kmagic.solitaire#111341:	   Spider Solitaire doesn't work on an HTC OneX, as you can't deal: there's no deck, and the phone doesn't have a search button or trackball. Major oversight, guys. 
+com.kmagic.solitaire#111353:	   After reading the reviews, I see where an important update is sorely needed (not able to deal in the Spider game) and after TWO YEARS it still is not fixed! UNBELIEVABLE that there is NO support for this game. 
+com.kmagic.solitaire#111355:	   I had this game for years. Upgraded to a samsung from an htc phone. Still can't play and deal new cards. Messaged numerous times with no reply. Playstore should delete this app because it's faulty and uses data that we pay for and can't use this app because it's not compatible with new phones. 
+com.kmagic.solitaire#111359:	  Can't dounload 
+com.kmagic.solitaire#111363:	   It works great on my ellipsis 7 tab and on my old sgs3 but not on g Vista I can only draw 3 and there is no way to accesses the settings to take timer off or anything but on my tab is awesome if tech can fix issue I'd give it 6 stars if possible but no good on LG g Vista 
+com.kmagic.solitaire#111366:	   I've been using this for ages for normal Solitaire only, but when I tried to play Spider today, I found there was no way to deal new cards, looking through the reviews I see that many others have the same problem, and update to add that funcrion for phones that don't have the search fumction or trackball would be greatly appreciated. 
+com.kmagic.solitaire#111368:	   Great game, works flawlessly, however, two dots on the 9s, please fix, call it OCD fix 
+com.kmagic.solitaire#111380:	   My phone doesn't have a trackball or a search button so I can't deal in spider solitaire. Will update to 5 stars once this is fixed 
+com.kmagic.solitaire#111383:	   I could only ask that the rules for how to play the games were on the app. Regular solitaire is the only one I know how to play. OK, what happened? I got a new Galaxy S4 phone and now there is no menu for solitaire. The game is unplayable. I can't get a new game or save a current game and there is only one choice of game. 
+com.kmagic.solitaire#111390:	   I first used this app circa 2010, on my 1st gen Motorola Droid. I then installed it when I upgraded to my Motorola Droid 4. Yesterday, I upgraded to the Samsung Galaxy Note 4. This device does not have a dedicated "menu" button. Without it, the user cannot change settings or even exit the application. Uninstalled. Fix this (add on-screen "menu" button), and I will happily re-install and add the fifth star. 
+com.kmagic.solitaire#111391:	  This is the only game I play but I can't use it on my new phone! Please make it compatible with the galaxy! 
+com.kmagic.solitaire#111399:	   Loved this on my old HTC DESIRE upgraded phone now can only play one game as thereis no re deal or home button can't even choose what game to play have to uninstall. Please fix as was my fav. Would off been 5 stars. 
+com.kmagic.solitaire#111402:	   If you press and hold where the menu button is, it still brings up the menu. I figured that out the first time I played on my new phone. I have seen lots of reviews complaining about this, but if they just tried, they shouldn't have any problems! Try it people! 
+com.kmagic.solitaire#111403:	  I loved playing solitaire on my HTC phone. I can't deal a new deck on Samsung Galaxy S4 mini. Don't have the search button. Please fix this problem. 
+com.kmagic.solitaire#111404:	   i can play solitaire no problem. Freecell however is a problem. Example: I put a black 9 on a red 10 and when i want to move them to a black jack, can only move the 9. I've tried tapping on the 10 before topping it with the 10, but that doesnt help. I've uninstalled/reinstalled atleast twice but Freecell still cheats :-( It's supposed to be a game you cant lose but with Magic it is a game you'll never win. 
+com.kmagic.solitaire#111407:	   I had this app with my s2 and it was very fast for cards moving to the top. The s4 is very slow. Please fix. 
+com.kmagic.solitaire#111409:	  I can't move any card anywhere 
+com.kmagic.solitaire#111413:	   I love this app & always play it. Unfortunately the note 4 doesn't have a menu button so I can't get to my favorite game (forty thieves)! Can you integrate a menu button into the app? 
+com.kmagic.solitaire#111419:	   Have used this on every device I've owned, but doesn't work on my Note 4. Specifically, there isn't a menu button so I can't choose my game, restart, etc. Fix this and 5 big stars. 
+com.kmagic.solitaire#111428:	   This app worked great for the luster longest time till a few weeks ago. Now it's locked in portrait view, will not rotate to landscape view. Have uninstalled & installed several times. Phone screen rotate's correctly in all other apps and functions of the phone. 
+com.kmagic.solitaire#111433:	   Bummer. This is the app I really like.Please fix. 
+com.kmagic.solitaire#111437:	   Does not work on Samsung G5 
+com.kmagic.solitaire#111438:	   As so many others have said, I really enjoyed this game some time back, but with my galaxy S3, I don't have a search button, so the game is useless. Please fix! I used to play it on an old G1 phone, and it was almost the only game I played. 
+com.kmagic.solitaire#111439:	   This had been my go to solitaire game. It hasn't been updated in 4 years and doesn't work as well on my S4 as it did on older devices. 
+com.kmagic.solitaire#111442:	  Cannot get to menu. 
+com.kmagic.solitaire#111448:	   Loved this on motor Droid 4 but now no options with new game or restart features. Uninstalling until fixed. 
+com.kmagic.solitaire#111457:	   Need fix for galaxy devices un able to deal on spider solitaire 
+com.kmagic.solitaire#111469:	  Worked great till I got the s5 I can't use it now. 
+com.kmagic.solitaire#111471:	   I can not use the deal on spider, and i cant scroll down to read the 'help' buttons. 
+com.kmagic.solitaire#111497:	   Please fix to make this work on my new samsung galaxy 5s!!! I don't have options. I can't switch games nor can I deal the next hand. I uninstalled it until it can work on my phone. Please fix it ASAP!!!!! I need my solitaire fix!!!!!! 
+com.kmagic.solitaire#111501:	   Yep, I love solitaire as much as the next guy, but the updated software on the S5 had done away with the menu option so there is no way to get to a new game! Please fix! 
+com.kmagic.solitaire#111506:	   I love this game and play it several times a day. Unfortunately, it doesn't work on the galaxy 5. The menu button at the bottom of the phone no longer operates apps. I will change rating when it works. 
+com.kmagic.solitaire#111518:	   Really love playing the games I Just can't stand the fact that I cannot deal another hand on spider solitary. Really needs to be fixed. Very frustrating  
+com.kmagic.solitaire#111527:	   Like many others, I don't have a search button or a trackball which makes dealing impossible when playing spider solitaire. I really liked this app but not sure why I should keep it now. Why hasn't this been fixed with all the complaints? 
+com.kmagic.solitaire#111535:	   This is by far the best solitaire app. Never has bugs. Always works perfectly. 
+com.kmagic.solitaire#111542:	   This game worked great on my GS3 but I've upgraded to a GS5 and there's no menu to deal or end the game or anything else. Fix it please. 
+com.kmagic.solitaire#111547:	   This worked great on my Droid RAZR M but I don't get a deal button on my Samsung so I can only play one game. Will rank higher once fixed. 
+com.kmagic.solitaire#111550:	    I got a Samsung galaxy s5 now there's no menu do can't do anything. Can this please be fixed? 
+com.kmagic.solitaire#111555:	   What gives? I upgraded to Samsung Galaxy 4s and now when we try to play the Spider game, ya can't flip the next deck! Let us know how or If you can fix it, we'll go back to 5 stars. Thanks a bunch Ok I just re downloaded AGAIN with my new upgrade. 9/4/14, thought this bug would've been fixed by now. Going to uninstall once again. Sorry but till you fix the bug where no menu comes up to set up your way of playing, card types/looks, simple stuff but I like to have options. Thank you. 
+com.kmagic.solitaire#111556:	   Fun game, and works well. The only thing is the "auto moves" on my Nexus 5 is much slower than on my old SGS1 making the finishing time in Free Cell higher. I think it may be a fixed speed based on screen resolution, because the N5 is much higher res than the SGS. Also, the cards are not looking as sharp on the higher resolution. 
+com.kmagic.solitaire#111560:	  There is no way to get to the menu, for this game once you down load it. I just purchased a Samsung Galaxy S5 and it does not work. I tried it on my wife's phone too, same phone - same results. I loved this game on my HTC 4G-LTE, worked great! I'm Uninstalling! 
+com.kmagic.solitaire#111569:	   Great game but no way to deal cards on newer devices. Needs to be fixed and will give 5 stars. 
+com.kmagic.solitaire#111572:	   I cannot use the app on the Samsung Galaxy s5 because the buttons don't match up. I would love to use the app, but no changes have been made to adapt to newer phones. 
+com.kmagic.solitaire#111582:	   Used to love it. Upgraded my phone & now there's no button for new game or to even switch solitaires. Please fix!!! 
+com.kmagic.solitaire#111590:	   Cards don't move smoothly with my note 3 
+com.kmagic.solitaire#111591:	  I have had this app on every cell phone I have owned because of Free Cell. Just up graded to Galaxy S5 from Galaxy S4 and there isn't a control button anywhere? Please fix I miss my entertainment and I will give you a 5 star rating. 
+com.kmagic.solitaire#111596:	   My phone doesn't have a trackball or a search button. It would be easier to just have the deal button under menu or on the screen where I can tap it. Like a double tap to deal. Besides that, great game. Will five star when deal problem is fixed. 
+com.kmagic.solitaire#111597:	  I love it, my favorite game is 40 theives. I don't like the fact that I can't deal in spider. I have a note and it doesn't have an option to deal. Please fix. I can play original solitaire and freecell. 
+com.kmagic.solitaire#111602:	  This app worked great on my Samsung S III...but has problems on LG G3. I cant stop the game or start a new game... 
+com.kmagic.solitaire#111610:	  Droid Maxx... Can't start a new game... Please fix and I'll change the rating 
+com.kmagic.solitaire#111613:	   If you can't find the menu for dealing new game, exiting game, etc., press and hold your left button (the "recent apps" button). This is how the newer versions of android accesses menus. 
+com.kmagic.solitaire#111614:	   Never have problems with the game even with my droid razer 
+com.kmagic.solitaire#111617:	   I played this version all the time on my Samsung nexus and I ABSOLUTELY LOVED it, but now for my S5 there's no menu to start another game, so I'm stuck on the very first one. Please fix it!!! 
+com.kmagic.solitaire#111618:	   Please add an on screen button for dealing cards in spider mode love this app best one I've found so far and I looked at a lot will change to 5 start when fixed thank you 
+com.kmagic.solitaire#111621:	   Just got a G3 and loaded Ken Magic solitaire. There is no menu so you can't set game parameters, start new games, etc. Wonder if it can be fixed by developer? 
+com.kmagic.solitaire#111630:	   I loved 40 Thieves on this game, have been playing it for years. But just now out of the blue it has stopped working, there's no menu button on it anymore. 
+com.kmagic.solitaire#111634:	   Sgs5 can't deal next hand no search button or track ball to push please fix loved this game on my old phone 
+com.kmagic.solitaire#111648:	   This was my fave games app on my htc phone, used to play Spider all the time. But changed phone to Samsung S4 and cant deal cards in Spider game!! As other reviewers have pointed out there is no option for this so the game is unuseable on my phone now. Please fix as I miss playing this!! 
+com.kmagic.solitaire#111658:	   This worked great on my Motorola. Only plays straight Solitaire on S5. No way to access other games. Fix this! 
+com.kmagic.solitaire#111661:	   but I can't figure out how to deal the nextt hand in spider solitaire. Until I get an explanation it will not get 5 stars. 
+com.kmagic.solitaire#111676:	  I can't get the game to switch to a new game 
+com.kmagic.solitaire#111678:	   I used to love playing this on all my earlier phones, but my new phone doesn't seem to have a button to deal/options. Please fix. I need my forty thieves fix. 
+com.kmagic.solitaire#111679:	   I have the Nexus 4 and with Android 4.4.4 the three dots to get to the options menu fails to load. 
+com.kmagic.solitaire#111680:	   Menus HUGE, can't see entire menu on my S4 after installing Gummy ROM. otherwise love this game. Please fix! 
+com.kmagic.solitaire#111707:	   The game is great except for one thing. There isn't a search button on my provider so I can't deal. If that is fixed where there is a deal button on the game then the rating will be five. 
+com.kmagic.solitaire#111710:	   Doesn't work with the S5 since there is no menu button on the S5. Build a menu button into the app! 
+com.kmagic.solitaire#111713:	   I have tried over 10 different Solitaire games on my phone and this by far the best.....Until I got my s5 and now I can't deal in Spider because there is no search button or deck. Please fix and will go back to 5 stars. 
+com.kmagic.solitaire#111714:	   I got the new Samsung S5 active and it doesn't have a search button and I can't deal. I see a lot of other people have the same problem. 
+com.kmagic.solitaire#111718:	   Love this game. i can only play spider because I don't have the key to deal. Wish the developer would fix that issue. 
+com.kmagic.solitaire#111729:	   Loved this app on my old Incredible 2. But my new LG G2 doesn't have a search icon in the menu so it doesn't work 
+com.kmagic.solitaire#111736:	   Love this game. The only issue seems to be that when playing Spider Solitare, there is no way on an Android phone to deal new cards. I have tried everything and nothing works. So, if you just stay away from the Spider Solitare, it's Great! 
+com.kmagic.solitaire#111738:	   This game is okay but it seems impossible to win. I installed this game last week and I haven't won a single game. Moreover it keeps crashing and causes my tablet to freeze. Too many ads keep popping up in the middle of game play. Horrid and a waste of time. 
+com.kmagic.solitaire#111739:	   I have the S5 and there isn't a track ball or search button. Can't deal in spider solitaire which is my favorite game! :( Please fix and I'll review again after 
+com.kmagic.solitaire#111747:	  Very good and seems bug free 
+com.kmagic.solitaire#111749:	   Love the program but if your phone has hardware keys you won't get the menu button. With out this, you cannot deal a new hand or set options. 
+com.kmagic.solitaire#111751:	   Loved this game on my old phone. New phone doesn't have the button needed to deal in spider and there is no on screen button to tap and deal in that game. Please fix-i miss this game. 
+com.kmagic.solitaire#111755:	  Spider doesn't work on Samsung s3 and support has not been added in a long time 
+com.kmagic.solitaire#111768:	   No search button, no trackball how does one deal the next round as in spider. Been this way since the update. Please fix this or its gone from my phone. There are other apps out there just hate to leave it with a single star. A fix will increase the stars. 
+com.kmagic.solitaire#111769:	   I LOVE this game on my S3, bit with menu button on the S5, it is impossible to play anything other than regular solitaire with default settings. As soon as you update I will come back. I love playing forty thieves, and I cannot find a decent substitute to tide me over until then!! 
+com.kmagic.solitaire#111771:	  I gave it 2 stars because I really liked this game on my old phone. On my new phone, I can't get it to deal the next set of cards in Spider. I don't have a search button or a track ball and no deck is visible to tap. I have tried all the buttons and tapped all over the screen on my Samsung Galaxy S4 Active without the desired result. 
+com.kmagic.solitaire#111773:	   It's been great all the way since my old HTC Droid Eris on Donut, but I just got the HTC One M7 and it's running KitKat 4.4.2 and it's a laggy, low frame rate mess. Please fix this thing. I'd rather not have to use a different solitaire app. 
+com.kmagic.solitaire#111779:	  Game frozen. I can't fix it. Great on galaxy S. No deal/search button on S3. Can't play game. 
+com.kmagic.solitaire#111786:	  I loved this app on my old phone, but my new phone doesn't have a search button which makes playing spider impossible. I hope a fix is in the works. 
+com.kmagic.solitaire#111791:	   Problem is, I can't play it on my new phone as I don't have a search button or a trackball. Please fix this or put a touchscreen botton to deal cards, thanks. 
+com.kmagic.solitaire#111796:	   Wonderful app! I have had this app on every phone I've had since 2009. It's great. Never an issue with it!! 
+com.kmagic.solitaire#111799:	   They were correct. The game doesn't work half the time. Unless it isn't suppose to deal cards. If that's true then it works perfectly! Call me crazy but dealing cards is part of it or idk maybe folks here might play differently where I live. I'm on Samsung Galaxy 4. Of all the smartphones out there, you would think apps would work on the new ones. Feel sorry for people with an "old" phone trying to use this. By "old" I mean last year and yes this is called sarcasm. Uninstalling 
+com.kmagic.solitaire#111804:	   Needs a menu button on the . Please fix ASAP 
+com.kmagic.solitaire#111807:	   I loved this app on my S2 but the S5 doesn't have a bottom menu button. So no access to the menu options. I am stuck in the middle of an unwinnable game of solitaire. Shame. 
+com.kmagic.solitaire#111817:	  Does this game wotk woth S5? I can't get it to work. I dont have the "settings" info. 
+com.kmagic.solitaire#111818:	   Been using this one a couple years now. Never had an issue. Small easy to use. And performs perfectly Galaxy S3 
+com.kmagic.solitaire#111828:	  Used to Love this app. Unfortunately I can't play it on my new samsung Galaxy s5. There is no menu button do you can't toggle between different games and you can't do anything but use the back button. Disappointing. This game was the reason i left apple and now it doesn't work on samsung! 
+com.kmagic.solitaire#111832:	   Got the new galaxy 5 today and much to my dismay I no longer have a menu button to deal the next hand. Please fix ASAP! This is my favorite pastime! 
+com.kmagic.solitaire#111844:	   No deck to tap, no search button on phone, so I can't get a deal on Spider. 
+com.kmagic.solitaire#111846:	  Please fix it so we don't need a track ball or search key to play. This was my husband's and my favorite game until you changed it. 
+com.kmagic.solitaire#111856:	   My older droid had the search button but new droid mini does not, so I can't play this anymore. Was my favorite game. All the other solitaire games have too many ads, and don't have as many game variations as this version. Please Ken Magic fix so I can play again 
+com.kmagic.solitaire#111860:	   Every device Ive owned has this app. Never had an issue and great for passing the time away :) 
+com.kmagic.solitaire#111872:	   I'd rate 5 stars but I no loger have a search button to deal and I can't play spider solitaire. Please fix. 
+com.kmagic.solitaire#111875:	  Very frustrating that I can no longer play with my Galaxy S4. Stopped using the app when I upgraded phone 6 months ago. Figured they'd have a fix by niw and tried again. Still unable to deal cards bc I don't have the required search button or track ball. Hope they fix soon. This was my favorite solitaire app before!! 
+com.kmagic.solitaire#111877:	   The menu button went away on screen. No way to change games or end game. Uninstalling till fixed. 
+com.kmagic.solitaire#111885:	   Loved this app on my Droid X but on my droid Ultra there's no search button so I can't deal when playing spider solitaire. Please find a fix for this obvious oversight 
+com.kmagic.solitaire#111902:	   Just got a Galaxy Note 3 and tried 3 other versions of solitaire but didn't find them as easy to use as this one. The others are too busy. I just want a nice simple game to play when I need to kill some time between flights, meetings, etc. 
+com.kmagic.solitaire#111904:	   I love this game but my galaxy 3 doesn't have a search button to deal on spider please fix!!! I will change my rating if it gets updated! 
+com.kmagic.solitaire#111906:	   Not to many other card games give you all the best ones. Oh thank you. If bugs arise fix them quickly. 
+com.kmagic.solitaire#111912:	   I've had this game on many different phones and loved playing it but my new phone, Samsung Galaxy S3, has no back button so game play is now limited. Please rectify this problem sooner rather than later as most new phones are coming out with less buttons nowadays . Also I don't have the 40 thieves game. 
+com.kmagic.solitaire#111917:	   I LOVED playing this game in my old DROID Razor, but recently upgraded to the DROID Ultra, which does not have a track ball or a search key, so I have no way to deal a new deck! Fix please! 
+com.kmagic.solitaire#111918:	   Please update this app! My husband and I love playing spider solitaire but we can't on our new  because there is no way to deal the next cards! "PLEASE FIX" 
+com.kmagic.solitaire#111920:	   If you're looking for a good solitaire game that does what it's supposed to this ones great. No fancy graphics or anything, just a solid basic game. There are a few variations of solitaire within the game but I only play the standard version. No ads which is awesome. I have had this app on several phones over the past few years and never once had it crash or had an issue with it. Great simple app. 
+com.kmagic.solitaire#111937:	   Can't redeal. New phone doesn't have browse button. Fix for five stars. 
+com.kmagic.solitaire#111944:	   Worked great on my old phone. There is no way to deal on my new one (note 3). Please fix! There is no deck and no button to push to deal the next hand. Ugh. Frustrating. Rating a 1 til it's fixed. 
+com.kmagic.solitaire#111947:	   Fix the spider solitaire and ill rate higher 
+com.kmagic.solitaire#111956:	   All of a sudden I can't deal the next hand in spider solitaire or move the decks once I place a card. Ummm this wasn't like this, and now it is. I am sad :( FIX IT and I'll change my rating. Otherwise this app officially stinks 
+com.kmagic.solitaire#111969:	   Can't use on my HTC as have . 
+com.kmagic.solitaire#111979:	   DOES NOT WORK ON SAMSUNG GALAXY SII 
+com.kmagic.solitaire#111984:	   I love this app. My kids say I love it more than them. Not true but I love the variety of games and tend to play freecell a lot. Great app. Few bugs. Big smile. 
+com.kmagic.solitaire#111987:	   Downloaded to every phone. Simple, no issues, only app that never gave me problems. 
+com.kmagic.solitaire#111988:	  Loved it on my HTC Rezound but it does not work on my HTC One. Bummer.tBummer. Give it 3 stars coz I loved it on last phone (5) and can't use it on this phone (0). Average is 2.5 rounded up to 3. 
+com.kmagic.solitaire#111993:	   Only draw back is that I can't find instructions for versions I don't know how to play, but quick Web search fixed that. 
+com.kmagic.solitaire#111995:	   But there is no way to play it on my SGS4. I know this has been an issue for awhile, is it really that hard to write in a deal button?? I mean, I'm no app designer, but I feel like this shouldn't be that complicated to fix... 
+com.kmagic.solitaire#111997:	   Unable to deal cards in spider solitaire; no search button to use..need a fix 
+com.kmagic.solitaire#112001:	   I lobe this app but for one of the games I need the push the search key inorder to get the cards delt, problem is I do not have a search key, my HTC one sv only has a recently visited app icon. Help! 
+com.kmagic.solitaire#112002:	   Uninstalling....can't deal more cards when playing Spider on Galaxy s4 please fix 
+com.kmagic.solitaire#112003:	   was one of my favorite games until could no longer play due to new phone not having a search button. Please fix... 
+com.kmagic.solitaire#112004:	   Just updated from samsung galaxy to galaxy s4 and I don't have a search button so its not working now. Please update program because I can't live without this game. I will change back to 5 stars after fixed. 
+com.kmagic.solitaire#112009:	   Had this on my Desire S and it wasted a lot of my time, great game. However on my new HTC One the game runs slowly on card animations and can't deal new cards in spider game. Please fix, loved this game! 
+com.kmagic.solitaire#112016:	   Game crashes every 15-20 games and screws up your stats. This also locks up your phone. You have to remove the battery to reboot. Devs are unresponsive in addressing the issue. 
+com.kmagic.solitaire#112023:	   Cannot deal on next gen phones. App is antiquated. Will reinstall with fix. 
+com.kmagic.solitaire#112028:	   Best solitaire app I've found ! Has NEVER crashed or frozen ! Love it ! 
+com.kmagic.solitaire#112047:	   Can't get spider solitaire to give me another deal of cards when im done sorting the first ones. We have a main button and back button and menu but no search so fix please i love this game!Samsung galaxy s3 
+com.kmagic.solitaire#112052:	   I love this app. I had it on my Samsung Fascinate and played it all the time. But on my Droid ultra I don't have a search button so I can't deal for spider. Please fix soon. Or I'll 
+com.kmagic.solitaire#112056:	   I had this app on my old droid and loved it, but it doesn't work on my new galaxy s4 (no search button to deal). 
+com.kmagic.solitaire#112064:	   Can't get spider to work on a Samsung Galaxy S3 no way to deal cards 
+com.kmagic.solitaire#112066:	   Not all the games work with the galaxy note 3. If that could be fixed I would play it for hours. 
+com.kmagic.solitaire#112070:	   I don't have a trackball or a search button on my Note II, so playing spider doesn't work for me... Any way this can be fixed? 
+com.kmagic.solitaire#112077:	  When playing with 2 decks on spider solitaire, you can't deal the next set of cards. You have to start a whole new game. If you fix that you would be a 4 star 
+com.kmagic.solitaire#112080:	   Almost never updates, opens directly to last game type. No loading. No $. No BS. Only problem I've ever had was touching restart when cards were swipe-stacking caused freeze. Stacking could be faster. Very happy. 
+com.kmagic.solitaire#112085:	   I loved this game, very simple, doesn't use much memory space, but you can't move it to sd storage and now every time I try to open it it says there was an error and closes the app. I tried uninstalling and reinstalling but still can't open it 
+com.kmagic.solitaire#112086:	   This app does not work on Moto X. There is no trackball or search key on my new device to deal cards in Spider... 
+com.kmagic.solitaire#112089:	   I had the phone on my incredible 2 and loved it but now I have the Galaxy S4 and there is no way in spider solitaire to get the cards to deal because there is not a search button. ..card stack. ..or trackball.....If they fix this I will re rate the app but I can't use it until then 
+com.kmagic.solitaire#112115:	   The spider solitare not working 
+com.kmagic.solitaire#112117:	   Does not work on moto droid maxx.  so you can't deal or change options 
+com.kmagic.solitaire#112124:	   LOVED this app, but changed from HTC Evo to LG G2 and app doesn't work b/c there is no search button. Down from 5 stars to 1 b/c of this. Have to uninstall for now. Please fix! 
+com.kmagic.solitaire#112125:	  Can't play spider solitaire on my new phone please fix. 
+com.kmagic.solitaire#112130:	  Can't use track ball function on Note 8.0 
+com.kmagic.solitaire#112132:	   Loved this app on my old phone. Please fix so I may continue to play. 
+com.kmagic.solitaire#112133:	   I love this game. On my old phone I could deal a new hand on spider solitaire. Since I upgraded my phone to S3 I can't deal a new hand, because there's no search ball thing. Please fix this for S3! 
+com.kmagic.solitaire#112134:	   It disappoints me cause I can't deal on spider solitary. Please fix it on an update 
+com.kmagic.solitaire#112139:	   Can't deal cards in Spider, hoped to find the solution on here but seems like everyone had the same problem so please fix this issue! 
+com.kmagic.solitaire#112147:	   I had an incredible 2 and this worked great but now I have a galaxy s3 and it won't let me deal a new deck on spider. Please fix! 
+com.kmagic.solitaire#112154:	   This version of solitaire was my favorite until they would not/could not keep up. They have been told about issues since the inception of this version in 2010 and have not bothered to address it. If your phone or tablet does not have a search button or a track ball you cannot play spider solitaire. Mobility Ware has a free spider game that works great. Switching over now. 
+com.kmagic.solitaire#112159:	   Can't start a new game. Pause . Please fix!! 
+com.kmagic.solitaire#112164:	   Good old fashioned, straight forward solitaire; nothing fancy about it; doesn't run in the background 
+com.kmagic.solitaire#112169:	   Are you ever going to fix the Spider Solitaire problem (can't deal on newer phones)? It's been months. Please fix it or let us know so we can find a working Solitaire game. 
+com.kmagic.solitaire#112170:	  Does not work on GS4 and tab 3 
+com.kmagic.solitaire#112177:	   Loved this game on my X2. Got a Galaxy S3 and can't deal when playing Spider. Please fix. 
+com.kmagic.solitaire#112181:	   Since it is not possible to deal card on Samsung s3 mini I am rating it 1 star ..once this is fixed I will rate 5 again ..brilliant game when it works 
+com.kmagic.solitaire#112197:	   No way to deal the deck please fix 
+com.kmagic.solitaire#112198:	   Needs a fix for phones that don't have a trackball or search key... really disappointing, used to be my favorite solitaire app. 
+com.kmagic.solitaire#112213:	   I play every day, no issues or bugs. 
+com.kmagic.solitaire#112215:	   I would have given this game 5 stars plus more but since I got my new phone Galaxy S4 I can't deal n Spider r Free Cell. Please fix this r else I will b forced to uninstall this app. 
+com.kmagic.solitaire#112218:	   Love this app, had on HTC, now on Motorola Droid. Problem is can't deal in Spider, no search button. Hope this can be fixed. 
+com.kmagic.solitaire#112230:	   Love this app, so simple but entertaining. Only problem is that I'm unable to deal in spider. I know I've done it before this new phone but I can't figure out how to do it now... 
+com.kmagic.solitaire#112231:	   There's no way to deal whilst playing spider solitaire of the Samsung galaxy s3. Would give more stars if this gets fixed. 
+com.kmagic.solitaire#112233:	   Guys, this hasn't been updated in 2 years. I doubt they'll fix the new dealing problem 
+com.kmagic.solitaire#112234:	   Echoing all the other reviews. Love the game, can't deal Spider Solitaire. Please please fix. Will fix rating as well. 
+com.kmagic.solitaire#112242:	   What good is a Vegas score option when u loose it cause it keeps resetting. Fix it and its a 5. Aaaarrrgh! So frustrating. 
+com.kmagic.solitaire#112248:	   This game has been great, fun, and simple! Ever since the ota update to Jelly bean, the search button had been permanent assigned to Google now/search. Need fix! 
+com.kmagic.solitaire#112249:	   Spider doesn't work w galaxy S4. 
+com.kmagic.solitaire#112250:	   Would rate this game 5stars if i had a trackball or search key to deal the deck.... Needs a fix for this! 
+com.kmagic.solitaire#112271:	   Love to play this game when at dr. Office's or laying in bed. Love that there is four different games on here so you don't get bored with just one. Hate that I can't play spider solitare on my tablet or samung galaxy s3 due to no search button on devices. PLEASE FIX!!!! Would definitely be 5 stars if you do. 
+com.kmagic.solitaire#112273:	   Can't deal in spider. Thought it was just me. PLEASE FIX THIS PROBLEM!!! 
+com.kmagic.solitaire#112286:	   I like solitaire and Spider on the app but forty thieves is frustrating. Sometimes you can pick up a stack of cards and sometimes you can't. Would love it if this problem were fixed. 
+com.kmagic.solitaire#112289:	   So I love the solitaire game but, I can't play my preferred game, spider, because I can't deal a new deck as I don't have a search button or a trackball on my Motorola galaxy. Please fix this problem! 
+com.kmagic.solitaire#112291:	   Okay so I am a avid solitaire player absolutely loved this app until I began to be robbed my the game. After I play n build bank I save n quit only to return to starter rate of -$52 wth is Going up fix this plz I play for hours to get bank up n get hustled out my cash if this was real there would be problems 
+com.kmagic.solitaire#112293:	  I've used this app for a while now and have never had an issue with it. 
+com.kmagic.solitaire#112294:	   Worked great with my old phones. Can't deal in spider with droid mini. Please fix or I'll be looking for different app. 
+com.kmagic.solitaire#112297:	   I absolutely love all 4 games! Installed on evry fone. But now on G4...it's a "No Deal" for Spider! Need lots of fixes. KM, did you abandon ship?! Well...I'm about to! UNINSTALL!!! 
+com.kmagic.solitaire#112300:	   Love the look and feel of this simple app. When I play spider solitaire, though, I am unable to use the deal function. Is it just me (my phone) or is this a general issue? 
+com.kmagic.solitaire#112301:	   I can't deal in Spider!! Nexus 4 and many new phones no longer have the button that deal is bound to. There is no way to change this and I can no longer play Spider, my favorite game in this package. If this one fault gets fixed, this is a 5 star app all day long! 
+com.kmagic.solitaire#112304:	   I play Vegas rules and the game would re set whether I was up or down. Fix the cumulative score function. Disappointment. 
+com.kmagic.solitaire#112306:	   Was an awesome game until I upgraded to the galaxy s3 now I can't play spider soiltire. BBC please fix this?!? 
+com.kmagic.solitaire#112307:	   I can't play it with my Samsung t889. Please fix it so I can play it on this phone. I can't deal (literally) 
+com.kmagic.solitaire#112309:	   Pretty happy with most games om this, but no way to deal in spider on my phone? Wtf? Fix please 
+com.kmagic.solitaire#112316:	   Does anybody know how to deal in spider with samsung galaxy? One button is undo, one button pulls up game menu, and other button takes to home screen so there isn't a way to deal. Please fix this or tell me what I need to do. 
+com.kmagic.solitaire#112322:	   It was my favor one, now no menu button, can't get in to options so useless on . 
+com.kmagic.solitaire#112327:	   Everything about this is pretty good except on spider there is no way to deal the cards is you don't have a search button. Please fix this 
+com.kmagic.solitaire#112330:	   The menu button stopped working in android 4.3 
+com.kmagic.solitaire#112332:	  Spider solitair doesn't work properly 
+com.kmagic.solitaire#112334:	   This is by far my favorite version of solitaire. The card art is perfect. BUT with my phone I cannot deal when playing Spider. Please please please fix this. And change nothing else. 
+com.kmagic.solitaire#112341:	   Played this game on my old phone and absolutely love it over all the others for spider sol...but on my new ph GS4..there is no way to deal new cards. PLEASE FIX THIS! I'm rating it with 1 star until it's fixed. 5 stars after it's fixed. 
+com.kmagic.solitaire#112342:	   Poor game since print too small and you never win not a game if u lose all the time. Fix it now 
+com.kmagic.solitaire#112347:	   Used to love playing this on my previous phone but there's no search button or trackball on the new Commando, without either you can never draw in Spider, please add a update to fix this, double tap screen, shake phone, something. 
+com.kmagic.solitaire#112354:	   Can't play spider solitairy, their are no buttons for a new row of cards, please fix.... Galaxy s4 
+com.kmagic.solitaire#112355:	   I used to love playing Spider and freecell but now cannot play spider because my new galaxy 4 doesn't have a trackball or search key...very limiting.... please fix!!!! 
+com.kmagic.solitaire#112359:	   Would be happier if I could play Spider. Just got a Galaxy S4 and have no way to deal the cards. Please fix. 
+com.kmagic.solitaire#112360:	  Used to be one of my go to games but after I switched from Galaxy S2 to Galaxy S4 the game became so sluggish that it is almost unplayable. Please fix it for larger screens also and you get the missing star. 
+com.kmagic.solitaire#112362:	   It worked great, now it won't keep the saved game and always defaults original settings. Please fix it's my favorite app! 
+com.kmagic.solitaire#112365:	   Spider solitaire does not work on my Samsung Galexy tablet. Please fix! 
+com.kmagic.solitaire#112376:	   I loved this app until I got a new phone and can no longer play spider solitaire! Galaxy s4 cannot deal (no deck, trackball, or search key.) It would also be great if there was a way to transfer my stats from the old phone to the new. (I'm rockin over 70% with thousands of 2 suit games played!) Could easily have 5 stars if this is fixed. 
+com.kmagic.solitaire#112379:	   Would give 5*, but I can't deal on the spider game. I have a HTC Incredible 4G LTE, there's no track ball or search button, please fix! 
+com.kmagic.solitaire#112381:	   Used to love this game but now cannot play Spider because I do not have a search button,trackball, or anything else that would deal. Anyway to fix this? 
+com.kmagic.solitaire#112385:	   Doesn't work on modern phones without hardware buttons 
+com.kmagic.solitaire#112391:	   Hey Retards!!! You STILL haven't fixed the spider "Deal" situation... fail uninstalled 
+com.kmagic.solitaire#112396:	   This is a bad apllcati on its not downloading 
+com.kmagic.solitaire#112399:	   I have a galaxy s 3 and I can't play the games fully. No search button means no dealing the cards in spider. Please fix. Loved playing the game on my evo 4g prior to this. 
+com.kmagic.solitaire#112405:	   Pro: REQUIRES NO PERMISSIONS! Seriously, why do all the other solitaire games require full web access? Con: Not scalable to the larger screens of newer smartphones (still works, just not full Screen). Fix that and I'd rate five stars! DONE 
+com.kmagic.solitaire#112406:	  Has never crashed at all best way to pass the time 
+com.kmagic.solitaire#112407:	   I just can't get enough of the awesome game I love it 
+com.kmagic.solitaire#112415:	   This game does not work on my Samsung Epic. 
+com.kmagic.solitaire#112418:	  This game sucks! Free cell doesn't work right! 
+com.kmagic.solitaire#112419:	   Emailed their support a few times for help with Nexus Galaxy based issues. No response whatsoever 
+com.kmagic.solitaire#112420:	  Would not work on my nexus 7 in spider as it told me I had more deals left but could find no pack to deal from. 
+com.kmagic.solitaire#112423:	   Was my favorite game on my LG Ally, but my Samsung Stratosphere doesn't have a search button or trackpad so I can't play spider solitaire anymore :( fix it please! 
+com.kmagic.solitaire#112424:	   I've been playing this particular solitaire game for a long time now, and I love everything about it. They only problem I've hit so far it's that I can't deal in spider solitaire which is kind of a big issue. I recently switched from a droid x to a galaxy s4 and that's where I'm having the problem. Fix this and you'll definitely have 5 stars 
+com.kmagic.solitaire#112426:	   Need to fix for galaxy for spider solitare to deal. Otherwise awesome 
+com.kmagic.solitaire#112431:	   Loved to play spider solitaire, now I can't anymore, there's no deal option. I have no search or trackball option :s please fix it:( 
+com.kmagic.solitaire#112434:	   I've used this game ever since my 1st Android phone, an HTC Hero. The interface is easy, there are no ads and it's never crashed on my phone. Forty Thieves is my favorite. 
+com.kmagic.solitaire#112438:	   Had an Incredible 2 and loved playing spider. New phone is RAZR M and it doesn't have a way to deal. Please fix and I will give it a 5! 
+com.kmagic.solitaire#112440:	   Love the app. It's addictive. Stats & Help don't work on Samsung Galaxy S4. 
+com.kmagic.solitaire#112447:	   I like this app and all, bit something pops up and interrupts my game causing me to press the home button to exit. It states: Sanity Check Fail Fix this please. 
+com.kmagic.solitaire#112449:	   Graphics were great on my old phone that was small but is horrible on my galaxy s4. Makes my eyes hurt on new phone. Used to be my favorite app... will re-install if fixed. 
+com.kmagic.solitaire#112456:	   I really like this app but can't play spider because you can't deal, please fix 
+com.kmagic.solitaire#112457:	   tried to play Spider solitare but can't deal cards on my new Note. This seems to be a problem for a lot of us and it seems to have been an ongoing problem. Is there an update soon? Please...Spider is my go-to-must-have game. 
+com.kmagic.solitaire#112461:	   The solitiare game is gr8, but in spider there is no way to deal so its useless to play. Fix it n it would be a 5 star app. 
+com.kmagic.solitaire#112466:	   Never have any issues, spam, or any other type of spyware.. Thanks! 
+com.kmagic.solitaire#112478:	   Simple game, no irritating ads.. but this app has a bug.. go Spider I'm not able to deal the next set.. any1 else with this problem.? Any solution for this please.? 
+com.kmagic.solitaire#112484:	  Crashes on my Samsung Galaxy S4 
+com.kmagic.solitaire#112485:	   Please, please. . .I got a new phone, but can't play spider anymore because new phone doesn't have search key to deal. Please fix so I can play again. . .I've been looking, but I can't find another solitaire app that I like as well as this one! 
+com.kmagic.solitaire#112494:	   A game as simple as solitaire should never freeze. FAIL 
+com.kmagic.solitaire#112495:	   I can't get it to change the large card view. 
+com.kmagic.solitaire#112522:	   I absolutely love this app. I've tried others and didn't find one that I like as much as this one. I just recently upgraded my phone to the Galaxy s4, and can't deal the cards while playing spider. Please update!! 
+com.kmagic.solitaire#112533:	   I love this app on all my previous android phones but the note 2 doesn't have the same capabilities. Spider solitaire cannot access new decks. Outside of this irs a great app 
+com.kmagic.solitaire#112536:	   Does not work on the new RAZR HD, which has no search button, so I can't deal. Loved and had it on my last 4 devices, but now I'll have to look for a new card app. 
+com.kmagic.solitaire#112549:	   Loved this game on my old htc phone... now I have a galaxy s4 and I can't deal! Please fix this issue so I can play solitaire again! 
+com.kmagic.solitaire#112557:	   What is a trackball? What? I can't deal, why? FIX THIS!! 
+com.kmagic.solitaire#112558:	   Can't move piles when you want in forty thieves. Inconsistent in how it handles cards from the deck in solitaire. How do you deal from deck in spiderette? 'Help' is not much help. 
+com.kmagic.solitaire#112565:	  My favorite app, but can not deal on Spider on Samsung III. Hope this is fixed soon. 
+com.kmagic.solitaire#112568:	   I love this app. It's one of the first I install on any devices. It works, and there are NO ADS. Ads can be ok if they don't distract from the app/game, but most adds I see in apps are obnoxious. I just wish there were a separate (without adding ads to this version) version that I could use to donate. I've never seen any problems with any of the games. Plus there are some basic options for some of the games, like with basic solitaire (klondike?) to select 1 or 3 card draws/deals and so on. And it keeps per games stats if you ever want to check how you're doing over time. 
+com.kmagic.solitaire#112569:	   I used to LOVE this game and it was the only solitaire I would play. Now it is broken. :( it will only let me move the top card instead of the whole pile. Please fix. I want my game back 
+com.kmagic.solitaire#112577:	   Can't play spider on my new phone because it doesn't have a search button. Please fix dealing cards with spider on phones with no search button. No special permissions and plays great. 
+com.kmagic.solitaire#112580:	  I used to really love to play this game even though I can't play spider because it won't let me deal cards. But since the most recent update it crashes everytime I try to restart a game. Have uninstalled it. 
+com.kmagic.solitaire#112592:	   I can't play my favorite game, spider, because there's no deal button. PLEASE FIX!!!!!!!!!!! 
+com.kmagic.solitaire#112595:	   Some of the games work great, however, these devices do not have a track ball nor do they have a search button. We are unable to deal the cards in spider solitaire. Please fix. 
+com.kmagic.solitaire#112603:	   I loved this app on my old android however it doesn't work on my new galaxy s4 :( any plans to upgrade it for the s4? 
+com.kmagic.solitaire#112607:	   Not working properly on my ATRIX 4g... only top card is able to moved at any time in spider, unplayable... 
+com.kmagic.solitaire#112615:	   Loved spider solitary on my old phone , but now on my new phone there's no way to deal.. hope they fix this soon. 
+com.kmagic.solitaire#112617:	   Love the program but it won't work on my new RAZR 
+com.kmagic.solitaire#112623:	   Love the simplicity of the app but HTC doesn't have the required button to rotate the deck for spider would love an update to get that fixed 
+com.kmagic.solitaire#112626:	   I played this app all the time on my old phone. Spider was my favorite game. Now that I have a new phone there is no way to deal in that game mode. I have a galaxy s4 and nexus 7. Would give five stars if that was fixed. 
+com.kmagic.solitaire#112640:	  Does not work well with Android devices (Razer HD and tablet). No way to deal in Spider. 
+com.kmagic.solitaire#112644:	   Game stopped working properly with no menu option to change games 
+com.kmagic.solitaire#112646:	   Had this on all my other phones n loved it. Was the only game I ever downloaded. But since got my new phone the HTC One I can't deal the deck. Very sad n hope gets fixed so can play once again. 
+com.kmagic.solitaire#112647:	   Used to be my favorite game until my new phone, now I can't deal. How has this not been fixed yet? Samsung S3. 
+com.kmagic.solitaire#112651:	   Love the simplicity of this app, best I've used! Upgraded to a HTC One, now I can't deal... Please fix!!! 
+com.kmagic.solitaire#112661:	  Does not work with galaxy s3. Can not draw. Stupid! 
+com.kmagic.solitaire#112664:	   Mindless fun, but I cannot get it to deal out more cards in spider solitare. Works well otherwise though. 
+com.kmagic.solitaire#112665:	   Latest update has made it slower. Before I could win in 1min 30sec. Now can't get under 2min because card movement is so slow I have to wait for it to complete its movement. 
+com.kmagic.solitaire#112676:	   Would give 5star for this but its a pity the spider game cant deal... hope it could be fix asap... and ill give 5star once its been fixed... 
+com.kmagic.solitaire#112695:	   Can't deal cards from RAZR HD. Never got a response as to why and what's the fix?? 
+com.kmagic.solitaire#112696:	   Used to play all the time on my Samsung galaxy smartphone but since changed to , cannot deal cards in spider so no use playing! 
+com.kmagic.solitaire#112700:	   I loved this app on my old phone. Disappointed that I can't deal on my Nexus. Could be fixed by making the deck visible, and deal by tapping deck. 
+com.kmagic.solitaire#112707:	   Game works well most of the time, but has has had unresolved bugs for many years. 
+com.kmagic.solitaire#112710:	   Solitaire is good, spider solitaire doesn't show a deck please fix! 
+com.kmagic.solitaire#112711:	   Installed and worked well. Has 3 of my favourite games and works crash free. No ads. Nice job. 
+com.kmagic.solitaire#112714:	   This app was really great had a lot of fun playing it until I tried to play spider solitaire there is no deck to deal from I tried going to the Help menu but all it said was tapedeck to deal the cards it's hard to top that when there is no deck I will be contacting the company and hopefully they will get this fixed 
+com.kmagic.solitaire#112727:	  Doesn't allow you the option to deal on the menu bar. This means spider can't be played. Please fix. 
+com.kmagic.solitaire#112735:	   I dont have a search button or trackball so cant deal please fix cos its the best solitaire game 
+com.kmagic.solitaire#112744:	   I had this game on my old phone but now that I got the gs3 I have no way to deal cards for spider solitaire. Please update to fix for the newer phones. 
+com.kmagic.solitaire#112751:	   I love this app. It worked well with my HTC EVO. However, I've upgraded to the Galaxy S III and there is no search button nor a trackball so I can't deal with the Spider game... Sent an email to Ken to ask for a fix but did not receive a response. Please fix!!!!! 
+com.kmagic.solitaire#112756:	   I've had this game for over a year, and would really like to see an update. Every time a call comes in, it resets my game to a new one. Which is very frustrating when I'm 3-4 moves away from winning. Then it counts that game as a loss against my stats. Is there a way to fix? Droidx2 
+com.kmagic.solitaire#112762:	   Galaxy S3 Can't play on my S3. Best solitare app when fixed. Worked fine on my old Dr oid. PLEASE FIX!!! 
+com.kmagic.solitaire#112776:	   I don't have a search button so I can't deal in spider. That's annoying... If it was fixed I would give 5 stars. 
+com.kmagic.solitaire#112781:	   App use to work great and loved it but I havnt won in atleast 25 games. And I have 2 of the same card in same regular solitare game. For example I just had 2 queen of clubs and I was playing regular old solitare. Other then not being able to win like I use to its a good app. Fix and rating is 5 stars 
+com.kmagic.solitaire#112792:	   My new phone (Samsung Galaxy note 2) can't play spider, which is my favorite game, please fix! Otherwise I love this package of games! 
+com.kmagic.solitaire#112803:	   I don't have a search button so there's no way to deal. Please fix! 
+com.kmagic.solitaire#112806:	   was great and 5 stars on my G2 but now I can't deal on my SGS3 since I don't have a search button or a track pad. please fix 
+com.kmagic.solitaire#112836:	   Nexus and other jellybean devices do not have a search button so you can't deal on spider. Used to love the app on my gingerbread phone but now I can't use it.. Uninstalling 
+com.kmagic.solitaire#112841:	   I loved this app since my first smart phone. .. just got the galaxy note and because I dont have tbe the ball there is no way to deal when playing free cell or spider not good at all ... please fix asap 
+com.kmagic.solitaire#112842:	  Samsung Note 2 user. I loved this app on the Droid X, but the visual graphics on this phone are not as sharp. Plus because there is no track ball or search key I cannot play spider solitaire. Taping the deck doesn't work. 
+com.kmagic.solitaire#112847:	   The game does not work properly, I cannot select and move stacks of cards, why? I have uninstalled this one and downloaded a simple version of solitaire. 
+com.kmagic.solitaire#112852:	   The first Solitaire game I'd found kept crashing my phone & making it glitch all the time!! This Solitaire app is fantastic!! Only ever had a few tiny issues with it but they were caused by my touchscreen phone & its old age rather then the app itself. If you like card games I highly recommend this app! 
+com.kmagic.solitaire#112856:	   I do not have a track ball or search button, so i am unable deal in spider. Everything else is good. Any fix coming for this? 
+com.kmagic.solitaire#112858:	   1. Forty Thieves did not install, only Klondike, Free Cell, Spider. 2. No way to deal cards in Spider. 3. No way to get back to instruction screen. I installed, uninstalled, and reinstalled to see if that would fix it. No luck. Will uninstall immediately. 
+com.kmagic.solitaire#112869:	   Does not work with Galaxy S2 very disappointed as it worked well with my ancient HTC 
+com.kmagic.solitaire#112873:	   It hurts my eyes now. Used to play all the time on my EVO but now Samsung galaxy s3... its all blurry. As if not the right pixel or resolution or something technical like that. Uninstalling. Sorry. But great app. If fixed THAT problem would download again. Long time user for that app 
+com.kmagic.solitaire#112876:	   After playing constantly, I've looked for others and can't find another to try. After reading reviews for others, and reading of complaints about ads and music, this remains the only one installed. 
+com.kmagic.solitaire#112877:	   It is ok as far as solitaire goes but I am not 100% sure of some game's rules and have no idea how to play one of the games. I can not find instructions. 
+com.kmagic.solitaire#112881:	   Can't deal when playing spider solitaire on my  s3. Please fix this please. Other than that I love it. 
+com.kmagic.solitaire#112888:	   Had this installed on my HTC legend but now I have a Google nexus 4 and the cards don't look as crisp and I can't play at all. Touch functions don't work the way they should. 
+com.kmagic.solitaire#112894:	   Love this version! I've tried others but they just aren't as good. I just updated my android & now I can't play Spider!! Been hooked for almost 2 years. Please fix!! 
+com.kmagic.solitaire#112901:	   I loved this game on my old htc, but cant find a way to deal in spider on my galaxy s2. There's no trackball or search key (as per the help) to do so. Please fix...or tell me how to deal if im being a complete idiot here. 5stars on my other device but only the 2 for this one... 
+com.kmagic.solitaire#112905:	   The only problem is dealing. I need to breakout my Bluetooth keyboard so that I can hit the search button to deal. Perhaps put in a deal button? Plenty of options. Thank you. 
+com.kmagic.solitaire#112908:	   FANTASTIC app. Didn't have any problems until I upgraded my phone. I now have the Galaxy S3, which I love, except now I have no way to deal on "spider" game :'(. Wishing for a "fix". The other games work fine. 
+com.kmagic.solitaire#112911:	   Used to be fun, but hasn't supied a winning hand in ten days. Can't deal in Spider. Despite repeated notices both in Play store and on developer's website , no fix. No updates in over two years. Uninstalled. 
+com.kmagic.solitaire#112913:	   Can't deal cards in Spider on HTC Desire. Solitaire is flawless though and kills time, 5* once you fix spider. 
+com.kmagic.solitaire#112924:	   I play Spider the most, and because newer Android phones don't have a search button, Spider doesn't work. This needs to be fixed. Then this is a five star app. 
+com.kmagic.solitaire#112934:	   With my new Galaxy s3, when playing spider, I can't find a way to deal from 5 deals I have left! There's no track ball, no deck on the board or any other way I can find to deal. Can you help me? 
+com.kmagic.solitaire#112940:	   Enjoyed Spider Solitaire on old phone but the app does not work on new phone. No search button, visible deck or trackball. Please fix this so I can enjoy the app again. In past it plays very well. 
+com.kmagic.solitaire#112941:	   Game is great for regular solitare, and used to be great for spider. But most phones (I use the S3) no longer have a search key so you cannot deal again in spider. Five stars if they fix that. 
+com.kmagic.solitaire#112958:	   This game is not download please fix it i am waiting 
+com.kmagic.solitaire#112975:	   In solitaire cannot change dealing options. This app is my guilty pleasure please fix. 
+com.kmagic.solitaire#112977:	   Love this solitaire collection, but switched to galaxy s3 and now can't deal in spider. Very upsetting! Please fix! 
+com.kmagic.solitaire#112978:	   I love love this app but with my nexus I can't deal cards when playing spider solitaire as there is no search button. So that's a little annoying. If that were fixed this would have five stars 
+com.kmagic.solitaire#112988:	   Hey guys it doesn't work on my TAB no search button to deal the cards please fix....deal could be a double tap where it shows how many decks you have left....pleas fix it's my nightly sleeping pill... 
+com.kmagic.solitaire#112990:	   but I just bought a galaxy 3s and I cant deal on spider solitaire there isnt a search key.... if this gets fixed I will most defiantly download and leave a better review 
+com.kmagic.solitaire#112994:	   Fantastic (lack of) permissions. I love that it's ad free and not loaded with crap but the graphics are pretty bad. If these were improved it would definitely be five stars. 
+com.kmagic.solitaire#113003:	   Works great on my phone but can't use the deal search key option with my Galaxy Tab 2 & neither have a trackball. Help!!! 
+com.kmagic.solitaire#113012:	   My ZTE Warp sequent does not have a search button. Therefore I cannot play spider solitare which I love. Please fix this! 
+com.kmagic.solitaire#113015:	   Great set of games. Had on my old phone, Samsung galaxy s, worked great on there. Can't deal another row of cards on spider solitaire in new phone though. New phone is Motorola electrify 2. Loved this game. Was very upset when i found out it wouldn't work on new phone 
+com.kmagic.solitaire#113020:	   This was my favorite app on my old phone. So disappointed I can't use it now. No way to recall cards on some of the games 
+com.kmagic.solitaire#113025:	   Razor m I can't get the game to deal a new set of cards it keeps bringing up a Stupid menu fix it our I'm uninstalling. 
+com.kmagic.solitaire#113026:	   I have this app on my smart phone and I love it!!! I just got a tablet and can't play spider because it doesn't have a search button to deal.... please fix so I can keep & play this app 
+com.kmagic.solitaire#113027:	   My phone (Sony Xperia Tipo) doesn't have a search button or direction pad, so spider doesn't work. I'd love to play it - just need somewhere on screen to tap to draw the cards. Otherwise, a very addictive game! 
+com.kmagic.solitaire#113028:	   I absolutely LOVE this Solitarie app , the best feature in my opinion is that is doesn't use the internet &, having At&t internet is treasured . But I'm sad to say I can't use it anymore . Unfortunately the new , new smart phones don't have trackballs or search buttons . I have the HTC One X &, I really want to use this app, so I think it would be a great idea to find another way to deal the cards . I'm going to the end review in a positive manner thou , this app is a wonderful app to have . So go get it ! 
+com.kmagic.solitaire#113030:	   My only issue is the game needs an alternate way of dealing in spider for phones without a search button. Sure the graphics are meant for smaller screens but this is the most lightweight game ever. I love it! 
+com.kmagic.solitaire#113033:	   I have a Samsung Galaxy Axiom and I don't have a search key or track ball so I can not deal when playing Spider Solitaire. Please fix because I love this app! 
+com.kmagic.solitaire#113034:	   Favorite app four my smart phone but cant use on my tablet. I hope they fix soon. 
+com.kmagic.solitaire#113047:	   Great game because it is more straight forward than most others. People complaining about fuzzie icons should just adjust the game settings to small icons. The problem with this game is the shear number of deals that have no solution at all. Is this just for the entertainment of the developers? I can see no other reason no to design it this way. 
+com.kmagic.solitaire#113057:	   Some good games, simple interface, and has never crashed on me on four different android devices. 
+com.kmagic.solitaire#113066:	   I loved this app until I got a phone with no dedicated search button, which the game relies on to deal. I had almost given up on it all together until another reviewer figured out that you can hold down a button to switch between solitaire games, but in my favorite one (Spider) I still can't get it to deal between rounds. 
+com.kmagic.solitaire#113069:	   Fails to deal cards in Spider Solitaire. Uninstall. Lots of other card games that work. 
+com.kmagic.solitaire#113073:	   I love this game! Only one problem. I can't play spider dollar because my phone doesn't have a physical enter key. Unable to deal new cards. Please fix. This is my favorite app! 
+com.kmagic.solitaire#113081:	   Great game but does not work on RAZR Maxx HD. The game relies on Search button . This button is missing on HD ( Motorola removed it) 
+com.kmagic.solitaire#113083:	   Fix it so I can deal in spider. I don't have a search key. Will be 5 stars if you fix it. 
+com.kmagic.solitaire#113089:	   There is no way to deal with this phone. I love to play spider, but cannot now unless this is fixed.please fix it soon as this is my favorite game. 
+com.kmagic.solitaire#113090:	   The game is great but I can't deal in spider... Please fix this, that's my favorite type of solitaire game and all the dedicated spider ones suck... 
+com.kmagic.solitaire#113092:	  I dont have a track ball so not sure how to get the deck to deal .please fix this fir those who dont have track ball. Had the same issue on my phone. Otherwise i love this app. Ive been using it for years! 
+com.kmagic.solitaire#113096:	   Just like what everybody else said....no deal button on s3 super disappointing. loved this game my HTC. Would give 5 stars if they fixed! 
+com.kmagic.solitaire#113104:	   I can't deal in spider solitaire due to no trackball or search button. Needs to fix the app for people who don't have either option! Otherwise the app works great for me. 
+com.kmagic.solitaire#113109:	   This game is 20 times harder to win than playing with a real deck of cards! Programer has a problem. 
+com.kmagic.solitaire#113110:	   Do not use, freezes up and my phone is only 2 weeks old. 
+com.kmagic.solitaire#113116:	   The graphics are a bit old school. Spider solitaire doesn't work on my tablet as it is missing a key button to deal the cards. 3 stars for low grade graphics and unable to play spider solitaire. 
+com.kmagic.solitaire#113119:	   I play this a lot. Love it...no ads. But there are times where for 3 days straight, I won't win any. I don't even get 1/4 of the way through the deck. Something is wrong. I have over 3000 games played so I'm no stranger to solitaire. Please fix 
+com.kmagic.solitaire#113129:	   my ony issue is that i could move a single card or a stack of cards but not part way through a stack. More of an issue in 40 thieves than rhe solitair. 
+com.kmagic.solitaire#113133:	   Stacks of cards stick and don't move properly. I had this prblem both with spider and free cell. Uninstalling. 
+com.kmagic.solitaire#113134:	   I absolutely love this version of spider solitaire. When i got my new phone, the Samsung Galaxy, I dont have a search button or trackball and there is no deck visible for me to deal the next set of cards. Please fix this problem so I can start playing again. Thanks 
+com.kmagic.solitaire#113138:	  Love 3 of them...cannot find any cards to deal in spider bummer 
+com.kmagic.solitaire#113139:	   Newer phones with no search button or trackball have no way of playing because they cannot deal, this needs to be fixed, but I love the game just because it's good on your battery...it's a card game, how good do the graphics really need to be....... 
+com.kmagic.solitaire#113141:	   Loved this app on all my phones till now. Cant deal cards on galaxy s3 because of no search button. Please fix, I loved this app 
+com.kmagic.solitaire#113142:	   I dont have a track ball or a search button on my phone so i cant deal in spider! This really blows! This is the best and simplest solitaire program and i cant use it now that ive gotten a new phone without a track ball. Fail. 
+com.kmagic.solitaire#113144:	   Used to love it, but.. Can't use this app on my galaxy s3. The option to deal in spider is not available 
+com.kmagic.solitaire#113146:	   I've had this game ever since I got my first Android phone. It is awesome and has such a small footprint. My only issue is I can't deal cards on my new phone since it lacks a search button and a trackball like many newer phones. 
+com.kmagic.solitaire#113150:	   Keeps crashing 
+com.kmagic.solitaire#113151:	   No network access. So special permissions.  I wish more apps were built this way. 
+com.kmagic.solitaire#113163:	   No trackball or search key on new tablet, no way to pull up touchscreen, can't deal. I've had this app on several devices, sad I can't use it anymore. 
+com.kmagic.solitaire#113165:	   Awesome! Never had a problem. Doesn't watching the battery!! I've had this app on my phone for 2 years!! 
+com.kmagic.solitaire#113167:	   Fun games for almost no use of your phone's memory :) 
+com.kmagic.solitaire#113170:	   Does exactly what it says it would do. Also it has never ever crashed. 
+com.kmagic.solitaire#113173:	   Graphics aren't the best but I like that its not glossy and gimmicky. Function over form. BUT! Functionality is hampered in Spider in that I can't more more than one card at a time. Can't move full or partial stacks. Please fix or tell me what I'm doing wrong. 
+com.kmagic.solitaire#113175:	   I loved this game when I had my HTC Evo but now with my  the game is not compatible because I do not have a search button to deal the cards. If this could be fixed, I'd gladly re-download. 
+com.kmagic.solitaire#113188:	   Starts a game of Klondike that you can't get out of because there are no on screen controls for quitting, starting a new game, switching to a different version of solitaire, etc. Terrible interface, no help screen,nothing. 
+com.kmagic.solitaire#113212:	   On my Nexus 4, you can no longer move the whole stack. I've had this app for years on two other Android phones. : ( Please fix it. 
+com.kmagic.solitaire#113222:	   Tried uninstalling and reinstalled, same problem. It's a shame, had this on my last phone (same model) and it worked fine. Please fix! 
+com.kmagic.solitaire#113225:	   On my Samsung tablet, trying the Spider Solitaire, I could not work out how to deal and the help tips didn't work. The graphics quality was also poor. Immediately uninstalled. 
+com.kmagic.solitaire#113228:	   I have spent many hours on the game, addictive. However cannot deal on spider, wish this was fixed. 
+com.kmagic.solitaire#113238:	   But now it doesn't work because my RAZR doesn't have a search button to deal 
+com.kmagic.solitaire#113283:	   Had this app on my HTC Incredible and LOVED IT! It was one of the first apps I reloaded when I upgraded to the GS3.....only to find out I can't play Spider cause I can't deal the cards. Please fix. :( 
+com.kmagic.solitaire#113295:	   As another viewer stated the video is poor. Just installed on a Asus Slider and the quality is extremely poor. This app is a staple to my list of needed apps. I will be upgrading my phone soon to a Galaxy Note II and this will or has a good chance of looking horrible on it. Please, Please fix it so I can give 5 stars. 
+com.kmagic.solitaire#113303:	   I love this app on my older phone. Sadly it doesn't work on my newer hardware. 
+com.kmagic.solitaire#113313:	   I love this game, it's nice and simple, but my new phone doesn't have a search key so I can't deal on Spider. Please fix!!! 
+com.kmagic.solitaire#113321:	   Would be absolutely perfect except for the fact that when u try and play spider solitaire there's no deck to deal. Fix it! 
+com.kmagic.solitaire#113323:	   Doesn't work on s3 or nexus s with jellybean 
+com.kmagic.solitaire#113325:	   To fix the poor graphic resolution, go into options and chose large deck. It is just like on my older phone now. Perfect! LOVE THIS GAME!!!! 
+com.kmagic.solitaire#113327:	   This apps don't run on ics! Used to love this apps but when change phone I can't deal cards. 
+com.kmagic.solitaire#113349:	   Love the four games on this app. Gotta have spider though. Can't deal cards in spider. Gotta uninstall until this is fixed. 
+com.kmagic.solitaire#113365:	   If this app were actually dealing solitaire in Vegas, you all would be in jail for fixing and fraud. Worst ever. 
+com.kmagic.solitaire#113369:	   I love this app. But can't play spider because it uses the search button to deal. Galaxy S3 doesn't have one. 5 stars with fix 
+com.kmagic.solitaire#113372:	   I've loved this game version for years but I just upgraded phones and this one doesn't have a search button... :( please fix!!! 
+com.kmagic.solitaire#113375:	  Love it have had it on my phone for 2years now never had a problem with it :) 
+com.kmagic.solitaire#113378:	   The app is a great concept, but there's still a lot that doesn't work. I wish the dev had at least tested it first. . . 
+com.kmagic.solitaire#113380:	   Unfortunately, can't deal Spider on new Galaxy S3. Please fix! 
+com.kmagic.solitaire#113394:	   Weak in the graphics, but works! Always ready when I want to kill time. Never crashes. Good work! 
+com.kmagic.solitaire#113395:	   I like the simplicity of the backgrounds on this, but it doesn't seem compatible with Galaxy S3. There is no way to deal that I can find... If that is fixed, I'd give it 4 stars. 
+com.kmagic.solitaire#113404:	   I can't play the spider part because i don't have a search key or track ball sooooo please fix !!! 
+com.kmagic.solitaire#113407:	   I can only play solitaire and 40 thieves as freecell and spider are missing the deal button. Please fix for Kyrocera Echo. 
+com.kmagic.solitaire#113438:	   I just got the Galaxy S3. Since there is no search button I can not deal the cards. Please fix or I will be forced to uninstall as it is completely useless to have at this time. 
+com.kmagic.solitaire#113440:	   The games are good and easy to play. The interface is simple and adaptive. I have a problem with spider solitaire in my galaxy R (i9103). Despite trying all options, I cannot deal the deck. Please let me know if there is some other option or the phone is not compatible. 
+com.kmagic.solitaire#113473:	   This a great little bundle app, but I can't use spider cause I have no way to deal :-(. I'm on the galaxy s3. Update? :-) 
+com.kmagic.solitaire#113475:	   Good time killer. Would give it a five if game wouldn't randomly reset score (money in Vegas style). Please fix. Moto Bionic. 
+com.kmagic.solitaire#113480:	   By far the best card app. No problems with bugs or crashing. It lets me play without any problems 
+com.kmagic.solitaire#113485:	   The Samsung Galaxy Nexus doesn't have a search button and I can't deal cards in Spider Solitaire. Please fix. 
+com.kmagic.solitaire#113487:	   Can't get game to work how do I get it to play. 
+com.kmagic.solitaire#113504:	   I used to enjoy playing this on my old HTC g2. Now I can't play spider anymore on my new One S since there is no trackball or search key. Thus I'm unable to deal when I need to and am stuck at that point. Pls fix. I miss this game. 
+com.kmagic.solitaire#113508:	   I can't get 40 Thieves to work right at all. The rest of the game quality isn't that great either. 
+com.kmagic.solitaire#113530:	   I am addicted to this app! However, I just upgraded to the galaxy III and there is no way to deal the cards on spider. Please Fix it!!! 
+com.kmagic.solitaire#113535:	   I play this game on a Galaxy Nexus phone. I love this game. It has a great layout. - It was easy to see all the cards but the only way I could deal the next set was to use the search key. Unfortunately Google changed something and now when I hit the search key during a game it actually opens a search window. Is there anything you and Google can do to fix this? 
+com.kmagic.solitaire#113547:	   Had the app on my old phone so I figured I would download it on the new phone. There is no way to deal the cards on the new phone though. Will reinstall when fixed. 
+com.kmagic.solitaire#113557:	   It simply doesn't work on a Galaxy Nexus. The images are exploded and blurry, and the action was slower overall when compared to my old phone. A pity, since it was the best Solitaire game on the market. I guess I'll have to abandon solitaire for a while, since the others are unplayable. 
+com.kmagic.solitaire#113570:	   Cant play spider because samsung doesnt have a search button. Please fix cause this app rocks. 
+com.kmagic.solitaire#113574:	   Loved this solitaire game on my htc. I'm a spider addict but with no search key or tracker cannot deal cards on my new phone. Please fix. 
+com.kmagic.solitaire#113580:	   Love this app but can't deal in spider on my new phone galaxy 3s. Please fix!!!! 
+com.kmagic.solitaire#113581:	   This used to be my favourite app, as I find it so addictive. But since my nexus s updated to jellybean it doesn't work anymore. Search button is supposed to deal cards, but now launches web browser instead, rendering the app useless :-( 
+com.kmagic.solitaire#113589:	   Does not work in Android 4.1. When i press search button, i get search app instead of new cards... 
+com.kmagic.solitaire#113592:	   Solitare & Freecell great, Spider however doesn't have extra decks to release even though it says it on the bottom right & there have not been any updates so not sure is it will ever be fixed. But good otherwise. 
+com.kmagic.solitaire#113595:	   Unfortunately doesn't work quite right on my Xperia S. No deal button for Spider solitaire and can't even scroll the help menu. 
+com.kmagic.solitaire#113599:	   Fix the shuffling and it's 4.5 stars 
+com.kmagic.solitaire#113601:	   Used to love this app but since getting HTC OneS I can't use it for spider as no button seems to deal, real shame, please fix. 
+com.kmagic.solitaire#113611:	    But now i can't play because no button to deal cards on new MyTouch Q. Pleeeeease fix. 
+com.kmagic.solitaire#113613:	   I love this game but since I upgraded to a Pantek I can't deal. Very sad. Please fix! 
+com.kmagic.solitaire#113618:	   Unfortunately can't play this game anymore on my samsung galaxy s2 because I don't have a button to deal cards, please fix! 
+com.kmagic.solitaire#113624:	   On my lte, I have no search button, so I can't play spider. That is pretty much the only game I played. I wish I could rate this a five but fire my phone I can't use it 
+com.kmagic.solitaire#113632:	   My phone doesn't allow me to deal. All the listed "deal" buttons don't exist on my phone. It dealt one deck last night, but i have no idea how i did it! Practically abusing my phone in an attempt to make it deal! Love the game, but this problem beds to be fixed. 
+com.kmagic.solitaire#113634:	   On my old phone I used the track ball to deal , but now I don't have that or a search button and can't deal ! Fix it and five stars ! 
+com.kmagic.solitaire#113641:	   I love the app, I just don't have a search button to deal cards in spider solitaire :(. Please fix! 
+com.kmagic.solitaire#113642:	   I love this.I play it at night to help me drift to sleep.unfortunately I just got the new galaxy s3 and can no longer deal in spider. Fix this and it would be a five star for sure. 
+com.kmagic.solitaire#113659:	   Never ever had an issue 
+com.kmagic.solitaire#113661:	   While playing spider solitaire on sony xperia arc s, not getting deal button, so not able to play spider game, please fix it. 
+com.kmagic.solitaire#113664:	   I recently upgraded my Android phone. I'm now running jelly bean, which doesn't include a search button. Now the game is unusable (there's no way to deal!) I believe this will be an issue for ICS users as well. 
+com.kmagic.solitaire#113672:	   Playing regular solitaire is easy and passes time but spider solitaire doesn't work right for the Samsung galaxy s 3 there's no way to deal the cards when you need more. Very disappointing. 
+com.kmagic.solitaire#113686:	   Love this app. Very addictive. Great way to kill a spare few minutes. One slightly annoying feature with Forty thieves. When there is more than one card that can be played, it doesn't let you choose which, and it usually picks the wrong one. Fix this and you have 5 stars. 
+com.kmagic.solitaire#113695:	   On incredible 4g won't let me deal cards during spider :( please fix!! This was my favorite game on my original incredible 
+com.kmagic.solitaire#113702:	   I love this game but unfortunately doesn't work on my new phone. I can't deal cards with this phone. Please fix this problem! 
+com.kmagic.solitaire#113708:	   I LOVED this app on my Galaxy S and Galaxy S2, but now that I have a Galaxy S3, I can't play it anymore because there is no built in search key. Please fix! 5 stars when fixed! 
+com.kmagic.solitaire#113718:	   I can't use this app anymore. No menu button on my new phone. Can't choose between games. Can't change the font size. Can't do anything much. Very bummed. 5 star game if you can use it. EDIT: figured it out. If I hold down the screen button on the right, it opens the game's menu options. Yay! 
+com.kmagic.solitaire#113721:	   I enjoyed using this app on my old phone, but on my new Galaxy S3 there isn't a button to deal so I can't play spider. The other games still work. Please fix? 
+com.kmagic.solitaire#113723:	   Since getting my galaxy ace I can no longer deal cards in spider solitaire, due to my phone's lack of track key or search button. Please please fix this, this app is the best solitaire I've found. 
+com.kmagic.solitaire#113734:	   This game wasn't loading it made it really slow and I couldn't play it 
+com.kmagic.solitaire#113740:	   Why doesn't this offer a way to deal cards while playing Spider while using a tablet? I tried using a mouse as well and nothing happened. It will not deal the cards using the track pad on the keyboard for this tablet either. The track pad works for other applications. Please fix this and I will start using it again. 
+com.kmagic.solitaire#113752:	   Dealing by search key is not working for Jelly bean. For ICS it was working fine. 
+com.kmagic.solitaire#113754:	   I love playing spider. Worked when I had a galaxy S but not now on my S3 :( ... Please fix asap!!! 
+com.kmagic.solitaire#113761:	   They still haven't fixed the deal for the game 
+com.kmagic.solitaire#113768:	   Wonderful app! Never had any issues. 
+com.kmagic.solitaire#113790:	   I love this AP. Its simple and everything u want from a card game, nothing more. But the spider solitare doesn't work. You can play but can't draw. Other games work great. Please fix. Samsung galaxy S2 
+com.kmagic.solitaire#113813:	   I used to spend hours on end on this game. Simple but keeps you entertained. Never had any problems with it until the jelly bean android OS update. I can no longer use the search button to deal the cards as it opens up Google search. Such a shame :( 
+com.kmagic.solitaire#113819:	   Search button doesn't deal out the next set of cards, just opens Google search :( its one of my favorites but is useless without a fix to this. 
+com.kmagic.solitaire#113830:	   Try opening the help menu and scrolling. When it says sanity test failed, exit and reopen the game, and try to solve the in progress game. Enjoy! 
+com.kmagic.solitaire#113839:	   This is a great game, but since I have a new phone I can't play anymore....PLEASE fix the deal button!! Once that is fixed, I will give 5 stars definitely. 
+com.kmagic.solitaire#113864:	   It appearently works perfectly fine but the screen is too small for a Galaxy tab of 8.9 inches. It should fix perfectly for a cellphone but never for a tab. It sucks... 
+com.kmagic.solitaire#113868:	   Loved this on my HTC Desire, however, I can't deal cards with my HTC One X! Please fix!!?? :@( 
+com.kmagic.solitaire#113875:	   Can't move multiple cards in order at once, 
+com.kmagic.solitaire#113876:	   Works great when it is in my home dock. When its not the screen is really small and its basically unusable. Fix and I will give 5 stars 
+com.kmagic.solitaire#113877:	   Can't use on galaxy s because no search button :( to bad because it was a great game on my old droid 
+com.kmagic.solitaire#113882:	   Love it on my galaxy phone but no buttons on the nexus' please fix. 
+com.kmagic.solitaire#113888:	   I have to lose like 4 times to win 1 or 2 games and then lose again. Plz fix or uninstalling!! 
+com.kmagic.solitaire#113892:	   Fun simple game but sadly I can't use it on my HTC One S since I don't have a search button to deal the cards. 
+com.kmagic.solitaire#113901:	   Tapping the search button takes me to SEARCH rather than dealing on spider... how can this be fixed? 
+com.kmagic.solitaire#113915:	   It worked great on my old phone but there is no way to deal out cards on spider solitaire on both the Samsung galaxy s2 and the s3, please fix 
+com.kmagic.solitaire#113924:	   Doesn't work if you don't have a search button. Please Fix!! 
+com.kmagic.solitaire#113928:	   Can't not find how to receive cards from deck in the game spider solitaire. I can play all the other games so I give this game 3 stars. Please fix 
+com.kmagic.solitaire#113931:	   I just did the update to my Google phone and my solitaire doesn't work properly any more! Cant deal the cards! Bummer! Otherwise it WAS good. 
+com.kmagic.solitaire#113935:	   Please add button for deal instead of requiring search button press. Stopped working in jellybean (nexus s) and I have no search button on my Transformer tablet w/o keyboard attached. 
+com.kmagic.solitaire#113944:	   Perfecto ! Never had any problems in past 1yr. 
+com.kmagic.solitaire#113983:	   I can't use slider on my Galaxy S3, as there is no search key or trackball to deal the cards with. 
+com.kmagic.solitaire#113986:	   Would give higher but can't play spider on my nexus so I had to download a spider solitaire game. Fix that and yours will be the only one I play. 
+com.kmagic.solitaire#113999:	   It's a great game if you have a search button like I had on the Galaxy S1. Now I can't play out since the gs3 doesn't have that button. Will update rating to 5 if this gets fixed. 
+com.kmagic.solitaire#114008:	   I loved the simplicity of this game on my old phone. Now u t doesn't work because there is not a search button. 
+com.kmagic.solitaire#114009:	   There is lots of times of me playing this game where nothing happens and it runs smoothly. However, every so often the game freezes or the cards won't move when you drag them. I have to close the game and re-open to continue playing. Would love to see a first update since I dl it a year ago. 
+com.kmagic.solitaire#114015:	   Love this game on my phone, but can't play my favourite Spider on my tab as no way to deal. Please fix!! 
+com.kmagic.solitaire#114024:	   This game is simple and perfect. Has worked on all phones and never any issues. I would give it more stars if I could. GREAT JOB ON THIS GAME!!! 
+com.kmagic.solitaire#114049:	   Simple, free, easy, ad-free. Can't get any better than that. 
+com.kmagic.solitaire#114050:	   Doesn't work- won't deal 
+com.kmagic.solitaire#114062:	   Game was great on my old phone, but I can't play on my new galaxy s iii, because search button is gone. Please fix. 
+com.kmagic.solitaire#114066:	   Loved and used constantly on OG Incredible but can't use on Incredible 4G LTE...no trackpad. Please update. 
+com.kmagic.solitaire#114067:	   Very poor kept crashing . 
+com.kmagic.solitaire#114077:	   Please fix for HTC incredible 4G. Can't play because there's no button to deal. I loved this game on my last phone. 
+com.kmagic.solitaire#114082:	   When the cards are flying to the top, it crashes. Card Games themselves are awesome. 
+com.kmagic.solitaire#114103:	   When I first installed this app it was better. After having to recently reinstall, it no longer keeps my preferred settings and I have to change them every time. It's a pain and I don't like having to reset over and over. Fix that and it gets five stars. 
+com.kmagic.solitaire#114113:	   Game was fun before update. You could win but the UI was borked. Fixed ui, but now frustrating low win/ loss ratio. Uninstalled waste of time game. 
+com.kmagic.solitaire#114119:	   Its ok but could npt change level so please fix 
+com.kmagic.solitaire#114127:	   Gay app doesn't work! 
+com.kmagic.solitaire#114133:	   Get the bugs fixed. 3 different times.my phone.went.into.sleep mode and when i.went to start playing again money all gone. Have.lost over $60,000 fix this. 
+com.kmagic.solitaire#114138:	   I loved this app on my old phone. Please fix it so that I can use it on my new one too. 
+com.kmagic.solitaire#114142:	   Loved this app on my 2.3 android. I got a new HTC One S and the button layout does not work with the app :( 
+com.kmagic.solitaire#114143:	    games, simple to use, never had any problems, not easy to beat though! I like that you can check to see how many times you win/lose and look at your overall average. Download recommended. 
+com.kmagic.solitaire#114145:	   I loved this game on my Captivate but my new phone doesn't have trackball or search button so I can't deal in spider!! Please tell me what I'm doing wrong or please fix 
+com.kmagic.solitaire#114157:	   Can't deal on spider because the  doesn'thave a trackball or search key... Please fix!!! 
+com.kmagic.solitaire#114165:	   Wouldn't let me move part of a stack in solitaire. It would only select the bottom card or the whole stack. Fail. 
+com.kmagic.solitaire#114221:	   This used to be my fave app and I used it daily. Now I have changed from HTC desire to one x, there is no stack to deal from. I have left comment on the developer's forum and also sent an email but have not received a reply. Others on the forum also have the same issue. I have used this app daily for the past 2years on my previous phone and thought it the best spider game out there, but unfortunately had to rate it low due to lack of com's or fix. I would gladly pay for the app if it worked. 
+com.kmagic.solitaire#114237:	   Samsung Galaxy SII Although this has been reported several times by different people it has still not been fixed 
+com.kmagic.solitaire#114247:	   One of my favorite apps. I play it all the time and it always hits the spot. Have to disagree with those who say that the game doesn't allow them to win often enough. My win percentage is around 70%. I don't find it too difficult to win at all. Quite realistic in my opinion. Would be nice if the game included instructions for the other solitaire games. 
+com.kmagic.solitaire#114255:	   Love it! It's great that a simple game doesn't have ads. I don't have the problem with the "Never winning" and I currently have a win % of 69.~% 
+com.kmagic.solitaire#114265:	   Upgraded device and dont have a trackball or search button so I cant play spider. Loved the game when I could play. Please fix. 
+com.kmagic.solitaire#114266:	   Needs to be fixed! Where is the deck of cards to add?? 
+com.kmagic.solitaire#114282:	   Screen does not fill please fix 
+com.kmagic.solitaire#114288:	   Doesn't work with Galaxy Nexus. No trackball, no other buttons, no search soft button. Was great for my nexus one though. 
+com.kmagic.solitaire#114293:	   Hours & hours of entertainment! ;) I play every chance I get, I love it! ;) no mouse, just touch the screen! No coming out ur pocket, ALL free play! No complaints here! ;) 20 stars thx!!! ENJOY!! ;) 
+com.kmagic.solitaire#114312:	   I have installed solitaire twice, i still can't get spider or forty thieves to work, i don't have search ball, all moves r touch screen 
+com.kmagic.solitaire#114323:	   Spider solitaire doesn't work ? Where's the deck ? Help.. 
+com.kmagic.solitaire#114329:	   love the game but i cant play spider solitaire please fix 
+com.kmagic.solitaire#114335:	   can not get  to deal 
+com.kmagic.solitaire#114356:	   But please fix resolution for Samsung galaxy note please please please 
+com.kmagic.solitaire#114357:	   Good app, but needs to be upgraded to handle the new software for Android 4.0 Can't get a new row for spider solitair laid since there's no 'search' button anymore 
+com.kmagic.solitaire#114360:	   Keeps crashing.  when you have over 3000 points 
+com.kmagic.solitaire#114375:	   There is some bugs 
+com.kmagic.solitaire#114381:	   Plays faultlessly and 40 thieves has had me hooked for several months now. Three small suggestions: 1: Add a simple "flip" animation as two consecutive cards of the same suit and value make it look as if the tap hasn't registered 2: add a hi-res option as it looks a bit pixelly on a tablet screen 3: charge for your excellent work! 
+com.kmagic.solitaire#114388:	   Like game never had 1 problem 
+com.kmagic.solitaire#114398:	   I don't know why everybody giving such high ratings. Force close phone, freezes up. Uninstalled! Fix bugs n ill try again. 
+com.kmagic.solitaire#114399:	   I've only played Solitaire so far -- have not yet ventured into the other games -- but I'm already addicted. The game is extremely well done with just one exception: the initial layout. Every initial layout gives me either multiples of the same number, or all the same color. It's not a good random deal. If this one thing can be fixed, I'll easily give the game four stars. 
+com.kmagic.solitaire#114400:	   I have enjoyed this app tremendously. However, lately when I save and close, then come back later my entire game has been cleared. I hate having to start over after building my pot (score) high. Please fix! 
+com.kmagic.solitaire#114411:	   Need a fix to have the display fill the whole screen (doesn't on Note or Tab) 
+com.kmagic.solitaire#114413:	   Works perfectly, never had a problem. 
+com.kmagic.solitaire#114437:	   It gives me an automatic loss sometimes for exiting the app so I can play later. A lot of my losses came from that. Please fix. 
+com.kmagic.solitaire#114445:	   TSR, does not close. Stays running after quitting, please fix. Other than that, it's simple & fun. 
+com.kmagic.solitaire#114446:	   Not only am I totally addicted to playing on my phone, but it NEVER messes up! This ap doesn't force close, freeze, or slow my phone down. And when I quit out, it doesn't run in the background draining my battery. Thank you for an amazing ap. Oh, and no updates which tells me, no errors, glitches, or fixes needed. Love it!! 
+com.kmagic.solitaire#114455:	  Great game. No tech problems at all 
+com.kmagic.solitaire#114457:	   Never have problems <3 Love it! 
+com.kmagic.solitaire#114461:	   Spider solitaire four deck doesn't have additional deck options Which is of no use in playing 
+com.kmagic.solitaire#114464:	   My favorite version. App could probably use an update as this app does not use all the screen on my droid razr maxx. 
